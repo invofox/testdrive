@@ -1,4 +1,79 @@
 {
   "documentType": "BankStatement",
-  "sourceFile": "statement_03_wellsfargo.pdf"
+  "sourceFile": "statement_03_wellsfargo.pdf",
+  "statementPeriodStart": "2025-05-01",
+  "statementPeriodEnd": "2025-05-31",
+  "openingBalance": 14872.33,
+  "closingBalance": 18047.12,
+  "currency": "USD",
+  "accountNumber": "...2259",
+  "iban": null,
+  "routingNumber": "121042882",
+  "accountType": "Way2Save® Savings",
+  "totalCredits": 3160,
+  "totalDebits": 0,
+  "transactions": [
+    {
+      "transactionDate": "2025-05-01",
+      "description": "ONLINE TRANSFER — FROM CHECKING - Wells Fargo Everyday Checking ...8801",
+      "amount": 500,
+      "balance": 15372.33
+    },
+    {
+      "transactionDate": "2025-05-08",
+      "description": "ONLINE TRANSFER — FROM CHECKING - Wells Fargo Everyday Checking ...8801",
+      "amount": 500,
+      "balance": 15872.33
+    },
+    {
+      "transactionDate": "2025-05-12",
+      "description": "ACH CREDIT — DIVIDEND PAYMENT - VANGUARD BROKERAGE SERVICES / VTSMX",
+      "amount": 160,
+      "balance": 16032.33
+    },
+    {
+      "transactionDate": "2025-05-15",
+      "description": "ONLINE TRANSFER — FROM CHECKING - Wells Fargo Everyday Checking ...8801",
+      "amount": 500,
+      "balance": 16532.33
+    },
+    {
+      "transactionDate": "2025-05-19",
+      "description": "ACH CREDIT — TAX REFUND - IRS TREAS 310 / INDIVIDUAL INCOME TAX",
+      "amount": 1000,
+      "balance": 17532.33
+    },
+    {
+      "transactionDate": "2025-05-22",
+      "description": "ONLINE TRANSFER — FROM CHECKING - Wells Fargo Everyday Checking ...8801",
+      "amount": 500,
+      "balance": 18032.33
+    },
+    {
+      "transactionDate": "2025-05-31",
+      "description": "INTEREST PAYMENT - Monthly Interest — APY 1.20%",
+      "amount": 14.79,
+      "balance": 18047.12
+    }
+  ],
+  "bank": {
+    "name": "Wells Fargo Bank, N.A.",
+    "taxId": null,
+    "address": {
+      "country": "US",
+      "postalCode": "94104",
+      "municipality": "San Francisco",
+      "street": "420 Montgomery Street"
+    }
+  },
+  "accountHolder": {
+    "name": "DR. KATHERINE T. NGUYEN",
+    "taxId": null,
+    "address": {
+      "country": "US",
+      "postalCode": "94117",
+      "street": "1492 Sunset Boulevard, Unit 8",
+      "municipality": "San Francisco, CA"
+    }
+  }
 }

@@ -1,4 +1,62 @@
 {
   "documentType": "Form1008",
-  "sourceFile": "document_02_fha_refinance.pdf"
+  "sourceFile": "document_02_fha_refinance.pdf",
+  "submissionDate": "2025-03-22",
+  "loanNumber": "SWM-2024-FHA-04412",
+  "lenderName": "Southwest Mortgage Corp",
+  "lenderAddress": {
+    "street": "3210 E Camelback Road, Suite 400",
+    "municipality": "Phoenix, AZ",
+    "postalCode": "85016",
+    "country": "US"
+  },
+  "loanType": "FHA",
+  "loanPurpose": "Refinance",
+  "loanAmount": 267500,
+  "interestRate": 6.25,
+  "loanTerm": 360,
+  "amortizationType": "Fixed Rate",
+  "ltv": 91.37,
+  "cltv": 91.37,
+  "propertyAddress": {
+    "street": "1847 Sunset Blvd",
+    "municipality": "Phoenix, AZ",
+    "postalCode": "85001",
+    "country": "US"
+  },
+  "propertyType": "Single Family Detached",
+  "occupancy": "Primary Residence",
+  "appraisedValue": 292700,
+  "salesPrice": null,
+  "borrower": {
+    "name": "Sarah L. Martinez",
+    "monthlyIncome": 6420,
+    "monthlyHousingExpense": 1924,
+    "totalMonthlyDebt": 2696,
+    "housingRatio": 29.97,
+    "totalDebtRatio": 42,
+    "liquidAssets": 18750,
+    "creditScore": 698
+  },
+  "coBorrower": {
+    "name": null,
+    "monthlyIncome": null
+  },
+  "underwritingDecision": "Approved with Conditions",
+  "underwriterName": "Carlos A. Rivera",
+  "underwritingDate": "2025-03-22",
+  "conditions": [
+    {
+      "condition": "Provide 2 most recent pay stubs confirming current employment and income. Last pay stub dated more than 30 days prior to submission."
+    },
+    {
+      "condition": "Written explanation for 60-day late payment on existing mortgage (November 2023). Provide letter of explanation signed by borrower."
+    },
+    {
+      "condition": "Clear CAIVRS — verify no outstanding federal debt delinquencies. Current CAIVRS inquiry returned inconclusive."
+    },
+    {
+      "condition": "Satisfactory FHA appraisal review — appraiser to confirm no health/safety issues noted in the property inspection report dated 03/10/2025."
+    }
+  ]
 }

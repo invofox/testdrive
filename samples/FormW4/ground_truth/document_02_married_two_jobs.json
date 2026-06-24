@@ -1,4 +1,26 @@
 {
   "documentType": "FormW4",
-  "sourceFile": "document_02_married_two_jobs.pdf"
+  "sourceFile": "document_02_married_two_jobs.pdf",
+  "taxYear": 2025,
+  "employeeName": "Christopher A. Nakamura",
+  "ssn": "•••-••-4419",
+  "address": [
+    {
+      "street": "218 Oakmont Circle",
+      "municipality": "Denver, CO",
+      "postalCode": "80203",
+      "country": null
+    }
+  ],
+  "filingStatus": "Married Filing Jointly",
+  "multipleJobs": "Yes",
+  "dependentsCredit": 4000,
+  "otherIncome": 1200,
+  "deductionsAmount": 0,
+  "extraWithholding": 205,
+  "exemptStatus": null,
+  "signatureDate": "2025-02-03",
+  "employerName": "Pinnacle Financial Group Inc. · 1700 Lincoln St, Suite 1200, Denver, CO 80203",
+  "employerEIN": "84-1295037",
+  "firstPayDate": "2025-02-10"
 }

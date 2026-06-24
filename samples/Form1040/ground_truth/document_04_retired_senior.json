@@ -1,4 +1,62 @@
 {
   "documentType": "Form1040",
-  "sourceFile": "document_04_retired_senior.pdf"
+  "sourceFile": "document_04_retired_senior.pdf",
+  "formType": "1040-SR",
+  "taxYear": 2024,
+  "filingDate": "2025-03-15",
+  "filingStatus": "Single",
+  "taxpayer": {
+    "name": "Robert W. Carlisle",
+    "ssn": "XXX-XX-5519",
+    "dateOfBirth": "1947-08-30",
+    "occupation": "Retired (Former Electrical Engineer)",
+    "address": {
+      "street": "330 Sunset Palms Boulevard",
+      "municipality": "Sarasota, FL",
+      "postalCode": "34231",
+      "country": "US"
+    }
+  },
+  "spouse": null,
+  "income": {
+    "wages": 0,
+    "taxableInterest": 4820,
+    "qualifiedDividends": 6140,
+    "capitalGains": 0,
+    "otherIncome": 0,
+    "totalIncome": 96034,
+    "adjustments": 0,
+    "adjustedGrossIncome": 96034
+  },
+  "deductions": {
+    "type": "Itemized",
+    "amount": 23150,
+    "qualifiedBusinessIncome": 0
+  },
+  "tax": {
+    "taxableIncome": 72884,
+    "incomeTax": 11628,
+    "alternativeMinimumTax": 0,
+    "totalTax": 11428
+  },
+  "credits": {
+    "childTaxCredit": 0,
+    "educationCredit": null,
+    "earnedIncomeCredit": null,
+    "totalCredits": 200
+  },
+  "payments": {
+    "withheldFederal": 5775,
+    "estimatedTaxPayments": 6000,
+    "totalPayments": 11775
+  },
+  "result": {
+    "refundAmount": 347,
+    "amountOwed": 0
+  },
+  "preparer": {
+    "name": "Margaret D. Sullivan, CPA",
+    "ptin": "P00294516",
+    "firmName": "Gulf Coast Senior Tax Services"
+  }
 }

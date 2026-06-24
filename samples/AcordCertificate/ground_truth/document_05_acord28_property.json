@@ -1,4 +1,51 @@
 {
   "documentType": "AcordCertificate",
-  "sourceFile": "document_05_acord28_property.pdf"
+  "sourceFile": "document_05_acord28_property.pdf",
+  "acordForm": "ACORD 28",
+  "issueDate": "2024-11-01",
+  "producer": {
+    "name": "Continental Commercial Insurance Brokers",
+    "address": {
+      "street": "350 North Orleans Street, Suite 9000",
+      "municipality": "Chicago",
+      "postalCode": "60654",
+      "country": "US"
+    },
+    "phone": "(312) 555-0660",
+    "email": "plindqvist@continentalcib.com",
+    "contactName": "Patricia Lindqvist, CRIS"
+  },
+  "insured": {
+    "name": "Midwest Industrial Holdings, LLC",
+    "address": {
+      "street": "200 West Monroe Street, Suite 1900",
+      "municipality": "Chicago",
+      "postalCode": "60606",
+      "country": "US"
+    }
+  },
+  "coverages": [
+    {
+      "coverageType": "Property",
+      "insurer": "Factory Mutual Insurance Company (FM Global)",
+      "policyNumber": "FM-COM-IL-2024-C93711",
+      "effectiveDate": "2025-01-01",
+      "expirationDate": "2026-01-01",
+      "eachOccurrence": null,
+      "aggregateLimit": 50000000,
+      "additionalInsured": "Y",
+      "waiverOfSubrogation": null
+    }
+  ],
+  "certificateHolder": {
+    "name": "Wells Fargo Commercial Mortgage, LLC",
+    "address": {
+      "street": "800 Walnut Street",
+      "municipality": "Des Moines",
+      "postalCode": "50309",
+      "country": "US"
+    }
+  },
+  "descriptionOfOperations": "This evidence is issued in connection with the commercial mortgage refinancing of the insured property. Certificate holder is listed as loss payee and additional insured per standard mortgage clause. Per policy endorsement FM-END-1107, notice of cancellation or material change will be sent to Mortgagee no less than 30 days prior. Flood sublimit: $5,000,000. Earthquake sublimit: $2,500,000.",
+  "cancellationDays": 30
 }

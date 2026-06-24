@@ -1,4 +1,46 @@
 {
   "documentType": "CreditNote",
-  "sourceFile": "document_05_spanish_credito.pdf"
+  "sourceFile": "document_05_spanish_credito.pdf",
+  "documentNumber": "NC-2025-0033",
+  "issueDate": "2025-06-18",
+  "originalInvoiceRef": "FAC-2025-0148",
+  "reason": "Devolución de mercancía dañada durante el transporte. Expedición ref. EXP-2025-0612 recibida el 10/06/2025 con 12 palés de material cerámico con rotura visible. Se emite la presente nota de crédito previa inspección y aceptación formal de la devolución.",
+  "currency": "EUR",
+  "totalAmount": -660,
+  "totalTaxBaseAmount": -547.11,
+  "totalTaxAmount": -114.89,
+  "supplier": {
+    "name": "Tecnotransport Logística SL",
+    "taxId": "B-46781234",
+    "address": {
+      "country": "ES",
+      "postalCode": "46014",
+      "municipality": "Valencia",
+      "street": "Polígono Industrial Vara de Quart, Nave 7"
+    }
+  },
+  "customer": {
+    "name": "Almacenes García e Hijos SA",
+    "taxId": "A-50221876",
+    "address": {
+      "country": "ES",
+      "postalCode": "50004",
+      "municipality": "Zaragoza",
+      "street": "Calle Compromiso de Caspe, 22"
+    }
+  },
+  "lines": [
+    {
+      "description": "Palé material cerámico — devolución por daños en transporte",
+      "quantity": 12,
+      "unitPrice": -45.83,
+      "amount": -550
+    },
+    {
+      "description": "Gestión logística devolución (flete retorno)",
+      "quantity": 1,
+      "unitPrice": -110,
+      "amount": -110
+    }
+  ]
 }

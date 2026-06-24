@@ -1,4 +1,18 @@
 {
   "documentType": "Passport",
-  "sourceFile": "document_05_mexican_passport.pdf"
+  "sourceFile": "document_05_mexican_passport.pdf",
+  "documentNumber": "G44821930",
+  "issuingCountry": "MX",
+  "issuingAuthority": "Secretaría de Relaciones Exteriores",
+  "issueDate": "2023-01-20",
+  "expiryDate": "2033-01-19",
+  "surname": "GUTIÉRREZ MENDOZA",
+  "givenNames": "ANA LAURA",
+  "dateOfBirth": "1991-02-04",
+  "placeOfBirth": "CIUDAD DE MÉXICO",
+  "nationality": "MEX",
+  "sex": "F",
+  "personalNumber": "GUMA910204MDFTNL07",
+  "mrzLine1": "P<MEXGUTIERREZ<MENDOZA<<ANA<LAURA<<<<<<<<<<<<<<",
+  "mrzLine2": "G44821930<0MEX9102044F3301196GUMA910204<<<<4"
 }

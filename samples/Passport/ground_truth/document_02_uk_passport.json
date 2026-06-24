@@ -1,4 +1,18 @@
 {
   "documentType": "Passport",
-  "sourceFile": "document_02_uk_passport.pdf"
+  "sourceFile": "document_02_uk_passport.pdf",
+  "documentNumber": "208844921",
+  "issuingCountry": "GB",
+  "issuingAuthority": "His Majesty's Passport Office",
+  "issueDate": "2021-01-04",
+  "expiryDate": "2031-01-03",
+  "surname": "ASHWORTH",
+  "givenNames": "EMILY CHARLOTTE",
+  "dateOfBirth": "1988-09-22",
+  "placeOfBirth": "MANCHESTER, GBR",
+  "nationality": "BRITISH CITIZEN",
+  "sex": "F",
+  "personalNumber": null,
+  "mrzLine1": "P<GBRASHWORTH<<EMILY<CHARLOTTE<<<<<<<<<<<<<<<<<<<",
+  "mrzLine2": "208844921<2GBR8809224F3101038<<<<<<<<<<<<<<2"
 }

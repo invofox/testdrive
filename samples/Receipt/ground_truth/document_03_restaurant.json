@@ -1,4 +1,51 @@
 {
   "documentType": "Receipt",
-  "sourceFile": "document_03_restaurant.pdf"
+  "sourceFile": "document_03_restaurant.pdf",
+  "receiptNumber": "CG-NYC-20241220-1847",
+  "issueDate": "2024-12-20",
+  "issueTime": "20:23",
+  "currency": "USD",
+  "subtotalAmount": 260,
+  "taxAmount": 23.08,
+  "taxRate": 8.875,
+  "tipAmount": 52,
+  "totalAmount": 312.8,
+  "paymentMethod": "Credit Card",
+  "merchant": {
+    "name": "The Capital Grille",
+    "phoneNumber": "(212) 246-0154",
+    "address": {
+      "country": "US",
+      "postalCode": "10020",
+      "municipality": "New York",
+      "street": "120 West 51st Street",
+      "raw": "120 West 51st Street, New York, NY 10020"
+    }
+  },
+  "items": [
+    {
+      "description": "Bone-In Kona Crusted NY Strip",
+      "quantity": 2,
+      "unitPrice": 52,
+      "totalAmount": 104
+    },
+    {
+      "description": "Pan-Seared Sea Bass",
+      "quantity": 1,
+      "unitPrice": 46,
+      "totalAmount": 46
+    },
+    {
+      "description": "Lobster Mac & Cheese",
+      "quantity": 1,
+      "unitPrice": 28,
+      "totalAmount": 28
+    },
+    {
+      "description": "Caymus Cabernet Sauvignon 2022",
+      "quantity": 1,
+      "unitPrice": 82,
+      "totalAmount": 82
+    }
+  ]
 }

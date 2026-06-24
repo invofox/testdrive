@@ -1,4 +1,74 @@
 {
   "documentType": "Invoice",
-  "sourceFile": "document_03_german_supplier.pdf"
+  "sourceFile": "document_03_german_supplier.pdf",
+  "documentNumber": "RI-EXP-2024-3317",
+  "issueDate": "2024-11-22",
+  "dueDate": "2024-12-22",
+  "currency": "USD",
+  "totalAmount": 24600,
+  "totalTaxBaseAmount": 24600,
+  "totalTaxAmount": 0,
+  "withholdingTaxRate": null,
+  "withholdingTaxAmount": null,
+  "supplier": {
+    "name": "Reinhardt Industrietechnik GmbH",
+    "taxId": "DE 294 837 165",
+    "email": "export@reinhardt-industrie.de",
+    "phoneNumber": "+49 89 4521 8800",
+    "address": {
+      "street": "Landsberger Straße 302",
+      "municipality": "München",
+      "postalCode": "80687",
+      "country": "DE"
+    }
+  },
+  "customer": {
+    "name": "Cascade Manufacturing Corp",
+    "taxId": "91-3847561",
+    "email": "purchasing@cascademfg.com",
+    "phoneNumber": null,
+    "address": {
+      "street": "1818 Westlake Ave N, Suite 300",
+      "municipality": "Seattle",
+      "postalCode": "98109",
+      "country": "US"
+    }
+  },
+  "lines": [
+    {
+      "description": "Precision CNC Ball Screws — Series BK25",
+      "quantity": 24,
+      "unitPrice": 220,
+      "totalAmount": 5016,
+      "taxRate": 0
+    },
+    {
+      "description": "Linear Guide Rails — Type HGR35",
+      "quantity": 30,
+      "unitPrice": 185,
+      "totalAmount": 5272.5,
+      "taxRate": 0
+    },
+    {
+      "description": "Servo Motor Coupling — Flexible Bellows Type",
+      "quantity": 60,
+      "unitPrice": 68,
+      "totalAmount": 4080,
+      "taxRate": 0
+    },
+    {
+      "description": "International Freight & Handling",
+      "quantity": 1,
+      "unitPrice": 10231.5,
+      "totalAmount": 10231.5,
+      "taxRate": 0
+    }
+  ],
+  "breakdowns": [
+    {
+      "taxRate": 0,
+      "taxBaseAmount": 24600,
+      "taxAmount": 0
+    }
+  ]
 }

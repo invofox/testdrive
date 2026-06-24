@@ -1,4 +1,35 @@
 {
   "documentType": "Form1099",
-  "sourceFile": "document_05_1099r_retirement.pdf"
+  "sourceFile": "document_05_1099r_retirement.pdf",
+  "formVariant": "R",
+  "taxYear": 2024,
+  "corrected": null,
+  "payerName": "Fidelity Investments",
+  "payerTIN": "04-2907797",
+  "payerAddress": {
+    "street": "82 Devonshire Street",
+    "municipality": "Boston, MA",
+    "postalCode": "02109",
+    "country": "US"
+  },
+  "payerPhone": "(800) 555-6262",
+  "recipientName": "Dorothy J. Westbrook",
+  "recipientTIN": "•••-••-9902",
+  "recipientAddress": {
+    "street": "1122 Sunflower Lane",
+    "municipality": "Sarasota, FL",
+    "postalCode": "34231",
+    "country": "US"
+  },
+  "accountNumber": "IRA-****3301",
+  "box1Amount": 38500,
+  "box2Amount": 38500,
+  "box3Amount": null,
+  "box4FederalTax": 7700,
+  "box5Amount": null,
+  "box6Amount": null,
+  "stateCode": "FL",
+  "statePayerTIN": null,
+  "stateIncome": 38500,
+  "stateTax": 0
 }

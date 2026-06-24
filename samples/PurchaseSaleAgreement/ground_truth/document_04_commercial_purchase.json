@@ -1,4 +1,75 @@
 {
   "documentType": "PurchaseSaleAgreement",
-  "sourceFile": "document_04_commercial_purchase.pdf"
+  "sourceFile": "document_04_commercial_purchase.pdf",
+  "agreementDate": "2024-03-14",
+  "status": "Executed",
+  "buyer": {
+    "name": "Meridian Capital Holdings, Inc.",
+    "address": {
+      "street": "980 N. Michigan Avenue, Suite 1400",
+      "municipality": "Chicago",
+      "postalCode": "60611",
+      "country": "US"
+    },
+    "phone": "(312) 555-0392",
+    "email": "cre@meridiancap.com"
+  },
+  "seller": {
+    "name": "Glenwood Properties Trust",
+    "address": {
+      "street": "4700 N. Ravenswood Ave, Suite 200",
+      "municipality": "Chicago",
+      "postalCode": "60640",
+      "country": "US"
+    },
+    "phone": "(773) 555-0158",
+    "email": "glenwood.trust@lawson-llp.com"
+  },
+  "property": {
+    "address": {
+      "street": "7200 W. Irving Park Road",
+      "municipality": "Chicago",
+      "postalCode": "60634",
+      "country": "US"
+    },
+    "legalDescription": "Lot 7 in Block 12 of Irving Park Business Subdivision of the SE 1/4 of Section 12, Township 40 North, Range 13 East of the Third Principal Meridian, Cook County, Illinois, as recorded in Volume 318, Page 44.",
+    "apn": "13-21-401-014-0000",
+    "propertyType": "Commercial"
+  },
+  "purchasePrice": 1250000,
+  "currency": "USD",
+  "earnestMoney": 37500,
+  "earnestMoneyDueDate": "2024-03-19",
+  "earnestMoneyHolder": "Chicago Commercial Escrow Services",
+  "financingContingency": {
+    "enabled": "Yes",
+    "loanAmount": 875000,
+    "loanType": "Conventional Commercial",
+    "interestRate": 6.5,
+    "deadline": "2024-04-18"
+  },
+  "inspectionContingency": {
+    "enabled": "Yes",
+    "deadline": "2024-04-13"
+  },
+  "appraisalContingency": {
+    "enabled": "Yes",
+    "deadline": "2024-04-25"
+  },
+  "closingDate": "2024-05-10",
+  "possessionDate": "2024-05-10",
+  "titleCompany": "Chicago Commercial Escrow Services",
+  "buyerAgent": {
+    "name": "Anthony C. Bianchi",
+    "licenseNumber": "IL-471.016782",
+    "brokerageName": "Inland Commercial Real Estate"
+  },
+  "sellerAgent": {
+    "name": "Samantha R. Kowalczyk",
+    "licenseNumber": "IL-471.028904",
+    "brokerageName": "Midwest Commercial Realty Group"
+  },
+  "includedItems": "All permanently installed fixtures, HVAC systems, electrical panels, plumbing fixtures, parking lot equipment including surveillance cameras and lighting, building signage, and the existing NNN lease with tenant.",
+  "excludedItems": "Tenant's personal property and business fixtures; Seller's owned rooftop telecommunications antenna (lease rights to be assigned to Buyer).",
+  "governingLaw": "State of Illinois"
 }

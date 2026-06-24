@@ -1,4 +1,28 @@
 {
   "documentType": "DriversLicense",
-  "sourceFile": "document_02_florida.pdf"
+  "sourceFile": "document_02_florida.pdf",
+  "licenseNumber": "D-441-829-44-192",
+  "issuingCountry": "US",
+  "issuingState": "FL",
+  "issuingAuthority": "Florida DHSMV",
+  "issueDate": "2023-07-15",
+  "expiryDate": "2027-03-14",
+  "lastName": "CASTILLO",
+  "firstName": "MARIA",
+  "middleName": "ELENA",
+  "dateOfBirth": "1990-03-14",
+  "sex": "F",
+  "height": "5-05",
+  "eyeColor": "BRN",
+  "hairColor": null,
+  "vehicleCategories": "E",
+  "restrictions": "NONE",
+  "endorsements": "NONE",
+  "address": {
+    "raw": "2210 Coral Way, Miami, FL 33145",
+    "country": "US",
+    "postalCode": "33145",
+    "municipality": "Miami",
+    "street": "2210 Coral Way"
+  }
 }

@@ -1,4 +1,87 @@
 {
   "documentType": "LoanApplication",
-  "sourceFile": "document_01_conventional_purchase.pdf"
+  "sourceFile": "document_01_conventional_purchase.pdf",
+  "loanAmount": 396000,
+  "loanPurpose": "Purchase",
+  "loanType": "Conventional",
+  "interestRateType": "Fixed",
+  "loanTerm": "30 Year",
+  "applicationDate": "2025-03-15",
+  "amortizationType": "Fixed Rate",
+  "property": {
+    "address": "2847 Elmwood Ave",
+    "city": "Naperville",
+    "state": "IL",
+    "zipCode": "60540",
+    "estimatedValue": 495000,
+    "propertyType": "Single Family",
+    "propertyUse": "Primary Residence"
+  },
+  "borrower": {
+    "fullName": "Michael James Donovan",
+    "ssn": "***-**-4812",
+    "dateOfBirth": "1983-07-22",
+    "maritalStatus": "Married",
+    "dependents": 2,
+    "phone": "(312) 555-7841",
+    "email": "m.donovan@email.com",
+    "yearsAtCurrentAddress": 4,
+    "currentAddress": {
+      "raw": "1428 Maple Court, Chicago, IL 60614",
+      "country": "US",
+      "postalCode": "60614",
+      "municipality": "Chicago",
+      "street": "1428 Maple Court"
+    }
+  },
+  "coborrower": {
+    "fullName": "Sarah Elizabeth Donovan",
+    "ssn": "***-**-7293",
+    "dateOfBirth": "1986-11-08",
+    "maritalStatus": "Married",
+    "phone": "(312) 555-9023",
+    "email": "s.donovan@email.com"
+  },
+  "employment": {
+    "employerName": "Apex Financial Services",
+    "employerAddress": "233 S. Wacker Dr., Suite 1200, Chicago, IL 60606",
+    "position": "Senior Financial Analyst",
+    "startDate": "2019-01-10",
+    "yearsEmployed": 6,
+    "isSelfEmployed": "No",
+    "monthlyBaseSalary": 12400,
+    "monthlyOvertimeIncome": 600,
+    "monthlyBonusIncome": 1000,
+    "monthlyOtherIncome": 0,
+    "totalMonthlyIncome": 14000
+  },
+  "coborrowerEmployment": {
+    "employerName": "Hartfield Medical Group",
+    "position": "Registered Nurse, RN",
+    "monthlyBaseSalary": 8200,
+    "totalMonthlyIncome": 8800
+  },
+  "assets": {
+    "checkingBalance": 28500,
+    "savingsBalance": 74000,
+    "retirementBalance": 182000,
+    "otherAssetsValue": 21000,
+    "totalAssets": 305500
+  },
+  "liabilities": {
+    "monthlyRentMortgage": 2100,
+    "monthlyCarPayments": 680,
+    "monthlyMinCreditCard": 210,
+    "monthlyStudentLoans": 320,
+    "monthlyOtherDebts": 0,
+    "totalMonthlyDebt": 3310,
+    "totalLiabilities": 48200
+  },
+  "declarations": {
+    "hasBankruptcy": "No",
+    "hasForeclosure": "No",
+    "hasLawsuit": "No",
+    "hasDelinquentDebt": "No",
+    "isUSCitizen": "Yes"
+  }
 }

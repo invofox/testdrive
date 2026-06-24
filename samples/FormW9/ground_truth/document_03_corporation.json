@@ -1,4 +1,21 @@
 {
   "documentType": "FormW9",
-  "sourceFile": "document_03_corporation.pdf"
+  "sourceFile": "document_03_corporation.pdf",
+  "taxpayerName": "Northgate Technology Solutions, Inc.",
+  "businessName": "NTS Group",
+  "federalTaxClassification": "C corporation",
+  "llcTaxClassification": null,
+  "exemptPayeeCode": "5",
+  "fatcaExemptionCode": null,
+  "address": {
+    "street": "1 Innovation Plaza, Suite 3500",
+    "municipality": "Seattle, WA",
+    "postalCode": "98101",
+    "country": "US"
+  },
+  "accountNumbers": "ACCT-NTS-0042",
+  "tinType": "EIN",
+  "tin": "91-2048375",
+  "certificationDate": "2024-07-01",
+  "requesterName": "MidWest Procurement LLC"
 }

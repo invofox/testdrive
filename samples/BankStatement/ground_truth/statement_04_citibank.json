@@ -1,4 +1,127 @@
 {
   "documentType": "BankStatement",
-  "sourceFile": "statement_04_citibank.pdf"
+  "sourceFile": "statement_04_citibank.pdf",
+  "statementPeriodStart": "2025-02-01",
+  "statementPeriodEnd": "2025-02-28",
+  "openingBalance": 2104.82,
+  "closingBalance": 2817.44,
+  "currency": "USD",
+  "accountNumber": "...5503",
+  "iban": null,
+  "routingNumber": "271070801",
+  "accountType": "Citi Priority Checking",
+  "totalCredits": 5620,
+  "totalDebits": 4907.38,
+  "transactions": [
+    {
+      "transactionDate": "2025-02-03",
+      "description": "ACH CREDIT — DIRECT DEPOSIT - COOK COUNTY HEALTH SYSTEM / PAYROLL",
+      "amount": 2810,
+      "balance": 4914.82
+    },
+    {
+      "transactionDate": "2025-02-04",
+      "description": "DEBIT CARD — PURCHASE - JEWEL-OSCO #3472 — CHICAGO IL",
+      "amount": -93.44,
+      "balance": 4821.38
+    },
+    {
+      "transactionDate": "2025-02-05",
+      "description": "BILL PAY — PEOPLES GAS - Acct: 7700139042 / FEBRUARY BILL",
+      "amount": -78,
+      "balance": 4743.38
+    },
+    {
+      "transactionDate": "2025-02-07",
+      "description": "CHECK #0418 — PAID - LINCOLN PARK PROPERTIES — RENT FEB",
+      "amount": -1350,
+      "balance": 3393.38
+    },
+    {
+      "transactionDate": "2025-02-10",
+      "description": "DEBIT CARD — PURCHASE - BINNY'S BEVERAGE DEPOT — CHICAGO IL",
+      "amount": -44.17,
+      "balance": 3349.21
+    },
+    {
+      "transactionDate": "2025-02-13",
+      "description": "ACH DEBIT — STUDENT LOAN - NELNET SERVICER / LOAN #4882019",
+      "amount": -312,
+      "balance": 3037.21
+    },
+    {
+      "transactionDate": "2025-02-14",
+      "description": "DEBIT CARD — PURCHASE - EATALY CHICAGO — CHICAGO IL",
+      "amount": -67.82,
+      "balance": 2969.39
+    },
+    {
+      "transactionDate": "2025-02-15",
+      "description": "DEBIT CARD — PURCHASE - CHICAGO TRANSIT AUTHORITY — MONTHLY PASS",
+      "amount": -105,
+      "balance": 2864.39
+    },
+    {
+      "transactionDate": "2025-02-17",
+      "description": "ACH CREDIT — DIRECT DEPOSIT - COOK COUNTY HEALTH SYSTEM / PAYROLL",
+      "amount": 2810,
+      "balance": 5674.39
+    },
+    {
+      "transactionDate": "2025-02-19",
+      "description": "ONLINE TRANSFER — TO SAVINGS - Citi Savings Account ...8819",
+      "amount": -1500,
+      "balance": 4174.39
+    },
+    {
+      "transactionDate": "2025-02-21",
+      "description": "DEBIT CARD — PURCHASE - AMAZON.COM — SEATTLE WA",
+      "amount": -84.95,
+      "balance": 4089.44
+    },
+    {
+      "transactionDate": "2025-02-24",
+      "description": "ACH DEBIT — AUTO INSURANCE - STATE FARM INSURANCE / POLICY #LK4421",
+      "amount": -136,
+      "balance": 3953.44
+    },
+    {
+      "transactionDate": "2025-02-25",
+      "description": "DEBIT CARD — PURCHASE - WHOLE FOODS MARKET — LINCOLN PARK IL",
+      "amount": -136,
+      "balance": 3817.44
+    },
+    {
+      "transactionDate": "2025-02-28",
+      "description": "ACH DEBIT — SPOTIFY USA - MONTHLY SUBSCRIPTION",
+      "amount": -11.99,
+      "balance": 3805.45
+    },
+    {
+      "transactionDate": "2025-02-28",
+      "description": "SERVICE FEE WAIVER - Citi Priority — Balance Requirement Met",
+      "amount": -988.01,
+      "balance": 2817.44
+    }
+  ],
+  "bank": {
+    "name": "Citibank, N.A.",
+    "taxId": null,
+    "address": {
+      "country": "US",
+      "postalCode": "10013",
+      "municipality": "New York",
+      "street": "388 Greenwich Street"
+    }
+  },
+  "accountHolder": {
+    "name": "TYLER J. WASHINGTON",
+    "taxId": null,
+    "address": {
+      "country": "US",
+      "postalCode": "60660",
+      "street": "5720 N Michigan Ave, Apt 12C",
+      "municipality": "Chicago, IL"
+    }
+  }
 }

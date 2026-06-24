@@ -1,4 +1,92 @@
 {
   "documentType": "PurchaseOrder",
-  "sourceFile": "document_05_spanish.pdf"
+  "sourceFile": "document_05_spanish.pdf",
+  "poNumber": "PO-2025-4491",
+  "issueDate": "2025-03-10",
+  "deliveryDate": "2025-03-25",
+  "currency": "EUR",
+  "totalAmount": 8740,
+  "paymentTerms": "60 días fecha factura",
+  "deliveryTerms": "DDP Madrid",
+  "notes": "Confirmar la recepción de esta orden en un plazo máximo de 24 horas hábiles. No se aceptarán sustituciones sin aprobación escrita previa. Los albaranes de entrega deben referenciar el número PO-2025-4491. Cada unidad de paletización debe incluir etiqueta con referencia de artículo y fecha de caducidad. Esta orden de compra se rige por la legislación española y las Condiciones Generales de Compra de Supermercados Rodríguez SA.",
+  "buyer": {
+    "name": "Supermercados Rodríguez SA",
+    "taxId": "A-28447812",
+    "contactName": "Lucía Fernández Alcántara",
+    "email": "l.fernandez@supermercadosrodriguez.es",
+    "address": {
+      "country": "ES",
+      "postalCode": "28013",
+      "municipality": "Madrid",
+      "street": "Calle Gran Vía 42, Planta 8",
+      "raw": "Calle Gran Vía 42, Planta 8, 28013 Madrid, España"
+    }
+  },
+  "supplier": {
+    "name": "Lácteos del Norte SL",
+    "taxId": "B-33204671",
+    "contactName": "Alberto Menéndez Crespo",
+    "email": "a.menendez@lacteoselnorte.es",
+    "address": {
+      "country": "ES",
+      "postalCode": "33010",
+      "municipality": "Oviedo",
+      "street": "Polígono Industrial El Espíritu Santo, Nave 7",
+      "raw": "Polígono Industrial El Espíritu Santo, Nave 7, 33010 Oviedo, España"
+    }
+  },
+  "deliveryAddress": {
+    "country": "ES",
+    "postalCode": "28940",
+    "municipality": "Fuenlabrada",
+    "street": "Calle de la Industria 18, Polígono Cobo Calleja",
+    "raw": "Supermercados Rodríguez SA — Centro Logístico Sur, Calle de la Industria 18, Polígono Cobo Calleja, 28940 Fuenlabrada, Madrid, España"
+  },
+  "lines": [
+    {
+      "lineNumber": "1",
+      "partNumber": "LDN-LCHE-E",
+      "description": "Leche Entera Pasteurizada — botella de 1 litro, marca propia \"Lácteos Norte\", caja de 12 unidades",
+      "quantity": 400,
+      "unitOfMeasure": "CAJA",
+      "unitPrice": 7.2,
+      "totalAmount": 2880
+    },
+    {
+      "lineNumber": "2",
+      "partNumber": "LDN-YOGS-N",
+      "description": "Yogur Natural Azucarado — pack de 4 × 125 g, tarro de cristal, caja de 6 packs",
+      "quantity": 300,
+      "unitOfMeasure": "CAJA",
+      "unitPrice": 5.4,
+      "totalAmount": 1620
+    },
+    {
+      "lineNumber": "3",
+      "partNumber": "LDN-QESO-T",
+      "description": "Queso Tierno Semicurado — pieza entera aprox. 1,8 kg, D.O. Asturias, sin corteza artificial",
+      "quantity": 80,
+      "unitOfMeasure": "PIEZA",
+      "unitPrice": 14.5,
+      "totalAmount": 1160
+    },
+    {
+      "lineNumber": "4",
+      "partNumber": "LDN-NATA-M",
+      "description": "Nata para Montar 35% M.G. — envase de 500 ml, caja de 12 unidades, uso profesional",
+      "quantity": 200,
+      "unitOfMeasure": "CAJA",
+      "unitPrice": 10.2,
+      "totalAmount": 2040
+    },
+    {
+      "lineNumber": "5",
+      "partNumber": "LDN-MANT-S",
+      "description": "Mantequilla Sin Sal — barra 250 g, calidad superior, caja de 20 unidades",
+      "quantity": 52,
+      "unitOfMeasure": "CAJA",
+      "unitPrice": 20,
+      "totalAmount": 1040
+    }
+  ]
 }

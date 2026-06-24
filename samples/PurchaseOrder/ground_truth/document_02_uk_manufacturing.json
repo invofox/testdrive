@@ -1,4 +1,83 @@
 {
   "documentType": "PurchaseOrder",
-  "sourceFile": "document_02_uk_manufacturing.pdf"
+  "sourceFile": "document_02_uk_manufacturing.pdf",
+  "poNumber": "PO/2025/4421",
+  "issueDate": "2025-05-14",
+  "deliveryDate": "2025-06-11",
+  "currency": "GBP",
+  "totalAmount": 18900,
+  "paymentTerms": "Net 45",
+  "deliveryTerms": "DDP Sheffield",
+  "notes": "Please acknowledge this Purchase Order within 48 hours. Delivery must be arranged with our Stores Manager (ext. 42) at least 24 hours in advance. All bundles must be tagged with the PO number and part reference. Short deliveries must be advised immediately in writing. This order is governed by English law. Blackwood Engineering Ltd's standard Terms & Conditions of Purchase apply.",
+  "buyer": {
+    "name": "Blackwood Engineering Ltd",
+    "taxId": "GB 182 3347 21",
+    "contactName": "James Hargreaves",
+    "email": "j.hargreaves@blackwoodeng.co.uk",
+    "address": {
+      "country": "GB",
+      "postalCode": "S9 1XU",
+      "municipality": "Sheffield",
+      "street": "Unit 14, Tinsley Industrial Park",
+      "raw": "Unit 14, Tinsley Industrial Park, Sheffield, S9 1XU, UK"
+    }
+  },
+  "supplier": {
+    "name": "Precision Metals Europe GmbH",
+    "taxId": "DE 298 441 178",
+    "contactName": "Klaus-Dieter Brandt",
+    "email": "kd.brandt@precision-metals.eu",
+    "address": {
+      "country": "DE",
+      "postalCode": "40549",
+      "municipality": "Düsseldorf",
+      "street": "Hansaallee 321",
+      "raw": "Hansaallee 321, 40549 Düsseldorf, Germany"
+    }
+  },
+  "deliveryAddress": {
+    "country": "GB",
+    "postalCode": "S9 1XU",
+    "municipality": "Sheffield",
+    "street": "Unit 14, Tinsley Industrial Park",
+    "raw": "Blackwood Engineering Ltd — Goods Inward Bay 3, Unit 14, Tinsley Industrial Park, Sheffield, S9 1XU, United Kingdom"
+  },
+  "lines": [
+    {
+      "lineNumber": "1",
+      "partNumber": "PME-S275-20R",
+      "description": "Structural Steel Plate S275JR — 20mm thickness, 2000×1000mm, mill-certified, EN 10025-2",
+      "quantity": 40,
+      "unitOfMeasure": "EA",
+      "unitPrice": 187.5,
+      "totalAmount": 7500
+    },
+    {
+      "lineNumber": "2",
+      "partNumber": "PME-HRC-10",
+      "description": "Hot Rolled Coil — Grade S355 — 10mm, 1500mm wide, coil weight approx. 8 tonnes, EN 10025-2",
+      "quantity": 2,
+      "unitOfMeasure": "COIL",
+      "unitPrice": 3200,
+      "totalAmount": 6400
+    },
+    {
+      "lineNumber": "3",
+      "partNumber": "PME-SHS-100",
+      "description": "Square Hollow Section 100×100×5mm — Grade S275, length 6m, EN 10219-1",
+      "quantity": 50,
+      "unitOfMeasure": "LEN",
+      "unitPrice": 38,
+      "totalAmount": 1900
+    },
+    {
+      "lineNumber": "4",
+      "partNumber": "PME-CRC-2B",
+      "description": "Cold Rolled Strip — 2B Finish — 1.5mm ×600mm, stainless 304, coil, EN 10088-2",
+      "quantity": 3,
+      "unitOfMeasure": "COIL",
+      "unitPrice": 1033.33,
+      "totalAmount": 3100
+    }
+  ]
 }

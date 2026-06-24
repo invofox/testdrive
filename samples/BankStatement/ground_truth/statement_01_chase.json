@@ -1,4 +1,187 @@
 {
   "documentType": "BankStatement",
-  "sourceFile": "statement_01_chase.pdf"
+  "sourceFile": "statement_01_chase.pdf",
+  "statementPeriodStart": "2025-04-01",
+  "statementPeriodEnd": "2025-04-30",
+  "openingBalance": 3418.77,
+  "closingBalance": 4231.09,
+  "currency": "USD",
+  "accountNumber": "...4892",
+  "iban": null,
+  "routingNumber": "021000021",
+  "accountType": "Chase Total Checking®",
+  "totalCredits": 8540,
+  "totalDebits": 7727.68,
+  "transactions": [
+    {
+      "transactionDate": "2025-04-01",
+      "description": "ACH CREDIT — DIRECT DEPOSIT - CONSOLIDATED METRO SERVICES / PAYROLL",
+      "amount": 2840,
+      "balance": 6258.77
+    },
+    {
+      "transactionDate": "2025-04-02",
+      "description": "ONLINE TRANSFER TO SAVINGS ...7204",
+      "amount": -500,
+      "balance": 5758.77
+    },
+    {
+      "transactionDate": "2025-04-03",
+      "description": "DEBIT CARD PURCHASE - WHOLE FOODS MARKET #0792 — BRONX NY",
+      "amount": -87.43,
+      "balance": 5671.34
+    },
+    {
+      "transactionDate": "2025-04-04",
+      "description": "BILL PAY — CONSOLIDATED EDISON - Acct Reference: 7820091-NY",
+      "amount": -124.18,
+      "balance": 5547.16
+    },
+    {
+      "transactionDate": "2025-04-05",
+      "description": "CHECK #1204 — PAID",
+      "amount": -1450,
+      "balance": 4097.16
+    },
+    {
+      "transactionDate": "2025-04-07",
+      "description": "DEBIT CARD PURCHASE - SHELL OIL #0034829 — BRONX NY",
+      "amount": -58.22,
+      "balance": 4038.94
+    },
+    {
+      "transactionDate": "2025-04-08",
+      "description": "DEBIT CARD PURCHASE - NETFLIX.COM — LOS GATOS CA",
+      "amount": -17.99,
+      "balance": 4020.95
+    },
+    {
+      "transactionDate": "2025-04-09",
+      "description": "ACH DEBIT — PROGRESSIVE INSURANCE - AUTO PREMIUM / MONTHLY",
+      "amount": -142.6,
+      "balance": 3878.35
+    },
+    {
+      "transactionDate": "2025-04-10",
+      "description": "DEBIT CARD PURCHASE - TARGET STORE T-2184 — YONKERS NY",
+      "amount": -63.47,
+      "balance": 3814.88
+    },
+    {
+      "transactionDate": "2025-04-11",
+      "description": "ATM WITHDRAWAL - CHASE ATM — 2340 JEROME AVE BRONX NY",
+      "amount": -200,
+      "balance": 3614.88
+    },
+    {
+      "transactionDate": "2025-04-14",
+      "description": "DEBIT CARD PURCHASE - COSTCO WHOLESALE #0627 — YONKERS NY",
+      "amount": -211.85,
+      "balance": 3403.03
+    },
+    {
+      "transactionDate": "2025-04-15",
+      "description": "ACH CREDIT — DIRECT DEPOSIT - CONSOLIDATED METRO SERVICES / PAYROLL",
+      "amount": 2840,
+      "balance": 6243.03
+    },
+    {
+      "transactionDate": "2025-04-16",
+      "description": "BILL PAY — T-MOBILE USA - Acct Reference: 8832019-TMO",
+      "amount": -98,
+      "balance": 6145.03
+    },
+    {
+      "transactionDate": "2025-04-17",
+      "description": "DEBIT CARD PURCHASE - CVS/PHARMACY #7043 — BRONX NY",
+      "amount": -34.12,
+      "balance": 6110.91
+    },
+    {
+      "transactionDate": "2025-04-18",
+      "description": "DEBIT CARD PURCHASE - AMAZON.COM — SEATTLE WA",
+      "amount": -129.99,
+      "balance": 5980.92
+    },
+    {
+      "transactionDate": "2025-04-19",
+      "description": "ONLINE TRANSFER TO SAVINGS ...7204",
+      "amount": -400,
+      "balance": 5580.92
+    },
+    {
+      "transactionDate": "2025-04-21",
+      "description": "DEBIT CARD PURCHASE - TRADER JOE'S #663 — MANHATTAN NY",
+      "amount": -76.34,
+      "balance": 5504.58
+    },
+    {
+      "transactionDate": "2025-04-22",
+      "description": "ACH DEBIT — NYSERDA / VERIZON FIOS - INTERNET SERVICE — MONTHLY",
+      "amount": -59.99,
+      "balance": 5444.59
+    },
+    {
+      "transactionDate": "2025-04-23",
+      "description": "DEBIT CARD PURCHASE - SHAKE SHACK #0148 — BRONX NY",
+      "amount": -28.45,
+      "balance": 5416.14
+    },
+    {
+      "transactionDate": "2025-04-25",
+      "description": "ATM WITHDRAWAL - CHASE ATM — 4100 BROADWAY MANHATTAN NY",
+      "amount": -300,
+      "balance": 5116.14
+    },
+    {
+      "transactionDate": "2025-04-26",
+      "description": "DEBIT CARD PURCHASE - HOME DEPOT #6318 — YONKERS NY",
+      "amount": -182.65,
+      "balance": 4933.49
+    },
+    {
+      "transactionDate": "2025-04-28",
+      "description": "ACH CREDIT — VENMO INC - PERSONAL TRANSFER — DANIEL BRENNAN",
+      "amount": 860,
+      "balance": 5793.49
+    },
+    {
+      "transactionDate": "2025-04-29",
+      "description": "BILL PAY — NATIONAL GRID - GAS SERVICE / Acct: 19204-8810",
+      "amount": -88,
+      "balance": 5705.49
+    },
+    {
+      "transactionDate": "2025-04-29",
+      "description": "DEBIT CARD PURCHASE - WALGREENS #10293 — BRONX NY",
+      "amount": -21.74,
+      "balance": 5683.75
+    },
+    {
+      "transactionDate": "2025-04-30",
+      "description": "ACH DEBIT — CHASE MORTGAGE - LOAN #0044-2187-9 — MONTHLY PAYMENT",
+      "amount": -1452.66,
+      "balance": 4231.09
+    }
+  ],
+  "bank": {
+    "name": "JPMorgan Chase Bank, N.A.",
+    "taxId": null,
+    "address": {
+      "country": "US",
+      "postalCode": "78265-9754",
+      "municipality": "San Antonio",
+      "street": "P.O. Box 659754"
+    }
+  },
+  "accountHolder": {
+    "name": "JENNIFER A & MICHAEL R BRENNAN",
+    "taxId": null,
+    "address": {
+      "country": "US",
+      "postalCode": "10463",
+      "street": "2847 Riverside Drive, Apt 4B",
+      "municipality": "Bronx, NY"
+    }
+  }
 }

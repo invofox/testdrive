@@ -1,4 +1,137 @@
 {
   "documentType": "PurchaseOrder",
-  "sourceFile": "document_01_retail_chain.pdf"
+  "sourceFile": "document_01_retail_chain.pdf",
+  "poNumber": "PO-2025-08841",
+  "issueDate": "2025-06-03",
+  "deliveryDate": "2025-06-18",
+  "currency": "USD",
+  "totalAmount": 34620,
+  "paymentTerms": "Net 30",
+  "deliveryTerms": "FOB Destination",
+  "notes": "Please confirm receipt of this PO within 2 business days. Substitutions are not permitted without prior written approval from the Procurement Manager. All products must meet FDA food safety requirements and carry valid Certificate of Analysis where applicable. Invoices must reference PO-2025-08841. Partial shipments require advance notification.",
+  "buyer": {
+    "name": "Greenfield Retail Corp",
+    "taxId": "41-1987654",
+    "contactName": "Patricia Moreno",
+    "email": "p.moreno@greenfieldretail.com",
+    "address": {
+      "country": "US",
+      "postalCode": "55402",
+      "municipality": "Minneapolis",
+      "street": "801 Nicollet Mall, Suite 1200",
+      "raw": "801 Nicollet Mall, Suite 1200, Minneapolis, MN 55402, United States"
+    }
+  },
+  "supplier": {
+    "name": "Summit Foods Distributors Inc",
+    "taxId": "42-3201876",
+    "contactName": "David Keller",
+    "email": "d.keller@summitfoods.com",
+    "address": {
+      "country": "US",
+      "postalCode": "50317",
+      "municipality": "Des Moines",
+      "street": "4200 East Grand Avenue, Unit 7",
+      "raw": "4200 East Grand Avenue, Unit 7, Des Moines, IA 50317, United States"
+    }
+  },
+  "deliveryAddress": {
+    "country": "US",
+    "postalCode": "55434",
+    "municipality": "Blaine",
+    "street": "9140 Highway 65 NE",
+    "raw": "Greenfield Retail Corp — Distribution Center North, 9140 Highway 65 NE, Blaine, MN 55434, United States"
+  },
+  "lines": [
+    {
+      "lineNumber": "1",
+      "partNumber": "SFD-30110",
+      "description": "Organic Whole Grain Oats — 50 lb bulk bags, certified organic, USDA Grade A",
+      "quantity": 120,
+      "unitOfMeasure": "BAG",
+      "unitPrice": 42,
+      "totalAmount": 5040
+    },
+    {
+      "lineNumber": "2",
+      "partNumber": "SFD-44220",
+      "description": "Canned Black Beans — 14.5 oz, case of 24 units, low-sodium variety",
+      "quantity": 400,
+      "unitOfMeasure": "CASE",
+      "unitPrice": 18.75,
+      "totalAmount": 7500
+    },
+    {
+      "lineNumber": "3",
+      "partNumber": "SFD-51300",
+      "description": "Extra Virgin Olive Oil — 1 liter bottles, cold-pressed, case of 12",
+      "quantity": 250,
+      "unitOfMeasure": "CASE",
+      "unitPrice": 31.2,
+      "totalAmount": 7800
+    },
+    {
+      "lineNumber": "4",
+      "partNumber": "SFD-62080",
+      "description": "Long Grain White Rice — 25 lb bags, parboiled, food service grade",
+      "quantity": 180,
+      "unitOfMeasure": "BAG",
+      "unitPrice": 22.5,
+      "totalAmount": 4050
+    },
+    {
+      "lineNumber": "5",
+      "partNumber": "SFD-77401",
+      "description": "Dried Pasta Assortment — spaghetti, penne, rigatoni; 2 lb bags, case of 20",
+      "quantity": 300,
+      "unitOfMeasure": "CASE",
+      "unitPrice": 16.8,
+      "totalAmount": 5040
+    },
+    {
+      "lineNumber": "6",
+      "partNumber": "SFD-83510",
+      "description": "Sunflower Cooking Oil — 5 liter jugs, refined, case of 4",
+      "quantity": 140,
+      "unitOfMeasure": "CASE",
+      "unitPrice": 28.4,
+      "totalAmount": 3976
+    },
+    {
+      "lineNumber": "7",
+      "partNumber": "SFD-91020",
+      "description": "Tomato Sauce — San Marzano Style — 28 oz cans, case of 12",
+      "quantity": 160,
+      "unitOfMeasure": "CASE",
+      "unitPrice": 24,
+      "totalAmount": 3840
+    },
+    {
+      "lineNumber": "8",
+      "partNumber": "SFD-10540",
+      "description": "Raw Honey — Wildflower Blend — 3 lb jars, case of 8, no added sugars",
+      "quantity": 90,
+      "unitOfMeasure": "CASE",
+      "unitPrice": 58.5,
+      "totalAmount": 5265
+    },
+    {
+      "lineNumber": "9",
+      "partNumber": "SFD-11880",
+      "description": "Granola Bars — Mixed Variety Pack — case of 48, individually wrapped",
+      "quantity": 55,
+      "unitOfMeasure": "CASE",
+      "unitPrice": 38,
+      "totalAmount": 2090
+    },
+    {
+      "lineNumber": "10",
+      "partNumber": "SFD-13610",
+      "description": "Chickpeas — Dry Roasted, Salted — 1 kg bags, resealable, case of 12",
+      "quantity": 10,
+      "unitOfMeasure": "CASE",
+      "unitPrice": 19.9,
+      "totalAmount": 199
+    }
+  ]
 }

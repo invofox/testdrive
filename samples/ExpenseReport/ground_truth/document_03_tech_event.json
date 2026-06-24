@@ -1,4 +1,149 @@
 {
   "documentType": "ExpenseReport",
-  "sourceFile": "document_03_tech_event.pdf"
+  "sourceFile": "document_03_tech_event.pdf",
+  "reportNumber": "VSI-EXP-2025-0781",
+  "reportDate": "2025-05-20",
+  "periodStart": "2025-05-06",
+  "periodEnd": "2025-05-09",
+  "currency": "USD",
+  "totalAmount": 4192.4,
+  "approvedAmount": 4192.4,
+  "status": "Submitted",
+  "purpose": "SaaS Summit 2025 attendance",
+  "employee": {
+    "name": "Priya Raghunathan",
+    "employeeId": "PM-0071",
+    "position": "Product Manager",
+    "department": "Product & Strategy",
+    "email": "p.raghunathan@vertexsystems.io"
+  },
+  "employer": {
+    "name": "Vertex Systems Inc",
+    "address": {
+      "country": "US",
+      "postalCode": "78759",
+      "municipality": "Austin",
+      "street": "9200 N Capital of Texas Hwy, Suite 500",
+      "raw": "9200 N Capital of Texas Hwy, Suite 500, Austin, TX 78759, United States"
+    }
+  },
+  "expenses": [
+    {
+      "expenseDate": "2025-05-06",
+      "category": "Registration",
+      "description": "SaaS Summit 2025 — Full conference pass",
+      "merchant": "SaaS Summit Events LLC",
+      "amount": 1295,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-05-05",
+      "category": "Travel",
+      "description": "Round-trip flight AUS–JFK (economy, advance purchase)",
+      "merchant": "Delta Air Lines",
+      "amount": 524,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-05-05",
+      "category": "Travel",
+      "description": "AirTrain + subway from JFK to Midtown Manhattan",
+      "merchant": "MTA / JFK AirTrain",
+      "amount": 10.75,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-05-05",
+      "category": "Accommodation",
+      "description": "Hotel — 3 nights (Mon–Thu) near Javits Center",
+      "merchant": "Marriott Marquis Times Square",
+      "amount": 1482,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-05-05",
+      "category": "Meals",
+      "description": "Dinner (solo) — arrival day",
+      "merchant": "Virgil's Real BBQ",
+      "amount": 48.2,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-05-06",
+      "category": "Meals",
+      "description": "Breakfast",
+      "merchant": "Joe Coffee Company",
+      "amount": 19.5,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-05-06",
+      "category": "Meals",
+      "description": "Lunch (conference — informal networking lunch)",
+      "merchant": "Conference Catering / Javits",
+      "amount": 42,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-05-06",
+      "category": "Meals",
+      "description": "Dinner with prospects (3 persons)",
+      "merchant": "Eataly NYC Downtown",
+      "amount": 214.8,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-05-07",
+      "category": "Meals",
+      "description": "Breakfast",
+      "merchant": "Starbucks Reserve",
+      "amount": 16.8,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-05-07",
+      "category": "Meals",
+      "description": "Lunch — Product Leaders Roundtable (hosted)",
+      "merchant": "Per Se (private dining)",
+      "amount": 318.35,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-05-08",
+      "category": "Meals",
+      "description": "Breakfast (solo)",
+      "merchant": "Bluestone Lane",
+      "amount": 21,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-05-08",
+      "category": "Travel",
+      "description": "Uber to JFK Airport",
+      "merchant": "Uber",
+      "amount": 68,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-05-08",
+      "category": "Meals",
+      "description": "Lunch at airport (solo)",
+      "merchant": "OTG / JFK Terminal 4",
+      "amount": 32,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    }
+  ]
 }

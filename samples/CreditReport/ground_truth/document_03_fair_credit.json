@@ -1,4 +1,97 @@
 {
   "documentType": "CreditReport",
-  "sourceFile": "document_03_fair_credit.pdf"
+  "sourceFile": "document_03_fair_credit.pdf",
+  "reportNumber": "EFX-2024-3318667",
+  "reportDate": "2024-11-05",
+  "creditBureau": "Equifax",
+  "ficoScore": 634,
+  "equifaxScore": null,
+  "experianScore": null,
+  "transunionScore": null,
+  "reportType": "Individual",
+  "totalAccounts": 4,
+  "openAccounts": 3,
+  "closedAccounts": 1,
+  "delinquentAccounts": 1,
+  "collectionAccounts": 1,
+  "totalBalances": 18640,
+  "totalCreditLimit": 22500,
+  "creditUtilization": 47,
+  "inquiryCount": 2,
+  "oldestAccountAge": "FedFirst Student Lending (Aug 2013) — 11 yrs 3 mos",
+  "averageAccountAge": "5 years 1 month",
+  "subject": {
+    "fullName": "Tamara K. Osei",
+    "ssn": "***-**-3318",
+    "dateOfBirth": "1991-07-22",
+    "currentAddress": "4401 Maple Dr, Atlanta, GA 30301",
+    "previousAddress": "1122 Peachtree Blvd, Atlanta, GA 30309",
+    "employer": "Southgate Healthcare Services"
+  },
+  "publicRecords": {
+    "hasBankruptcy": "No",
+    "bankruptcyType": null,
+    "bankruptcyDate": null,
+    "hasForeclosure": "No",
+    "hasJudgment": "No",
+    "hasTaxLien": "No",
+    "totalPublicRecords": 0
+  },
+  "paymentHistory": {
+    "onTimePayments": 110,
+    "latePayments30": 3,
+    "latePayments60": 0,
+    "latePayments90plus": 0,
+    "totalPayments": 113
+  },
+  "accounts": [
+    {
+      "creditorName": "Peach State Credit Union",
+      "accountType": "Credit Card",
+      "accountNumber": "****5510",
+      "openDate": "2016-03-01",
+      "balance": 5800,
+      "creditLimit": 8000,
+      "monthlyPayment": 232,
+      "paymentStatus": "Current",
+      "paymentHistory": "All payments on time",
+      "creditBureau": "Equifax"
+    },
+    {
+      "creditorName": "SunTrust Flex Visa",
+      "accountType": "Credit Card",
+      "accountNumber": "****3344",
+      "openDate": "2019-06-01",
+      "balance": 11950,
+      "creditLimit": 14500,
+      "monthlyPayment": 478,
+      "paymentStatus": "30 Days Late",
+      "paymentHistory": "30-day late in August 2024, 30-day late in June 2023, 30-day late in August 2022, otherwise current",
+      "creditBureau": "Equifax"
+    },
+    {
+      "creditorName": "FedFirst Student Lending",
+      "accountType": "Student Loan",
+      "accountNumber": "****7780",
+      "openDate": "2013-08-01",
+      "balance": 890,
+      "creditLimit": null,
+      "monthlyPayment": 45,
+      "paymentStatus": "Current",
+      "paymentHistory": "All payments on time",
+      "creditBureau": "Equifax"
+    },
+    {
+      "creditorName": "Northside Hospital Collections",
+      "accountType": "Collection",
+      "accountNumber": "****9901",
+      "openDate": "2023-01-01",
+      "balance": 892,
+      "creditLimit": null,
+      "monthlyPayment": 0,
+      "paymentStatus": "Collection",
+      "paymentHistory": "Unpaid collection — original creditor Northside Radiology Associates; assigned to collections January 15, 2023; no payments recorded",
+      "creditBureau": "Equifax"
+    }
+  ]
 }

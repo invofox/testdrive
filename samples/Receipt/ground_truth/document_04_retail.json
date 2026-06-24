@@ -1,4 +1,57 @@
 {
   "documentType": "Receipt",
-  "sourceFile": "document_04_retail.pdf"
+  "sourceFile": "document_04_retail.pdf",
+  "receiptNumber": "HD-0842-20241109-6203",
+  "issueDate": "2024-11-09",
+  "issueTime": "11:34",
+  "currency": "USD",
+  "subtotalAmount": 234.86,
+  "taxAmount": 13.81,
+  "taxRate": 5.87,
+  "tipAmount": null,
+  "totalAmount": 248.67,
+  "paymentMethod": "Debit Card",
+  "merchant": {
+    "name": "The Home Depot",
+    "phoneNumber": "(770) 433-8211",
+    "address": {
+      "country": "US",
+      "postalCode": "30339",
+      "municipality": "Atlanta",
+      "street": "2455 Paces Ferry Road NW",
+      "raw": "2455 Paces Ferry Road NW, Atlanta, GA 30339"
+    }
+  },
+  "items": [
+    {
+      "description": "DeWalt 20V Drill/Driver Kit",
+      "quantity": 1,
+      "unitPrice": 139,
+      "totalAmount": 139
+    },
+    {
+      "description": "Quikrete 80lb Concrete Mix",
+      "quantity": 2,
+      "unitPrice": 14.99,
+      "totalAmount": 29.98
+    },
+    {
+      "description": "3M Pre-Cut Sandpaper 100-Grit",
+      "quantity": 1,
+      "unitPrice": 14.97,
+      "totalAmount": 14.97
+    },
+    {
+      "description": "Rust-Oleum Painter's Touch 2X",
+      "quantity": 3,
+      "unitPrice": 7.98,
+      "totalAmount": 23.94
+    },
+    {
+      "description": "3/8\" x 50ft Garden Hose",
+      "quantity": 1,
+      "unitPrice": 26.97,
+      "totalAmount": 26.97
+    }
+  ]
 }

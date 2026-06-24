@@ -1,4 +1,80 @@
 {
   "documentType": "Form1004",
-  "sourceFile": "document_05_fha_purchase.pdf"
+  "sourceFile": "document_05_fha_purchase.pdf",
+  "appraisalDate": "2024-08-12",
+  "effectiveDate": "2024-08-12",
+  "fileNumber": "APR-2024-2081",
+  "loanNumber": "LN-2024-FHA-77142",
+  "lenderName": "Ohio Valley Mortgage Corporation",
+  "purpose": "Purchase",
+  "propertyAddress": {
+    "street": "2204 Sunflower Lane",
+    "municipality": "Columbus",
+    "postalCode": "43204",
+    "country": "US"
+  },
+  "legalDescription": "LOT 88, SUNFLOWER MEADOWS SUBDIVISION, Franklin County, Ohio, Plat Book 74, Page 12, Franklin County Recorder",
+  "propertyType": "Single Family",
+  "occupancy": "Owner Occupied",
+  "borrowerName": "Marcus D. and Latoya R. Jefferson",
+  "ownerName": "Harold W. and Edna M. Greer",
+  "county": "Franklin",
+  "assessedValue": null,
+  "annualTaxes": 4150,
+  "neighborhood": {
+    "location": "Suburban",
+    "builtUp": "Over 75%",
+    "growthRate": "Stable",
+    "priceRangeLow": 180000,
+    "priceRangeHigh": 375000,
+    "predominantValue": 285000
+  },
+  "site": {
+    "lotSize": "6,900 sq ft",
+    "zoning": "SR Single Family Residential",
+    "utilities": "Public: Electric, Gas, Water, Sewer",
+    "view": "Residential / Typical"
+  },
+  "improvements": {
+    "yearBuilt": 1989,
+    "grossLivingArea": 1320,
+    "bedrooms": 3,
+    "bathrooms": 1.5,
+    "garage": "Attached",
+    "garageSpaces": 1,
+    "basement": null,
+    "condition": "Average",
+    "quality": null
+  },
+  "comparables": [
+    {
+      "address": "2418 Clover Ridge Dr, Columbus, OH 43204",
+      "salePrice": 291000,
+      "saleDate": "2024-06-28",
+      "grossLivingArea": 1305,
+      "adjustedSalePrice": 290750
+    },
+    {
+      "address": "1955 Hilltop Manor Blvd, Columbus, OH 43228",
+      "salePrice": 282500,
+      "saleDate": "2024-05-14",
+      "grossLivingArea": 1380,
+      "adjustedSalePrice": 275500
+    },
+    {
+      "address": "2112 Meadow Creek Ct, Columbus, OH 43204",
+      "salePrice": 298000,
+      "saleDate": "2024-07-10",
+      "grossLivingArea": 1350,
+      "adjustedSalePrice": 296500
+    }
+  ],
+  "reconciledValue": 295000,
+  "appraiser": {
+    "name": "Patricia K. Williams, SRA",
+    "licenseNumber": "OH-2018001847",
+    "licenseState": "Ohio",
+    "signatureDate": "2024-08-12",
+    "companyName": "Central Ohio Appraisal Group"
+  }
 }

@@ -1,4 +1,45 @@
 {
   "documentType": "ClosingDisclosure",
-  "sourceFile": "document_05_jumbo.pdf"
+  "sourceFile": "document_05_jumbo.pdf",
+  "closingDate": "2024-11-08",
+  "disbursementDate": "2024-11-12",
+  "loanNumber": "CPB-2024-J00819",
+  "loanType": "Conventional",
+  "loanTerm": "15 Year Fixed",
+  "loanPurpose": "Purchase",
+  "interestRate": 6.625,
+  "loanAmount": 1450000,
+  "monthlyPrincipalInterest": 12747.02,
+  "apr": 6.812,
+  "totalClosingCosts": 28100,
+  "cashToClose": 372400,
+  "currency": "USD",
+  "salePrice": 1820000,
+  "prepaidInterest": 1061.92,
+  "initialEscrow": 3684,
+  "borrower": {
+    "name": "Dr. Vivian J. Park & Michael S. Park",
+    "address": {
+      "country": "US",
+      "postalCode": "92663",
+      "municipality": "Newport Beach",
+      "street": "14 Bayside Ct"
+    }
+  },
+  "lender": {
+    "name": "Coastal Private Bank",
+    "address": {
+      "country": "US",
+      "postalCode": "92660",
+      "municipality": "Newport Beach",
+      "street": "450 Newport Center Dr, Suite 200"
+    }
+  },
+  "propertyAddress": {
+    "raw": "22 Harbor Point Ln, Newport Beach, CA 92661",
+    "country": "US",
+    "postalCode": "92661",
+    "municipality": "Newport Beach",
+    "street": "22 Harbor Point Ln"
+  }
 }

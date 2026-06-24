@@ -1,4 +1,67 @@
 {
   "documentType": "Payslip",
-  "sourceFile": "document_02_us_hourly.pdf"
+  "sourceFile": "document_02_us_hourly.pdf",
+  "payPeriodStart": "2025-04-28",
+  "payPeriodEnd": "2025-05-11",
+  "payDate": "2025-05-16",
+  "currency": "USD",
+  "grossSalary": 4539,
+  "netSalary": 3041.18,
+  "totalDeductions": 1497.82,
+  "totalEarnings": 4539,
+  "payFrequency": "Bi-weekly",
+  "employee": {
+    "name": "Roberto Fuentes",
+    "employeeId": "PC-1182",
+    "position": "Carpenter",
+    "department": "Field Operations",
+    "taxId": "***-**-4501"
+  },
+  "employer": {
+    "name": "Pacific Coast Construction Inc",
+    "taxId": "33-7265490",
+    "address": {
+      "country": "US",
+      "postalCode": "92121",
+      "municipality": "San Diego",
+      "street": "5520 Miramar Road, Suite 110",
+      "raw": "5520 Miramar Road, Suite 110, San Diego, CA 92121"
+    }
+  },
+  "earnings": [
+    {
+      "description": "Regular Pay",
+      "hours": 80,
+      "rate": 51,
+      "amount": 4080
+    },
+    {
+      "description": "Overtime Pay (1.5x)",
+      "hours": 6,
+      "rate": 76.5,
+      "amount": 459
+    }
+  ],
+  "deductions": [
+    {
+      "description": "Federal Income Tax",
+      "amount": 808.08
+    },
+    {
+      "description": "CA State Income Tax",
+      "amount": 271.32
+    },
+    {
+      "description": "Social Security (6.2%)",
+      "amount": 281.42
+    },
+    {
+      "description": "Medicare (1.45%)",
+      "amount": 65.82
+    },
+    {
+      "description": "Health Insurance",
+      "amount": 71.18
+    }
+  ]
 }

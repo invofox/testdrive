@@ -1,4 +1,61 @@
 {
   "documentType": "LeaseAgreement",
-  "sourceFile": "document_05_contrato_arrendamiento.pdf"
+  "sourceFile": "document_05_contrato_arrendamiento.pdf",
+  "leaseNumber": "ARR-2024-1187",
+  "leaseType": "Residencial (Vivienda habitual)",
+  "startDate": "2024-10-01",
+  "endDate": "2029-09-30",
+  "leaseTerm": "60 meses (5 años)",
+  "renewalOption": "El contrato se prorroga tácitamente año a año una vez transcurrido el período obligatorio de 5 años, salvo denuncia de cualquiera de las partes con 30 días de antelación al vencimiento de cada anualidad.",
+  "landlord": {
+    "name": "Inmaculada Ruiz Fernández",
+    "taxId": "52.341.870-K",
+    "address": {
+      "street": "Calle Serrano, 94, 3.º Izda",
+      "municipality": "Madrid",
+      "postalCode": "28006",
+      "country": "ES"
+    },
+    "phone": "+34 91 555 0143",
+    "email": "inma.ruiz@hotmail.com"
+  },
+  "tenant": {
+    "name": "Pablo Moreno García",
+    "taxId": "47.892.361-F",
+    "address": {
+      "street": "Calle Fuencarral, 45, 2.º Dcha",
+      "municipality": "Madrid",
+      "postalCode": "28004",
+      "country": "ES"
+    },
+    "phone": "+34 650 555 278",
+    "email": "pablo.moreno.garcia@gmail.com"
+  },
+  "property": {
+    "address": {
+      "street": "Calle de Atocha, 87, 4.º B",
+      "municipality": "Madrid",
+      "postalCode": "28012",
+      "country": "ES"
+    },
+    "unit": "4.ª planta, puerta B",
+    "type": "Vivienda (Piso)",
+    "squareFootage": 68,
+    "description": "Vivienda de dos dormitorios y un baño, situada en la cuarta planta de un edificio residencial sin ascensor en el barrio de Embajadores. Cocina equipada con nevera, horno, vitrocerámica y lavadora. Salón con balcón a la calle. Calefacción individual de gas natural. Incluye plaza de garaje en el sótano del edificio (plaza n.º 8). Comunidad de vecinos activa con gastos de comunidad incluidos en la renta. Certificado energético: clase D."
+  },
+  "financialTerms": {
+    "monthlyRent": 1450,
+    "currency": "EUR",
+    "securityDeposit": 1450,
+    "lastMonthRent": null,
+    "petDeposit": null,
+    "lateFee": null,
+    "lateFeeGraceDays": 5,
+    "paymentDueDay": 1,
+    "paymentMethod": "Transferencia bancaria a IBAN ES12 2100 0418 4012 3456 7891"
+  },
+  "utilities": "Incluidos en la renta: Gastos de comunidad, tasa de basuras municipal, plaza de garaje. A cargo del Arrendatario: Electricidad (Endesa), gas natural (Naturgy), agua y saneamiento (Canal de Isabel II), teléfono e internet.",
+  "petsAllowed": "No — No se admiten animales de compañía en la vivienda salvo animales de asistencia debidamente acreditados.",
+  "signatureDate": "2024-09-01",
+  "governingLaw": "Derecho español — Comunidad de Madrid"
 }

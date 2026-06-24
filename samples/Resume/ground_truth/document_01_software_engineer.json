@@ -1,4 +1,69 @@
 {
   "documentType": "Resume",
-  "sourceFile": "document_01_software_engineer.pdf"
+  "sourceFile": "document_01_software_engineer.pdf",
+  "fullName": "Nathan A. Kowalski",
+  "email": "nathan.kowalski@gmail.com",
+  "phone": "+1 (206) 847-3291",
+  "linkedIn": "linkedin.com/in/nathankowalski",
+  "website": "nathankowalski.dev",
+  "currentTitle": "Senior Software Engineer",
+  "summary": "Senior Software Engineer with 8+ years of experience building distributed systems and cloud-native applications at scale. Proven track record of leading platform migrations, reducing infrastructure costs, and mentoring engineering teams. Passionate about developer experience and high-availability architecture.",
+  "skills": "Python, Go, TypeScript, SQL, Bash, Kubernetes, Terraform, AWS, Docker, Helm, PostgreSQL, Redis, Kafka, gRPC, CI/CD, TDD, Observability, Agile",
+  "languages": "English — Native, Polish — Conversational",
+  "certifications": "AWS Certified Solutions Architect – Professional (2023), Certified Kubernetes Administrator (CKA, 2022), Google Cloud Professional Cloud Architect (2021)",
+  "address": {
+    "raw": "Seattle, WA 98101",
+    "country": "US",
+    "postalCode": "98101",
+    "municipality": "Seattle",
+    "street": null
+  },
+  "experience": [
+    {
+      "company": "Amazon Web Services",
+      "title": "Senior Software Engineer — Platform",
+      "location": "Seattle, WA",
+      "startDate": "2022-03",
+      "endDate": null,
+      "description": "Lead a team of 6 engineers building internal developer platform tooling serving 4,000+ AWS engineers. Redesigned container orchestration layer using Kubernetes and Helm, reducing deploy times by 62%. Drove adoption of gRPC-based service mesh replacing legacy REST adapters; cut p99 latency from 320ms to 48ms. Authored RFC and implemented blue/green deployment framework now used across 14 service teams.",
+      "isCurrent": "Yes"
+    },
+    {
+      "company": "Stripe",
+      "title": "Software Engineer II",
+      "location": "San Francisco, CA (Remote)",
+      "startDate": "2019-08",
+      "endDate": "2022-02",
+      "description": "Built and maintained core payment processing pipelines in Go handling $2B+ in annual transaction volume. Implemented idempotency key system that reduced duplicate charges by 99.97% across all API endpoints. Collaborated with security team to harden webhook delivery with HMAC signing and replay protection. Contributed to internal observability tooling: distributed tracing with OpenTelemetry, custom Grafana dashboards.",
+      "isCurrent": null
+    },
+    {
+      "company": "Clearbit (YC S15)",
+      "title": "Software Engineer",
+      "location": "San Francisco, CA",
+      "startDate": "2017-06",
+      "endDate": "2019-07",
+      "description": "Designed and shipped RESTful enrichment API serving 50M+ requests/month for B2B SaaS customers. Migrated monolithic Rails app to microservices architecture; improved deployment frequency from weekly to daily. Built data ingestion pipeline (Python/Kafka) processing 10M company records from 200+ third-party sources.",
+      "isCurrent": null
+    },
+    {
+      "company": "Whitepages Inc.",
+      "title": "Junior Software Engineer",
+      "location": "Seattle, WA",
+      "startDate": "2016-01",
+      "endDate": "2017-05",
+      "description": "Developed search and ranking algorithms for people-search product with 30M monthly active users. Maintained Python/Django backend services and wrote unit/integration test suites (pytest, 85% coverage).",
+      "isCurrent": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "degree": "BS",
+      "fieldOfStudy": "Computer Science",
+      "graduationYear": "2015",
+      "gpa": "3.8",
+      "honors": "Dean's List"
+    }
+  ]
 }

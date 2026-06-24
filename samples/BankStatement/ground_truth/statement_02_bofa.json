@@ -1,4 +1,151 @@
 {
   "documentType": "BankStatement",
-  "sourceFile": "statement_02_bofa.pdf"
+  "sourceFile": "statement_02_bofa.pdf",
+  "statementPeriodStart": "2025-03-01",
+  "statementPeriodEnd": "2025-03-31",
+  "openingBalance": 18640.5,
+  "closingBalance": 22308.17,
+  "currency": "USD",
+  "accountNumber": "...7731",
+  "iban": null,
+  "routingNumber": "011000138",
+  "accountType": "Business Advantage Checking",
+  "totalCredits": 38750,
+  "totalDebits": 35082.33,
+  "transactions": [
+    {
+      "transactionDate": "2025-03-03",
+      "description": "WIRE CREDIT — INCOMING - MERIDIAN CAPITAL GROUP LLC / INV-2025-0217",
+      "amount": 12500,
+      "balance": 31140.5
+    },
+    {
+      "transactionDate": "2025-03-04",
+      "description": "ACH DEBIT — PAYROLL - ADP PAYROLL SERVICES / BATCH #449201",
+      "amount": -8200,
+      "balance": 22940.5
+    },
+    {
+      "transactionDate": "2025-03-05",
+      "description": "DEBIT CARD — PURCHASE - STAPLES #0824 — BOSTON MA",
+      "amount": -234.77,
+      "balance": 22705.73
+    },
+    {
+      "transactionDate": "2025-03-06",
+      "description": "ACH DEBIT — RENT/LEASE - LINCOLN PROPERTIES MGMT — MARCH OFFICE RENT",
+      "amount": -3800,
+      "balance": 18905.73
+    },
+    {
+      "transactionDate": "2025-03-07",
+      "description": "CHECK #2071 — PAID - TECH SOLUTIONS INC — CONTRACTOR INVOICE",
+      "amount": -2400,
+      "balance": 16505.73
+    },
+    {
+      "transactionDate": "2025-03-10",
+      "description": "ACH CREDIT — CLIENT PAYMENT - NOVUS SYSTEMS INC / PROJECT-A2204",
+      "amount": 8750,
+      "balance": 25255.73
+    },
+    {
+      "transactionDate": "2025-03-11",
+      "description": "DEBIT CARD — PURCHASE - UNITED AIRLINES — BOS/CHI/BOS HARTFIELD G",
+      "amount": -624.8,
+      "balance": 24630.93
+    },
+    {
+      "transactionDate": "2025-03-12",
+      "description": "ACH DEBIT — HEALTH INS - BLUE CROSS BLUE SHIELD MA — GROUP PLAN",
+      "amount": -1840,
+      "balance": 22790.93
+    },
+    {
+      "transactionDate": "2025-03-13",
+      "description": "DEBIT CARD — PURCHASE - MARRIOTT BOSTON LONG WHARF — HOTEL CONF",
+      "amount": -387.5,
+      "balance": 22403.43
+    },
+    {
+      "transactionDate": "2025-03-14",
+      "description": "ACH DEBIT — PHONE/COMMS - COMCAST BUSINESS — SVC ACCT 8529-04-BOS",
+      "amount": -189.99,
+      "balance": 22213.44
+    },
+    {
+      "transactionDate": "2025-03-17",
+      "description": "ACH CREDIT — CLIENT PAYMENT - PINEHURST FINANCIAL ADVISORS / RETAINER",
+      "amount": 5500,
+      "balance": 27713.44
+    },
+    {
+      "transactionDate": "2025-03-18",
+      "description": "DEBIT CARD — PURCHASE - AMAZON BUSINESS — OFFICE SUPPLIES",
+      "amount": -312.45,
+      "balance": 27400.99
+    },
+    {
+      "transactionDate": "2025-03-19",
+      "description": "ONLINE TRANSFER — TO SAVINGS - BofA Business Savings ...4417",
+      "amount": -5000,
+      "balance": 22400.99
+    },
+    {
+      "transactionDate": "2025-03-20",
+      "description": "ACH DEBIT — PAYROLL - ADP PAYROLL SERVICES / BATCH #451098",
+      "amount": -8200,
+      "balance": 14200.99
+    },
+    {
+      "transactionDate": "2025-03-21",
+      "description": "DEBIT CARD — PURCHASE - RUTH'S CHRIS STEAKHOUSE — CLIENT DINNER",
+      "amount": -487.2,
+      "balance": 13713.79
+    },
+    {
+      "transactionDate": "2025-03-24",
+      "description": "WIRE CREDIT — INCOMING - SOVEREIGN EQUITY PARTNERS / CONSULTING FEE",
+      "amount": 12000,
+      "balance": 25713.79
+    },
+    {
+      "transactionDate": "2025-03-25",
+      "description": "ACH DEBIT — ACCOUNTING SVC - GRANT THORNTON LLP — QUARTERLY REVIEW",
+      "amount": -1800,
+      "balance": 23913.79
+    },
+    {
+      "transactionDate": "2025-03-26",
+      "description": "DEBIT CARD — PURCHASE - BEST BUY #1021 — LAPTOP/EQUIPMENT",
+      "amount": -1249.99,
+      "balance": 22663.8
+    },
+    {
+      "transactionDate": "2025-03-27",
+      "description": "CHECK #2072 — PAID - CLEANTECH OFFICE SERVICES",
+      "amount": -355.63,
+      "balance": 22308.17
+    }
+  ],
+  "bank": {
+    "name": "Bank of America, N.A.",
+    "taxId": null,
+    "address": {
+      "country": "US",
+      "postalCode": "33622-5118",
+      "municipality": "Tampa",
+      "street": "P.O. Box 25118"
+    }
+  },
+  "accountHolder": {
+    "name": "HARTFIELD & ASSOCIATES LLC",
+    "taxId": null,
+    "address": {
+      "country": "US",
+      "postalCode": "02111",
+      "street": "88 Lincoln Street, Suite 600",
+      "municipality": "Boston, MA"
+    }
+  }
 }

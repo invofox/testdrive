@@ -1,4 +1,61 @@
 {
   "documentType": "Payslip",
-  "sourceFile": "document_04_australia.pdf"
+  "sourceFile": "document_04_australia.pdf",
+  "payPeriodStart": "2025-04-28",
+  "payPeriodEnd": "2025-05-11",
+  "payDate": "2025-05-16",
+  "currency": "AUD",
+  "grossSalary": 4100,
+  "netSalary": 3182.3,
+  "totalDeductions": 917.7,
+  "totalEarnings": 4100,
+  "payFrequency": "Fortnightly",
+  "employee": {
+    "name": "Jessica Nguyen",
+    "employeeId": "HV-289",
+    "position": "Property Manager",
+    "department": "Residential Leasing",
+    "taxId": "XXX-XXX-841"
+  },
+  "employer": {
+    "name": "Harbour View Property Group Pty Ltd",
+    "taxId": "57 384 921 006",
+    "address": {
+      "country": "AU",
+      "postalCode": "2000",
+      "municipality": "Sydney",
+      "street": "Level 12, 1 Macquarie Place",
+      "raw": "Level 12, 1 Macquarie Place, Sydney NSW 2000"
+    }
+  },
+  "earnings": [
+    {
+      "description": "Base Fortnightly Pay",
+      "hours": null,
+      "rate": null,
+      "amount": 3846.15
+    },
+    {
+      "description": "Phone Allowance",
+      "hours": null,
+      "rate": null,
+      "amount": 100
+    },
+    {
+      "description": "Transport Allowance",
+      "hours": null,
+      "rate": null,
+      "amount": 153.85
+    }
+  ],
+  "deductions": [
+    {
+      "description": "PAYG Withholding Tax",
+      "amount": 798.2
+    },
+    {
+      "description": "Salary Sacrifice – Super",
+      "amount": 119.5
+    }
+  ]
 }

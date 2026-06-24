@@ -1,4 +1,26 @@
 {
   "documentType": "FormW4",
-  "sourceFile": "document_01_single_one_job.pdf"
+  "sourceFile": "document_01_single_one_job.pdf",
+  "taxYear": 2025,
+  "employeeName": "Jordan M. Rivera",
+  "ssn": "•••-••-7832",
+  "address": [
+    {
+      "street": "4821 Maplewood Drive, Apt 3B",
+      "municipality": "Austin, TX",
+      "postalCode": "78701",
+      "country": null
+    }
+  ],
+  "filingStatus": "Single or Married Filing Separately",
+  "multipleJobs": null,
+  "dependentsCredit": 0,
+  "otherIncome": 0,
+  "deductionsAmount": 0,
+  "extraWithholding": 0,
+  "exemptStatus": null,
+  "signatureDate": "2025-01-13",
+  "employerName": "TechBridge Solutions LLC · 500 Congress Ave, Suite 800, Austin, TX 78701",
+  "employerEIN": "47-3821654",
+  "firstPayDate": "2025-01-20"
 }

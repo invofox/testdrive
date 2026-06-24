@@ -1,4 +1,104 @@
 {
   "documentType": "InsurancePolicy",
-  "sourceFile": "document_01_auto.pdf"
+  "sourceFile": "document_01_auto.pdf",
+  "policyNumber": "841-2249-F12",
+  "issueDate": "2025-03-18",
+  "effectiveDate": "2025-04-01",
+  "expirationDate": "2025-10-01",
+  "insuranceType": "Auto",
+  "currency": "USD",
+  "annualPremium": 1685.2,
+  "paymentFrequency": "Semi-Annual",
+  "deductible": 500,
+  "coverageLimit": 300000,
+  "policyStatus": "Active",
+  "insured": {
+    "name": "Jonathan R. Kellerman",
+    "dateOfBirth": "1982-06-14",
+    "taxId": null,
+    "phone": null,
+    "email": null,
+    "address": {
+      "country": "US",
+      "postalCode": "85031",
+      "municipality": "Phoenix",
+      "street": "4817 W Camelback Rd",
+      "raw": "4817 W Camelback Rd, Phoenix, AZ 85031"
+    }
+  },
+  "insurer": {
+    "name": "State Farm Mutual Automobile Insurance Company",
+    "taxId": null,
+    "phone": "1-800-782-8332",
+    "address": {
+      "country": "US",
+      "postalCode": "61710",
+      "municipality": "Bloomington",
+      "street": "One State Farm Plaza",
+      "raw": "One State Farm Plaza, Bloomington, IL 61710"
+    }
+  },
+  "insuredObject": {
+    "description": "2018 Toyota Camry LE — VIN: 4T1B11HK5JU624381",
+    "address": null,
+    "value": null
+  },
+  "coverages": [
+    {
+      "coverageType": "Bodily Injury Liability",
+      "coverageDescription": "$100,000 per person / $300,000 per occurrence",
+      "limit": 300000,
+      "deductible": null,
+      "premium": 364.8
+    },
+    {
+      "coverageType": "Property Damage Liability",
+      "coverageDescription": "$100,000 per occurrence",
+      "limit": 100000,
+      "deductible": null,
+      "premium": 296.4
+    },
+    {
+      "coverageType": "Uninsured Motorist BI",
+      "coverageDescription": "$100,000 per person / $300,000 per occurrence",
+      "limit": 300000,
+      "deductible": null,
+      "premium": 124.2
+    },
+    {
+      "coverageType": "Medical Payments",
+      "coverageDescription": "$5,000 per person",
+      "limit": 5000,
+      "deductible": null,
+      "premium": 49.6
+    },
+    {
+      "coverageType": "Comprehensive",
+      "coverageDescription": "Actual Cash Value",
+      "limit": null,
+      "deductible": 500,
+      "premium": 237.2
+    },
+    {
+      "coverageType": "Collision",
+      "coverageDescription": "Actual Cash Value",
+      "limit": null,
+      "deductible": 500,
+      "premium": 483
+    },
+    {
+      "coverageType": "Rental Reimbursement",
+      "coverageDescription": "$40/day, max $1,200",
+      "limit": 1200,
+      "deductible": null,
+      "premium": 50
+    },
+    {
+      "coverageType": "Roadside Assistance",
+      "coverageDescription": "Towing, flat tire, battery jump",
+      "limit": null,
+      "deductible": null,
+      "premium": 80
+    }
+  ]
 }

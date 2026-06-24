@@ -1,4 +1,42 @@
 {
   "documentType": "FormW2",
-  "sourceFile": "document_01_salaried_employee.pdf"
+  "sourceFile": "document_01_salaried_employee.pdf",
+  "taxYear": 2024,
+  "employerName": "Meridian Health Solutions Inc.",
+  "employerEIN": "47-3821904",
+  "employerAddress": {
+    "street": "3800 Corporate Parkway, Suite 400",
+    "municipality": "Columbus, OH",
+    "postalCode": "43215",
+    "country": "US"
+  },
+  "employeeName": "Jennifer K. Morales",
+  "employeeSSN": "XXX-XX-6642",
+  "employeeAddress": {
+    "street": "724 Elmwood Drive",
+    "municipality": "Columbus, OH",
+    "postalCode": "43220",
+    "country": "US"
+  },
+  "box1Wages": 64800,
+  "box2FederalTax": 7234,
+  "box3SocialSecurityWages": 64800,
+  "box4SocialSecurityTax": 4017.6,
+  "box5MedicareWages": 64800,
+  "box6MedicareTax": 939.6,
+  "box7SocialSecurityTips": 0,
+  "box10DependentCare": 0,
+  "box12Entries": [
+    {
+      "code": "W",
+      "amount": 1800
+    }
+  ],
+  "box16StateWages": 64800,
+  "box17StateTax": 2203.2,
+  "stateCode": "OH",
+  "employerStateId": "OH334921-7",
+  "box18LocalWages": 64800,
+  "box19LocalTax": 648,
+  "localityName": "Columbus"
 }

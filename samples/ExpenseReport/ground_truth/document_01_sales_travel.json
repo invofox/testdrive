@@ -1,4 +1,167 @@
 {
   "documentType": "ExpenseReport",
-  "sourceFile": "document_01_sales_travel.pdf"
+  "sourceFile": "document_01_sales_travel.pdf",
+  "reportNumber": "ER-2025-0412",
+  "reportDate": "2025-04-14",
+  "periodStart": "2025-04-07",
+  "periodEnd": "2025-04-11",
+  "currency": "USD",
+  "totalAmount": 3847.22,
+  "approvedAmount": 3847.22,
+  "status": "Approved",
+  "purpose": "Regional Sales Visits — Q2 Pipeline",
+  "employee": {
+    "name": "Derek Callahan",
+    "employeeId": "E-4421",
+    "position": "Regional Sales Manager",
+    "department": "Sales & Business Development",
+    "email": "d.callahan@pinnaclesoftware.com"
+  },
+  "employer": {
+    "name": "Pinnacle Software Corp",
+    "address": {
+      "country": "US",
+      "postalCode": "94105",
+      "municipality": "San Francisco",
+      "street": "One Market Plaza, Suite 3400",
+      "raw": "One Market Plaza, Suite 3400, San Francisco, CA 94105, United States"
+    }
+  },
+  "expenses": [
+    {
+      "expenseDate": "2025-04-07",
+      "category": "Travel",
+      "description": "Round-trip flight SFO–ORD (economy)",
+      "merchant": "United Airlines",
+      "amount": 487.6,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-04-07",
+      "category": "Transport",
+      "description": "Uber from O'Hare to hotel",
+      "merchant": "Uber",
+      "amount": 38.5,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-04-07",
+      "category": "Accommodation",
+      "description": "Hotel check-in (3 nights) — Loews Chicago",
+      "merchant": "Loews Chicago Hotel",
+      "amount": 892.5,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-04-07",
+      "category": "Meals",
+      "description": "Business dinner with Meridian Healthcare team",
+      "merchant": "Alinea Restaurant",
+      "amount": 312,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-04-08",
+      "category": "Meals",
+      "description": "Working lunch — Alderton & Partners meeting",
+      "merchant": "RPM Italian",
+      "amount": 143.8,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-04-08",
+      "category": "Transport",
+      "description": "Taxi downtown (client visits)",
+      "merchant": "Chicago Yellow Cab",
+      "amount": 29,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-04-09",
+      "category": "Meals",
+      "description": "Breakfast (solo)",
+      "merchant": "The Egg & I",
+      "amount": 22.4,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-04-09",
+      "category": "Travel",
+      "description": "Flight ORD–DAL (economy)",
+      "merchant": "Southwest Airlines",
+      "amount": 218,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-04-09",
+      "category": "Transport",
+      "description": "Rental car pickup — Dallas (2 days)",
+      "merchant": "Enterprise Rent-A-Car",
+      "amount": 187.4,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-04-09",
+      "category": "Accommodation",
+      "description": "Hotel (2 nights) — Renaissance Dallas",
+      "merchant": "Renaissance Dallas Hotel",
+      "amount": 594,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-04-10",
+      "category": "Meals",
+      "description": "Client lunch — TechFusion Group",
+      "merchant": "Bob's Steak & Chop House",
+      "amount": 228.5,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-04-10",
+      "category": "Transport",
+      "description": "Fuel for rental car",
+      "merchant": "Shell",
+      "amount": 48.72,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-04-11",
+      "category": "Meals",
+      "description": "Breakfast (solo)",
+      "merchant": "Panera Bread",
+      "amount": 18.8,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-04-11",
+      "category": "Travel",
+      "description": "Return flight DAL–SFO (economy)",
+      "merchant": "American Airlines",
+      "amount": 326,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-04-11",
+      "category": "Transport",
+      "description": "Parking SFO (3 days)",
+      "merchant": "SFO Airport Parking",
+      "amount": 300,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    }
+  ]
 }

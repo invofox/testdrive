@@ -1,4 +1,62 @@
 {
   "documentType": "AcordCertificate",
-  "sourceFile": "document_02_technology_company.pdf"
+  "sourceFile": "document_02_technology_company.pdf",
+  "acordForm": "ACORD 25",
+  "issueDate": "2025-06-10",
+  "producer": {
+    "name": "Meridian Risk Solutions, Inc.",
+    "address": {
+      "street": "333 Technology Square, Floor 7",
+      "municipality": "Cambridge",
+      "postalCode": "02139",
+      "country": "US"
+    },
+    "phone": "(617) 555-0388",
+    "email": "certs@meridianrisk.com",
+    "contactName": "James Okafor, CPCU"
+  },
+  "insured": {
+    "name": "NovaTech Solutions, Inc.",
+    "address": {
+      "street": "One Kendall Square, Building 200",
+      "municipality": "Cambridge",
+      "postalCode": "02139",
+      "country": "US"
+    }
+  },
+  "coverages": [
+    {
+      "coverageType": "General Liability",
+      "insurer": "Chubb National Insurance Company",
+      "policyNumber": "CHB-GL-2025-99271",
+      "effectiveDate": "2025-01-01",
+      "expirationDate": "2026-01-01",
+      "eachOccurrence": 1000000,
+      "aggregateLimit": 2000000,
+      "additionalInsured": "Y",
+      "waiverOfSubrogation": "N"
+    },
+    {
+      "coverageType": "Professional Liability",
+      "insurer": "Hiscox Insurance Company Inc.",
+      "policyNumber": "HX-EO-TEC-2025-44102",
+      "effectiveDate": "2025-01-01",
+      "expirationDate": "2026-01-01",
+      "eachOccurrence": 2000000,
+      "aggregateLimit": 2000000,
+      "additionalInsured": "N",
+      "waiverOfSubrogation": "N"
+    }
+  ],
+  "certificateHolder": {
+    "name": "Biotech Landing Partners, LLC",
+    "address": {
+      "street": "50 Binney Street, Suite 1000",
+      "municipality": "Cambridge",
+      "postalCode": "02142",
+      "country": "US"
+    }
+  },
+  "descriptionOfOperations": "Certificate issued in connection with NovaTech Solutions' commercial office lease at 50 Binney Street, Cambridge, MA 02142 (Lessor: Biotech Landing Partners, LLC). Certificate holder is named as Additional Insured under the Commercial General Liability policy per lease agreement dated May 15, 2025. Coverage includes software development, SaaS platform operations, IT consulting, and all technology services rendered at or from the leased premises. E&O policy covers professional services performed for all clients globally.",
+  "cancellationDays": 30
 }

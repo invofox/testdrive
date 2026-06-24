@@ -1,4 +1,21 @@
 {
   "documentType": "FormW9",
-  "sourceFile": "document_02_llc_single_member.pdf"
+  "sourceFile": "document_02_llc_single_member.pdf",
+  "taxpayerName": "Rachel K. Patel",
+  "businessName": "Patel Creative Studio LLC",
+  "federalTaxClassification": "Individual/sole proprietor or single-member LLC",
+  "llcTaxClassification": null,
+  "exemptPayeeCode": null,
+  "fatcaExemptionCode": null,
+  "address": {
+    "street": "8820 Westfield Blvd, Ste 200",
+    "municipality": "Indianapolis, IN",
+    "postalCode": "46220",
+    "country": "US"
+  },
+  "accountNumbers": "VENDOR-9924",
+  "tinType": "EIN",
+  "tin": "82-4501739",
+  "certificationDate": "2024-03-28",
+  "requesterName": "BuildRight Contractors LLC"
 }

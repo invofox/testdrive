@@ -1,4 +1,80 @@
 {
   "documentType": "Form1004",
-  "sourceFile": "document_03_rural_property.pdf"
+  "sourceFile": "document_03_rural_property.pdf",
+  "appraisalDate": "2024-05-22",
+  "effectiveDate": "2024-05-22",
+  "fileNumber": "APR-2024-0392",
+  "loanNumber": "LN-2024-084617",
+  "lenderName": "Mountain West Credit Union",
+  "purpose": "Purchase",
+  "propertyAddress": {
+    "street": "12840 County Road 18",
+    "municipality": "Bozeman",
+    "postalCode": "59715",
+    "country": "US"
+  },
+  "legalDescription": "NW 1/4 SE 1/4, Section 14, Township 2 South, Range 5 East, P.M.M., Gallatin County, Montana; LESS road right-of-way. Certificate of Survey No. 3847-C.",
+  "propertyType": "Single Family",
+  "occupancy": "Owner Occupied",
+  "borrowerName": "James T. and Carol A. Whitfield",
+  "ownerName": "Gerald R. Paulson Estate",
+  "county": "Gallatin",
+  "assessedValue": null,
+  "annualTaxes": 4180,
+  "neighborhood": {
+    "location": "Rural",
+    "builtUp": "Under 25%",
+    "growthRate": "Rapid",
+    "priceRangeLow": 420000,
+    "priceRangeHigh": 1800000,
+    "predominantValue": 650000
+  },
+  "site": {
+    "lotSize": "12.4 Acres",
+    "zoning": "A-1 Agricultural / Rural Residential",
+    "utilities": "Private Well & Septic; Electric (NorthWestern Energy); Propane Gas; No Public Water/Sewer",
+    "view": "Mountain Range (Bridger) — Superior"
+  },
+  "improvements": {
+    "yearBuilt": 2003,
+    "grossLivingArea": 2890,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "garage": "Attached 3-Car + Detached Workshop",
+    "garageSpaces": 3,
+    "basement": null,
+    "condition": "Good",
+    "quality": null
+  },
+  "comparables": [
+    {
+      "address": "9420 Bridger Canyon Rd, Bozeman, MT 59715",
+      "salePrice": 648000,
+      "saleDate": "2024-03-15",
+      "grossLivingArea": 3020,
+      "adjustedSalePrice": 632250
+    },
+    {
+      "address": "14115 Springhill Rd, Belgrade, MT 59714",
+      "salePrice": 590000,
+      "saleDate": "2024-02-08",
+      "grossLivingArea": 2680,
+      "adjustedSalePrice": 673950
+    },
+    {
+      "address": "11880 Bridger Creek Rd, Bozeman, MT 59715",
+      "salePrice": 635000,
+      "saleDate": "2024-04-30",
+      "grossLivingArea": 2940,
+      "adjustedSalePrice": 638250
+    }
+  ],
+  "reconciledValue": 620000,
+  "appraiser": {
+    "name": "Thomas B. Eriksen, MAI",
+    "licenseNumber": "MT-CG-000842",
+    "licenseState": "Montana",
+    "signatureDate": "2024-05-22",
+    "companyName": "Big Sky Valuation Services"
+  }
 }

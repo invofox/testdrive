@@ -1,4 +1,28 @@
 {
   "documentType": "IDCard",
-  "sourceFile": "document_03_spanish_dni.pdf"
+  "sourceFile": "document_03_spanish_dni.pdf",
+  "documentNumber": "48392017W",
+  "issuingCountry": "ES",
+  "issuingAuthority": null,
+  "issueDate": "2022-09-12",
+  "expiryDate": "2032-06-14",
+  "lastName": "FERNÁNDEZ ALCÁZAR",
+  "firstName": "ROSA MARÍA",
+  "middleName": null,
+  "dateOfBirth": "1988-06-14",
+  "placeOfBirth": "Madrid",
+  "nationality": "ESP",
+  "sex": "F",
+  "height": null,
+  "eyeColor": null,
+  "hairColor": null,
+  "mrzLine1": "IDESP48392017W<4<<<<<<<<<<<<<<<<<<<<<",
+  "mrzLine2": "8806149F3206148ESP<<<<<<<FERNANDEZ<<ALCAZAR<<<<<",
+  "address": {
+    "raw": null,
+    "country": null,
+    "postalCode": null,
+    "municipality": null,
+    "street": null
+  }
 }

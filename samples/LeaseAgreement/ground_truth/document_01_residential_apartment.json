@@ -1,4 +1,61 @@
 {
   "documentType": "LeaseAgreement",
-  "sourceFile": "document_01_residential_apartment.pdf"
+  "sourceFile": "document_01_residential_apartment.pdf",
+  "leaseNumber": "LA-2024-00147",
+  "leaseType": "Residential — Fixed Term",
+  "startDate": "2024-09-01",
+  "endDate": "2025-08-31",
+  "leaseTerm": "12 months",
+  "renewalOption": "Tenant may renew this Lease for one additional 12-month term at the then-current market rate by providing written notice to Landlord no later than sixty (60) days prior to the expiration of the Initial Term. Landlord shall notify Tenant of the new rental rate no later than ninety (90) days prior to expiration.",
+  "landlord": {
+    "name": "Margaret A. Sullivan",
+    "taxId": "84-4512309",
+    "address": {
+      "street": "2240 Larimer Street, Suite 300",
+      "municipality": "Denver",
+      "postalCode": "80205",
+      "country": "US"
+    },
+    "phone": "(720) 555-0184",
+    "email": "msullivan@sullivanproperties.com"
+  },
+  "tenant": {
+    "name": "Daniel R. Kowalski",
+    "taxId": "***-**-4821",
+    "address": {
+      "street": "889 Colfax Ave, Apt 4B",
+      "municipality": "Denver",
+      "postalCode": "80218",
+      "country": "US"
+    },
+    "phone": "(720) 555-0392",
+    "email": "d.kowalski@gmail.com"
+  },
+  "property": {
+    "address": {
+      "street": "1847 Emerson Street",
+      "municipality": "Denver",
+      "postalCode": "80218",
+      "country": "US"
+    },
+    "unit": "3A",
+    "type": "Apartment",
+    "squareFootage": 920,
+    "description": "Two-bedroom, one-bathroom apartment on the third floor of a four-story residential building. Approximately 920 square feet. Includes assigned parking space #12 in the underground garage. Access to shared laundry facilities on the first floor."
+  },
+  "financialTerms": {
+    "monthlyRent": 2100,
+    "currency": "USD",
+    "securityDeposit": 2100,
+    "lastMonthRent": 2100,
+    "petDeposit": 350,
+    "lateFee": 75,
+    "lateFeeGraceDays": 5,
+    "paymentDueDay": 1,
+    "paymentMethod": "Electronic bank transfer (ACH)"
+  },
+  "utilities": "Included: Water and sewer, trash and recycling collection, building common area electricity. Tenant's responsibility: Electricity (Xcel Energy), internet and cable services, renter's insurance.",
+  "petsAllowed": "Restricted — One (1) domestic cat approved. No dogs or other animals permitted without written consent of Landlord.",
+  "signatureDate": "2024-08-15",
+  "governingLaw": "State of Colorado"
 }

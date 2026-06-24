@@ -1,4 +1,60 @@
 {
   "documentType": "Invoice",
-  "sourceFile": "document_02_uk_freelancer.pdf"
+  "sourceFile": "document_02_uk_freelancer.pdf",
+  "documentNumber": "JHD-2024-0193",
+  "issueDate": "2024-10-18",
+  "dueDate": "2024-11-17",
+  "currency": "GBP",
+  "totalAmount": 3840,
+  "totalTaxBaseAmount": 3200,
+  "totalTaxAmount": 640,
+  "withholdingTaxRate": null,
+  "withholdingTaxAmount": null,
+  "supplier": {
+    "name": "James Hartley Design",
+    "taxId": "GB 412 7834 09",
+    "email": "james@hartleydesign.co.uk",
+    "phoneNumber": "+44 (0)20 7946 0312",
+    "address": {
+      "street": "14 Pembridge Mews, Notting Hill",
+      "municipality": "London",
+      "postalCode": "W11 3EQ",
+      "country": "GB"
+    }
+  },
+  "customer": {
+    "name": "Bloom Digital Ltd",
+    "taxId": "09284736",
+    "email": "finance@bloomdigital.co.uk",
+    "phoneNumber": null,
+    "address": {
+      "street": "36 Whitworth Street West",
+      "municipality": "Manchester",
+      "postalCode": "M1 5WQ",
+      "country": "GB"
+    }
+  },
+  "lines": [
+    {
+      "description": "Brand Identity Package",
+      "quantity": 1,
+      "unitPrice": 2800,
+      "totalAmount": 2800,
+      "taxRate": 20
+    },
+    {
+      "description": "Social Media Asset Pack",
+      "quantity": 1,
+      "unitPrice": 400,
+      "totalAmount": 400,
+      "taxRate": 20
+    }
+  ],
+  "breakdowns": [
+    {
+      "taxRate": 20,
+      "taxBaseAmount": 3200,
+      "taxAmount": 640
+    }
+  ]
 }

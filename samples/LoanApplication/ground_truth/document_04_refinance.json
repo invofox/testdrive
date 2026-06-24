@@ -1,4 +1,87 @@
 {
   "documentType": "LoanApplication",
-  "sourceFile": "document_04_refinance.pdf"
+  "sourceFile": "document_04_refinance.pdf",
+  "loanAmount": 690000,
+  "loanPurpose": "Refinance",
+  "loanType": "Conventional",
+  "interestRateType": "Fixed",
+  "loanTerm": "30 Year",
+  "applicationDate": "2024-11-04",
+  "amortizationType": "Fixed Rate",
+  "property": {
+    "address": "881 Pine Ridge Ln",
+    "city": "Bellevue",
+    "state": "WA",
+    "zipCode": "98004",
+    "estimatedValue": 1150000,
+    "propertyType": "Single Family",
+    "propertyUse": "Primary Residence"
+  },
+  "borrower": {
+    "fullName": "David K. Park",
+    "ssn": "***-**-2841",
+    "dateOfBirth": "1978-05-18",
+    "maritalStatus": "Married",
+    "dependents": 2,
+    "phone": "(206) 555-9120",
+    "email": "david.park@email.com",
+    "yearsAtCurrentAddress": 7,
+    "currentAddress": {
+      "raw": "881 Pine Ridge Ln, Bellevue, WA 98004",
+      "country": "US",
+      "postalCode": "98004",
+      "municipality": "Bellevue",
+      "street": "881 Pine Ridge Ln"
+    }
+  },
+  "coborrower": {
+    "fullName": "Linda S. Park",
+    "ssn": "***-**-5467",
+    "dateOfBirth": "1981-09-02",
+    "maritalStatus": "Married",
+    "phone": "(206) 555-4471",
+    "email": "linda.park@email.com"
+  },
+  "employment": {
+    "employerName": "Amazon Web Services, Inc.",
+    "employerAddress": "410 Terry Ave N, Seattle, WA 98109",
+    "position": "Principal Solutions Architect",
+    "startDate": "2016-04-14",
+    "yearsEmployed": 8,
+    "isSelfEmployed": "No",
+    "monthlyBaseSalary": 18500,
+    "monthlyOvertimeIncome": 0,
+    "monthlyBonusIncome": 2200,
+    "monthlyOtherIncome": 3800,
+    "totalMonthlyIncome": 24500
+  },
+  "coborrowerEmployment": {
+    "employerName": "Park Consulting LLC (Self-Employed)",
+    "position": "Independent Consultant",
+    "monthlyBaseSalary": 6200,
+    "totalMonthlyIncome": 6200
+  },
+  "assets": {
+    "checkingBalance": 62000,
+    "savingsBalance": 148000,
+    "retirementBalance": 640000,
+    "otherAssetsValue": 215000,
+    "totalAssets": 1065000
+  },
+  "liabilities": {
+    "monthlyRentMortgage": 4210,
+    "monthlyCarPayments": 1100,
+    "monthlyMinCreditCard": 380,
+    "monthlyStudentLoans": 0,
+    "monthlyOtherDebts": 450,
+    "totalMonthlyDebt": 6140,
+    "totalLiabilities": 134500
+  },
+  "declarations": {
+    "hasBankruptcy": "No",
+    "hasForeclosure": "No",
+    "hasLawsuit": "No",
+    "hasDelinquentDebt": "No",
+    "isUSCitizen": "Yes"
+  }
 }

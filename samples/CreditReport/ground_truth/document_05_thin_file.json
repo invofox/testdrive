@@ -1,4 +1,73 @@
 {
   "documentType": "CreditReport",
-  "sourceFile": "document_05_thin_file.pdf"
+  "sourceFile": "document_05_thin_file.pdf",
+  "reportNumber": "TU-2025-2214550",
+  "reportDate": "2025-05-08",
+  "creditBureau": "TransUnion",
+  "ficoScore": 680,
+  "equifaxScore": null,
+  "experianScore": null,
+  "transunionScore": null,
+  "reportType": "Individual",
+  "totalAccounts": 2,
+  "openAccounts": 2,
+  "closedAccounts": 0,
+  "delinquentAccounts": 0,
+  "collectionAccounts": 0,
+  "totalBalances": 9200,
+  "totalCreditLimit": 12500,
+  "creditUtilization": 18,
+  "inquiryCount": 1,
+  "oldestAccountAge": "Lakeview FCU Credit Card (May 2023) — 2 yrs",
+  "averageAccountAge": "1 year 11 months",
+  "subject": {
+    "fullName": "Yuki T. Nakamura",
+    "ssn": "***-**-2214",
+    "dateOfBirth": "1998-09-03",
+    "currentAddress": "320 Lakeview Blvd, Chicago, IL 60601",
+    "previousAddress": null,
+    "employer": "Chicago Digital Labs Inc."
+  },
+  "publicRecords": {
+    "hasBankruptcy": "No",
+    "bankruptcyType": null,
+    "bankruptcyDate": null,
+    "hasForeclosure": "No",
+    "hasJudgment": "No",
+    "hasTaxLien": "No",
+    "totalPublicRecords": 0
+  },
+  "paymentHistory": {
+    "onTimePayments": 24,
+    "latePayments30": 0,
+    "latePayments60": 0,
+    "latePayments90plus": 0,
+    "totalPayments": 24
+  },
+  "accounts": [
+    {
+      "creditorName": "Lakeview Federal Credit Union",
+      "accountType": "Credit Card",
+      "accountNumber": "****3301",
+      "openDate": "2023-05-01",
+      "balance": 2200,
+      "creditLimit": 12500,
+      "monthlyPayment": 88,
+      "paymentStatus": "Current",
+      "paymentHistory": "All payments on time (24 months)",
+      "creditBureau": "TransUnion"
+    },
+    {
+      "creditorName": "Dept. of Education / Navient",
+      "accountType": "Student Loan",
+      "accountNumber": "****8849",
+      "openDate": "2023-08-01",
+      "balance": 7000,
+      "creditLimit": null,
+      "monthlyPayment": 78,
+      "paymentStatus": "Current",
+      "paymentHistory": "All payments on time",
+      "creditBureau": "TransUnion"
+    }
+  ]
 }

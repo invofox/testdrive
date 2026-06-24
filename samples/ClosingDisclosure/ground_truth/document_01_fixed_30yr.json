@@ -1,4 +1,45 @@
 {
   "documentType": "ClosingDisclosure",
-  "sourceFile": "document_01_fixed_30yr.pdf"
+  "sourceFile": "document_01_fixed_30yr.pdf",
+  "closingDate": "2024-10-18",
+  "disbursementDate": "2024-10-21",
+  "loanNumber": "FNM-2024-104872",
+  "loanType": "Conventional",
+  "loanTerm": "30 Year Fixed",
+  "loanPurpose": "Purchase",
+  "interestRate": 6.875,
+  "loanAmount": 380000,
+  "monthlyPrincipalInterest": 2496.14,
+  "apr": 7.021,
+  "totalClosingCosts": 11420,
+  "cashToClose": 28650,
+  "currency": "USD",
+  "salePrice": 407500,
+  "prepaidInterest": 287.08,
+  "initialEscrow": 1084,
+  "borrower": {
+    "name": "Thomas D. Briggs & Amanda L. Briggs",
+    "address": {
+      "country": "US",
+      "postalCode": "60515",
+      "municipality": "Downers Grove",
+      "street": "817 Elmhurst Ct"
+    }
+  },
+  "lender": {
+    "name": "First National Mortgage Corp.",
+    "address": {
+      "country": "US",
+      "postalCode": "60606",
+      "municipality": "Chicago",
+      "street": "220 W. Adams St, Suite 1400"
+    }
+  },
+  "propertyAddress": {
+    "raw": "4412 Willow Creek Rd, Naperville, IL 60540",
+    "country": "US",
+    "postalCode": "60540",
+    "municipality": "Naperville",
+    "street": "4412 Willow Creek Rd"
+  }
 }

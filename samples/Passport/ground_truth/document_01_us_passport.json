@@ -1,4 +1,18 @@
 {
   "documentType": "Passport",
-  "sourceFile": "document_01_us_passport.pdf"
+  "sourceFile": "document_01_us_passport.pdf",
+  "documentNumber": "584920817",
+  "issuingCountry": "US",
+  "issuingAuthority": "U.S. Department of State",
+  "issueDate": "2022-06-08",
+  "expiryDate": "2032-06-07",
+  "surname": "WHITFIELD",
+  "givenNames": "THOMAS JAMES",
+  "dateOfBirth": "1980-03-15",
+  "placeOfBirth": "DENVER, COLORADO, USA",
+  "nationality": "UNITED STATES OF AMERICA",
+  "sex": "M",
+  "personalNumber": null,
+  "mrzLine1": "P<USAWHITFIELD<<THOMAS<JAMES<<<<<<<<<<<<<<<<<<<<<",
+  "mrzLine2": "584920817<4USA8003152M3206071<<<<<<<<<<<<<<6"
 }

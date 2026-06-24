@@ -1,4 +1,41 @@
 {
   "documentType": "Contract",
-  "sourceFile": "document_04_uk_consultancy.pdf"
+  "sourceFile": "document_04_uk_consultancy.pdf",
+  "contractNumber": "WA-CON-2025-114",
+  "contractTitle": "Consultancy Agreement",
+  "contractType": "Consultancy Agreement",
+  "effectiveDate": "2025-02-28",
+  "expiryDate": "2026-02-27",
+  "signatureDate": "2025-02-28",
+  "currency": "GBP",
+  "totalValue": null,
+  "paymentTerms": "30 days from invoice date",
+  "governingLaw": "England and Wales",
+  "jurisdiction": "Courts of England and Wales",
+  "party1": {
+    "name": "Whitmore & Associates LLP",
+    "role": "Client",
+    "taxId": "OC412887",
+    "address": {
+      "country": "GB",
+      "postalCode": "EC4N 7AF",
+      "municipality": "London",
+      "street": "14 King William Street"
+    },
+    "signatoryName": "Richard T. Whitmore",
+    "signatoryTitle": "Managing Partner"
+  },
+  "party2": {
+    "name": "Fiona Blackwood Consulting Ltd",
+    "role": "Consultant",
+    "taxId": "SC558741",
+    "address": {
+      "country": "GB",
+      "postalCode": "EH2 4DF",
+      "municipality": "Edinburgh",
+      "street": "22 Charlotte Square"
+    },
+    "signatoryName": "Fiona Blackwood",
+    "signatoryTitle": "Director"
+  }
 }

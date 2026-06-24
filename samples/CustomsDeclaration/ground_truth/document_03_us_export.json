@@ -1,4 +1,101 @@
 {
   "documentType": "CustomsDeclaration",
-  "sourceFile": "document_03_us_export.pdf"
+  "sourceFile": "document_03_us_export.pdf",
+  "declarationType": "Export",
+  "declarationNumber": "X20250910223817",
+  "declarationDate": "2025-09-10",
+  "entryType": "Export",
+  "portOfEntry": null,
+  "portOfLading": "4601 — Port Newark, NJ",
+  "countryOfOrigin": "US",
+  "countryOfExport": "US",
+  "countryOfDestination": "BR",
+  "importer": {
+    "name": "Indústrias Brasileiras Metalúrgicas S.A. (IBM S.A.)",
+    "taxId": "14.829.037/0001-82",
+    "address": {
+      "street": "Av. das Indústrias, 2400, Distrito Industrial",
+      "municipality": "Manaus",
+      "postalCode": "69075-000",
+      "country": "BR"
+    }
+  },
+  "exporter": {
+    "name": "Meridian Industrial Systems Corp.",
+    "taxId": "34-1829047",
+    "address": {
+      "street": "4400 Commerce Parkway, Building C",
+      "municipality": "Cleveland",
+      "postalCode": "44128",
+      "country": "US"
+    }
+  },
+  "carrier": "MSC AURORA",
+  "vesselFlightNumber": "MSC AURORA / V.0912S",
+  "billOfLadingNumber": "MSCUNW25091200047",
+  "incoterms": "CIF",
+  "currency": "USD",
+  "totalDeclaredValue": 342800,
+  "freightCost": 8450,
+  "insuranceCost": 1714,
+  "cifValue": null,
+  "dutiableValue": null,
+  "totalDuties": null,
+  "totalTaxes": null,
+  "lineItems": [
+    {
+      "lineNumber": 1,
+      "description": "Industrial CNC Milling Machine, 5-Axis, Vertical Machining Center, Max Workpiece 1200x800mm (Model: MC-5V-1200)",
+      "hsCode": "8457.10.0000",
+      "quantity": 2,
+      "unit": "NO",
+      "weight": 14800,
+      "unitValue": null,
+      "totalValue": 198000,
+      "dutyRate": null,
+      "dutyAmount": null,
+      "countryOfOrigin": "US"
+    },
+    {
+      "lineNumber": 2,
+      "description": "Hydraulic Press, 400-Ton, H-Frame Configuration, with PLC Control System (Model: HP-400H)",
+      "hsCode": "8462.21.0040",
+      "quantity": 1,
+      "unit": "NO",
+      "weight": 9200,
+      "unitValue": null,
+      "totalValue": 87500,
+      "dutyRate": null,
+      "dutyAmount": null,
+      "countryOfOrigin": "US"
+    },
+    {
+      "lineNumber": 3,
+      "description": "Replacement Tooling Kit for CNC MC-5V-1200 — Set of Carbide Inserts, Tool Holders, Collets",
+      "hsCode": "8207.70.6000",
+      "quantity": 10,
+      "unit": "SET",
+      "weight": 180,
+      "unitValue": null,
+      "totalValue": 34000,
+      "dutyRate": null,
+      "dutyAmount": null,
+      "countryOfOrigin": "US"
+    },
+    {
+      "lineNumber": 4,
+      "description": "Installation, Training & Commissioning Services (as part of equipment contract)",
+      "hsCode": null,
+      "quantity": 1,
+      "unit": "LOT",
+      "weight": 0,
+      "unitValue": null,
+      "totalValue": 23300,
+      "dutyRate": null,
+      "dutyAmount": null,
+      "countryOfOrigin": "US"
+    }
+  ],
+  "brokerName": "TransAmerica Export Solutions, LLC",
+  "brokerLicenseNumber": "OTI-NVO-4821-US"
 }

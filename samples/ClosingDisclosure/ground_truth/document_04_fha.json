@@ -1,4 +1,45 @@
 {
   "documentType": "ClosingDisclosure",
-  "sourceFile": "document_04_fha.pdf"
+  "sourceFile": "document_04_fha.pdf",
+  "closingDate": "2025-03-14",
+  "disbursementDate": "2025-03-17",
+  "loanNumber": "MCB-2025-30047",
+  "loanType": "FHA",
+  "loanTerm": "30 Year Fixed",
+  "loanPurpose": "Purchase",
+  "interestRate": 6.5,
+  "loanAmount": 195000,
+  "monthlyPrincipalInterest": 1232.47,
+  "apr": 7.124,
+  "totalClosingCosts": 7890,
+  "cashToClose": 8640,
+  "currency": "USD",
+  "salePrice": 202000,
+  "prepaidInterest": 138.52,
+  "initialEscrow": 1026.5,
+  "borrower": {
+    "name": "Marcus L. Williams",
+    "address": {
+      "country": "US",
+      "postalCode": "38104",
+      "municipality": "Memphis",
+      "street": "2241 Beale Ave Apt 4"
+    }
+  },
+  "lender": {
+    "name": "Metro Community Bank",
+    "address": {
+      "country": "US",
+      "postalCode": "38157",
+      "municipality": "Memphis",
+      "street": "5050 Poplar Ave Ste 100"
+    }
+  },
+  "propertyAddress": {
+    "raw": "710 Sunrise Blvd, Memphis, TN 38118",
+    "country": "US",
+    "postalCode": "38118",
+    "municipality": "Memphis",
+    "street": "710 Sunrise Blvd"
+  }
 }

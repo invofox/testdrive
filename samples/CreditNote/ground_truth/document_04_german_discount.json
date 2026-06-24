@@ -1,4 +1,46 @@
 {
   "documentType": "CreditNote",
-  "sourceFile": "document_04_german_discount.pdf"
+  "sourceFile": "document_04_german_discount.pdf",
+  "documentNumber": "CN-2025-112",
+  "issueDate": "2025-05-09",
+  "originalInvoiceRef": "INV-2025-089",
+  "reason": "Agreed retroactive discount of 7% on bulk order of CNC milling components (50+ units threshold reached per Framework Agreement § 4.1). Credit note issued to adjust invoice INV-2025-089 accordingly.",
+  "currency": "USD",
+  "totalAmount": -2100,
+  "totalTaxBaseAmount": -2100,
+  "totalTaxAmount": 0,
+  "supplier": {
+    "name": "Schulz & Weber Maschinenbau GmbH",
+    "taxId": "DE 219 847 631",
+    "address": {
+      "country": "DE",
+      "postalCode": "70178",
+      "municipality": "Stuttgart",
+      "street": "Reinsburgstraße 48"
+    }
+  },
+  "customer": {
+    "name": "Lakewood Industrial Corp",
+    "taxId": "34-1067452",
+    "address": {
+      "country": "US",
+      "postalCode": "44103",
+      "municipality": "Cleveland",
+      "street": "4400 Carnegie Avenue, Building D"
+    }
+  },
+  "lines": [
+    {
+      "description": "CNC Milling Component XP-502 — 7% Bulk Discount",
+      "quantity": 30,
+      "unitPrice": -42,
+      "amount": -1260
+    },
+    {
+      "description": "CNC Milling Component XP-503 — 7% Bulk Discount",
+      "quantity": 20,
+      "unitPrice": -42,
+      "amount": -840
+    }
+  ]
 }

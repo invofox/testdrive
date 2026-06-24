@@ -1,4 +1,45 @@
 {
   "documentType": "ClosingDisclosure",
-  "sourceFile": "document_03_refinance.pdf"
+  "sourceFile": "document_03_refinance.pdf",
+  "closingDate": "2024-07-26",
+  "disbursementDate": "2024-07-30",
+  "loanNumber": "HFS-2024-78832",
+  "loanType": "Conventional",
+  "loanTerm": "30 Year Fixed",
+  "loanPurpose": "Cash-Out Refinance",
+  "interestRate": 7.125,
+  "loanAmount": 240000,
+  "monthlyPrincipalInterest": 1616.02,
+  "apr": 7.348,
+  "totalClosingCosts": 6340,
+  "cashToClose": 44200,
+  "currency": "USD",
+  "salePrice": 328000,
+  "prepaidInterest": 236.3,
+  "initialEscrow": 792,
+  "borrower": {
+    "name": "Ronald E. Givens & Patricia A. Givens",
+    "address": {
+      "country": "US",
+      "postalCode": "43214",
+      "municipality": "Columbus",
+      "street": "88 Maplewood Ave"
+    }
+  },
+  "lender": {
+    "name": "Heartland Federal Savings",
+    "address": {
+      "country": "US",
+      "postalCode": "43215",
+      "municipality": "Columbus",
+      "street": "100 S. High St"
+    }
+  },
+  "propertyAddress": {
+    "raw": "88 Maplewood Ave, Columbus, OH 43214",
+    "country": "US",
+    "postalCode": "43214",
+    "municipality": "Columbus",
+    "street": "88 Maplewood Ave"
+  }
 }

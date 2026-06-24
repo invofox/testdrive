@@ -1,4 +1,35 @@
 {
   "documentType": "Form1099",
-  "sourceFile": "document_04_1099div_investment.pdf"
+  "sourceFile": "document_04_1099div_investment.pdf",
+  "formVariant": "DIV",
+  "taxYear": 2024,
+  "corrected": null,
+  "payerName": "Vanguard Brokerage Services",
+  "payerTIN": "23-1945015",
+  "payerAddress": {
+    "street": "P.O. Box 2900",
+    "municipality": "Valley Forge, PA",
+    "postalCode": "19482",
+    "country": "US"
+  },
+  "payerPhone": "(800) 555-7770",
+  "recipientName": "Robert G. Harrington",
+  "recipientTIN": "•••-••-7724",
+  "recipientAddress": {
+    "street": "415 Maple Street",
+    "municipality": "Boston, MA",
+    "postalCode": "02101",
+    "country": "US"
+  },
+  "accountNumber": "BROK-RGH-44821",
+  "box1Amount": 3218.4,
+  "box2Amount": 2874.3,
+  "box3Amount": null,
+  "box4FederalTax": 0,
+  "box5Amount": 344.1,
+  "box6Amount": null,
+  "stateCode": "PA",
+  "statePayerTIN": "2319450150",
+  "stateIncome": 3218.4,
+  "stateTax": 0
 }

@@ -1,4 +1,28 @@
 {
   "documentType": "IDCard",
-  "sourceFile": "document_05_french_cni.pdf"
+  "sourceFile": "document_05_french_cni.pdf",
+  "documentNumber": "9841032185421",
+  "issuingCountry": "FR",
+  "issuingAuthority": "Préfecture de Lyon",
+  "issueDate": "2023-06-22",
+  "expiryDate": "2033-06-22",
+  "lastName": "BEAUMONT",
+  "firstName": "Claire",
+  "middleName": "Sophie",
+  "dateOfBirth": "1993-11-08",
+  "placeOfBirth": "Lyon",
+  "nationality": "Française",
+  "sex": "F",
+  "height": null,
+  "eyeColor": null,
+  "hairColor": null,
+  "mrzLine1": "IDFRA9841032185421<<<<<<<<<<<<<<<<",
+  "mrzLine2": "9311088F3306228FRA<<<<<<<BEAUMONT<<CLAIRE<SOPHIE<<<",
+  "address": {
+    "raw": null,
+    "country": null,
+    "postalCode": null,
+    "municipality": null,
+    "street": null
+  }
 }

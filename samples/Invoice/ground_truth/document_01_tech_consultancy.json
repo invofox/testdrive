@@ -1,4 +1,67 @@
 {
   "documentType": "Invoice",
-  "sourceFile": "document_01_tech_consultancy.pdf"
+  "sourceFile": "document_01_tech_consultancy.pdf",
+  "documentNumber": "VSL-2024-00847",
+  "issueDate": "2024-11-04",
+  "dueDate": "2024-12-04",
+  "currency": "USD",
+  "totalAmount": 8750,
+  "totalTaxBaseAmount": 8750,
+  "totalTaxAmount": 0,
+  "withholdingTaxRate": null,
+  "withholdingTaxAmount": null,
+  "supplier": {
+    "name": "Vertex Solutions LLC",
+    "taxId": "83-4712066",
+    "email": "billing@vertexsolutions.io",
+    "phoneNumber": "+1 (512) 349-8821",
+    "address": {
+      "street": "500 W 2nd Street, Suite 1900",
+      "municipality": "Austin",
+      "postalCode": "78701",
+      "country": "US"
+    }
+  },
+  "customer": {
+    "name": "Meridian Analytics Inc",
+    "taxId": "47-2938105",
+    "email": "accounts.payable@meridiananalytics.com",
+    "phoneNumber": null,
+    "address": {
+      "street": "233 S Wacker Drive, Suite 4400",
+      "municipality": "Chicago",
+      "postalCode": "60606",
+      "country": "US"
+    }
+  },
+  "lines": [
+    {
+      "description": "Custom API Development",
+      "quantity": 80,
+      "unitPrice": 75,
+      "totalAmount": 6000,
+      "taxRate": 0
+    },
+    {
+      "description": "AWS Infrastructure Setup & Configuration",
+      "quantity": 20,
+      "unitPrice": 112.5,
+      "totalAmount": 2250,
+      "taxRate": 0
+    },
+    {
+      "description": "Technical Project Management",
+      "quantity": 5,
+      "unitPrice": 100,
+      "totalAmount": 500,
+      "taxRate": 0
+    }
+  ],
+  "breakdowns": [
+    {
+      "taxRate": 0,
+      "taxBaseAmount": 8750,
+      "taxAmount": 0
+    }
+  ]
 }

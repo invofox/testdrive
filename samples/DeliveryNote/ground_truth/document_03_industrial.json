@@ -1,4 +1,113 @@
 {
   "documentType": "DeliveryNote",
-  "sourceFile": "document_03_industrial.pdf"
+  "sourceFile": "document_03_industrial.pdf",
+  "deliveryNoteNumber": "88214",
+  "issueDate": "2025-05-07",
+  "deliveryDate": "2025-05-08",
+  "orderRef": "AMW-PO-2025-1804",
+  "invoiceRef": "KIS-INV-2025-7723",
+  "carrierId": "Comet Freight Lines — D. Polanski (CDL #PA-8821)",
+  "totalPackages": 12,
+  "totalWeight": "4,380 kg",
+  "supplier": {
+    "name": "Keystone Industrial Supply Co.",
+    "address": {
+      "raw": "1055 Brownstown Road, Unit C, Pittsburgh, PA 15210, United States",
+      "street": "1055 Brownstown Road, Unit C",
+      "municipality": "Pittsburgh",
+      "postalCode": "15210",
+      "country": "US"
+    }
+  },
+  "recipient": {
+    "name": "Allegheny Metal Works LLC",
+    "address": {
+      "raw": "320 Industrial Boulevard, Bethlehem, PA 18015, United States",
+      "street": "320 Industrial Boulevard",
+      "municipality": "Bethlehem",
+      "postalCode": "18015",
+      "country": "US"
+    }
+  },
+  "shipToAddress": {
+    "raw": "320 Industrial Boulevard, Dock 3, Gate C, Bethlehem, PA 18015, United States",
+    "street": "320 Industrial Boulevard, Dock 3, Gate C",
+    "municipality": "Bethlehem",
+    "postalCode": "18015",
+    "country": "US"
+  },
+  "lines": [
+    {
+      "lineNumber": "001",
+      "partNumber": "PIPE-A106-4NPS",
+      "description": "ASTM A106 Gr. B Carbon Steel Pipe, 4\" NPS, Sch 40, 21ft joints",
+      "quantityOrdered": 50,
+      "quantityDelivered": 50,
+      "unitOfMeasure": "PCS",
+      "batchNumber": "HT-2024-A106-8812"
+    },
+    {
+      "lineNumber": "002",
+      "partNumber": "PIPE-A106-6NPS",
+      "description": "ASTM A106 Gr. B Carbon Steel Pipe, 6\" NPS, Sch 40, 21ft joints",
+      "quantityOrdered": 30,
+      "quantityDelivered": 30,
+      "unitOfMeasure": "PCS",
+      "batchNumber": "HT-2024-A106-8813"
+    },
+    {
+      "lineNumber": "003",
+      "partNumber": "ELB-SW-4-90DEG",
+      "description": "Carbon Steel SW Elbow 90°, 4\" Class 3000, ASTM A105",
+      "quantityOrdered": 120,
+      "quantityDelivered": 120,
+      "unitOfMeasure": "EA",
+      "batchNumber": "HT-2025-FTG-0441"
+    },
+    {
+      "lineNumber": "004",
+      "partNumber": "ELB-SW-6-90DEG",
+      "description": "Carbon Steel SW Elbow 90°, 6\" Class 3000, ASTM A105",
+      "quantityOrdered": 80,
+      "quantityDelivered": 80,
+      "unitOfMeasure": "EA",
+      "batchNumber": "HT-2025-FTG-0442"
+    },
+    {
+      "lineNumber": "005",
+      "partNumber": "TEE-BW-4-STD",
+      "description": "Carbon Steel BW Tee, 4\" Std. Wall, ASTM A234 WPB",
+      "quantityOrdered": 60,
+      "quantityDelivered": 60,
+      "unitOfMeasure": "EA",
+      "batchNumber": "HT-2025-FTG-0443"
+    },
+    {
+      "lineNumber": "006",
+      "partNumber": "FLG-WN-4-150LB",
+      "description": "Weld Neck Flange, 4\" 150# RF, ASTM A105, ASME B16.5",
+      "quantityOrdered": 40,
+      "quantityDelivered": 40,
+      "unitOfMeasure": "EA",
+      "batchNumber": "HT-2025-FLG-0112"
+    },
+    {
+      "lineNumber": "007",
+      "partNumber": "FLG-WN-6-150LB",
+      "description": "Weld Neck Flange, 6\" 150# RF, ASTM A105, ASME B16.5",
+      "quantityOrdered": 25,
+      "quantityDelivered": 20,
+      "unitOfMeasure": "EA",
+      "batchNumber": "HT-2025-FLG-0113"
+    },
+    {
+      "lineNumber": "008",
+      "partNumber": "BOLTSET-4-150",
+      "description": "Stud Bolt Set w/ Nuts, 4\" 150# (A193 B7 / A194 2H), 8-bolt set",
+      "quantityOrdered": 40,
+      "quantityDelivered": 40,
+      "unitOfMeasure": "SET",
+      "batchNumber": "HT-2025-HDW-2200"
+    }
+  ]
 }

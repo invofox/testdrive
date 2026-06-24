@@ -1,4 +1,98 @@
 {
   "documentType": "Quote",
-  "sourceFile": "document_05_spanish_reforma.pdf"
+  "sourceFile": "document_05_spanish_reforma.pdf",
+  "quoteNumber": "PRES-2025-0078",
+  "issueDate": "2025-03-05",
+  "expiryDate": "2025-04-04",
+  "currency": "EUR",
+  "totalAmount": 38115,
+  "totalTaxBaseAmount": 31500,
+  "totalTaxAmount": 6615,
+  "taxRate": 21,
+  "paymentTerms": "40% a la firma del contrato. 40% a mitad de obra. 20% restante a la entrega final. Transferencia bancaria IBAN ES12 0049 1234 5600 1234 5678.",
+  "validityDays": 30,
+  "supplier": {
+    "name": "Construcciones Velázquez e Hijos SL",
+    "taxId": "B-41723458",
+    "email": "info@velazquezhijos.es",
+    "phoneNumber": "954 67 23 10",
+    "address": {
+      "country": "ES",
+      "postalCode": "41007",
+      "municipality": "Sevilla",
+      "street": "Polígono Industrial Carretera Amarilla, Nave 12",
+      "raw": "Polígono Industrial Carretera Amarilla, Nave 12, 41007 Sevilla, España"
+    }
+  },
+  "customer": {
+    "name": "Comunidad de Propietarios Edificio Giralda",
+    "taxId": null,
+    "email": "comunidad.giralda@gmail.com",
+    "phoneNumber": null,
+    "address": {
+      "country": "ES",
+      "postalCode": "41004",
+      "municipality": "Sevilla",
+      "street": "Calle Sierpes, 44, 2.º A",
+      "raw": "Calle Sierpes, 44, 2.º A, 41004 Sevilla, España"
+    }
+  },
+  "lines": [
+    {
+      "description": "Trabajos previos y demolición",
+      "quantity": 1,
+      "unitOfMeasure": "PA",
+      "unitPrice": 1200,
+      "totalAmount": 1200
+    },
+    {
+      "description": "Solado portal y rellanos — mármol crema marfil (pulido)",
+      "quantity": 85,
+      "unitOfMeasure": "m²",
+      "unitPrice": 88,
+      "totalAmount": 7480
+    },
+    {
+      "description": "Pintura plástica en paredes y techos de escalera (4 plantas)",
+      "quantity": 320,
+      "unitOfMeasure": "m²",
+      "unitPrice": 12.5,
+      "totalAmount": 4000
+    },
+    {
+      "description": "Renovación instalación eléctrica zonas comunes",
+      "quantity": 1,
+      "unitOfMeasure": "PA",
+      "unitPrice": 4800,
+      "totalAmount": 4800
+    },
+    {
+      "description": "Sustitución de ascensor (cabina, motor, guías)",
+      "quantity": 1,
+      "unitOfMeasure": "Ud.",
+      "unitPrice": 9200,
+      "totalAmount": 9200
+    },
+    {
+      "description": "Saneamiento y pintura de fachada exterior",
+      "quantity": 210,
+      "unitOfMeasure": "m²",
+      "unitPrice": 21,
+      "totalAmount": 4410
+    },
+    {
+      "description": "Puerta de portal — acero inoxidable con videoportero HD",
+      "quantity": 1,
+      "unitOfMeasure": "Ud.",
+      "unitPrice": 2400,
+      "totalAmount": 2400
+    },
+    {
+      "description": "Dirección de obra, coordinación de seguridad y limpieza final",
+      "quantity": 1,
+      "unitOfMeasure": "PA",
+      "unitPrice": 2010,
+      "totalAmount": 2010
+    }
+  ]
 }

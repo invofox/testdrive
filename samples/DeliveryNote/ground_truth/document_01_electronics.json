@@ -1,4 +1,104 @@
 {
   "documentType": "DeliveryNote",
-  "sourceFile": "document_01_electronics.pdf"
+  "sourceFile": "document_01_electronics.pdf",
+  "deliveryNoteNumber": "DN-2025-44821",
+  "issueDate": "2025-04-14",
+  "deliveryDate": "2025-04-16",
+  "orderRef": "PO-RER-2025-7731",
+  "invoiceRef": "INV-2025-31042",
+  "carrierId": "FedEx Freight — T. Okafor",
+  "totalPackages": 18,
+  "totalWeight": "214.6 kg",
+  "supplier": {
+    "name": "Synapse Tech Distribution Inc.",
+    "address": {
+      "raw": "2840 Orchard Parkway, Suite 200, San Jose, CA 95134, United States",
+      "street": "2840 Orchard Parkway, Suite 200",
+      "municipality": "San Jose",
+      "postalCode": "95134",
+      "country": "US"
+    }
+  },
+  "recipient": {
+    "name": "Ridgeline Electronics Retail LLC",
+    "address": {
+      "raw": "4510 Truxel Road, Unit 12, Sacramento, CA 95834, United States",
+      "street": "4510 Truxel Road, Unit 12",
+      "municipality": "Sacramento",
+      "postalCode": "95834",
+      "country": "US"
+    }
+  },
+  "shipToAddress": {
+    "raw": "4510 Truxel Road, Dock B, Sacramento, CA 95834, United States",
+    "street": "4510 Truxel Road, Dock B",
+    "municipality": "Sacramento",
+    "postalCode": "95834",
+    "country": "US"
+  },
+  "lines": [
+    {
+      "lineNumber": "1",
+      "partNumber": "LPT-STD-14G2",
+      "description": "Laptop 14\" Intel Core i7-13th Gen, 16GB RAM, 512GB SSD, Win 11 Pro",
+      "quantityOrdered": 20,
+      "quantityDelivered": 20,
+      "unitOfMeasure": "EA",
+      "batchNumber": "BT-2025-LP-0441"
+    },
+    {
+      "lineNumber": "2",
+      "partNumber": "LPT-BUS-15P5",
+      "description": "Laptop 15.6\" AMD Ryzen 7 7730U, 32GB RAM, 1TB SSD, Win 11 Pro",
+      "quantityOrdered": 10,
+      "quantityDelivered": 10,
+      "unitOfMeasure": "EA",
+      "batchNumber": "BT-2025-LP-0442"
+    },
+    {
+      "lineNumber": "3",
+      "partNumber": "USB-HUB-7PT",
+      "description": "USB-C 7-Port Hub with Power Delivery 100W, HDMI 2.0",
+      "quantityOrdered": 50,
+      "quantityDelivered": 50,
+      "unitOfMeasure": "EA",
+      "batchNumber": "BT-2025-ACC-0882"
+    },
+    {
+      "lineNumber": "4",
+      "partNumber": "KBD-WL-COMP",
+      "description": "Wireless Compact Keyboard, Bluetooth 5.0 + USB Dongle",
+      "quantityOrdered": 40,
+      "quantityDelivered": 35,
+      "unitOfMeasure": "EA",
+      "batchNumber": "BT-2025-ACC-0883"
+    },
+    {
+      "lineNumber": "5",
+      "partNumber": "MSE-ERG-VRT",
+      "description": "Vertical Ergonomic Wireless Mouse, 6-button, 1200–4000 DPI",
+      "quantityOrdered": 40,
+      "quantityDelivered": 40,
+      "unitOfMeasure": "EA",
+      "batchNumber": "BT-2025-ACC-0884"
+    },
+    {
+      "lineNumber": "6",
+      "partNumber": "BAG-16-BKPK",
+      "description": "16\" Laptop Backpack, TSA-approved, water-resistant nylon",
+      "quantityOrdered": 30,
+      "quantityDelivered": 30,
+      "unitOfMeasure": "EA",
+      "batchNumber": "BT-2025-ACC-0885"
+    },
+    {
+      "lineNumber": "7",
+      "partNumber": "MON-27-FHD",
+      "description": "27\" Full HD IPS Monitor, 75Hz, HDMI + VGA, VESA-compatible",
+      "quantityOrdered": 15,
+      "quantityDelivered": 15,
+      "unitOfMeasure": "EA",
+      "batchNumber": "BT-2025-MN-0210"
+    }
+  ]
 }

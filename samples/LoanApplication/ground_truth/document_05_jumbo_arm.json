@@ -1,4 +1,87 @@
 {
   "documentType": "LoanApplication",
-  "sourceFile": "document_05_jumbo_arm.pdf"
+  "sourceFile": "document_05_jumbo_arm.pdf",
+  "loanAmount": 2400000,
+  "loanPurpose": "Purchase",
+  "loanType": "Jumbo",
+  "interestRateType": "5/1 ARM",
+  "loanTerm": "30 Year",
+  "applicationDate": "2025-02-12",
+  "amortizationType": "Adjustable Rate — 5/1 ARM (SOFR + 2.50%)",
+  "property": {
+    "address": "22 Wilshire Estates Dr",
+    "city": "Beverly Hills",
+    "state": "CA",
+    "zipCode": "90210",
+    "estimatedValue": 3200000,
+    "propertyType": "Single Family",
+    "propertyUse": "Primary Residence"
+  },
+  "borrower": {
+    "fullName": "Christopher O. Ashford",
+    "ssn": "***-**-8833",
+    "dateOfBirth": "1975-03-15",
+    "maritalStatus": "Single",
+    "dependents": 0,
+    "phone": "(310) 555-8040",
+    "email": "c.ashford@ashfordcapital.com",
+    "yearsAtCurrentAddress": 5,
+    "currentAddress": {
+      "raw": "10 Century Park E, Apt 1402, Los Angeles, CA 90067",
+      "country": "US",
+      "postalCode": "90067",
+      "municipality": "Los Angeles",
+      "street": "10 Century Park E, Apt 1402"
+    }
+  },
+  "coborrower": {
+    "fullName": null,
+    "ssn": null,
+    "dateOfBirth": null,
+    "maritalStatus": null,
+    "phone": null,
+    "email": null
+  },
+  "employment": {
+    "employerName": "Ashford Capital Management LLC",
+    "employerAddress": "2000 Ave of the Stars, Suite 950, Los Angeles, CA 90067",
+    "position": "Managing Partner / CEO",
+    "startDate": "2013-01-01",
+    "yearsEmployed": 12,
+    "isSelfEmployed": "Yes",
+    "monthlyBaseSalary": 45000,
+    "monthlyOvertimeIncome": 0,
+    "monthlyBonusIncome": 18000,
+    "monthlyOtherIncome": 12500,
+    "totalMonthlyIncome": 75500
+  },
+  "coborrowerEmployment": {
+    "employerName": null,
+    "position": null,
+    "monthlyBaseSalary": null,
+    "totalMonthlyIncome": null
+  },
+  "assets": {
+    "checkingBalance": 285000,
+    "savingsBalance": 1480000,
+    "retirementBalance": 3200000,
+    "otherAssetsValue": 6400000,
+    "totalAssets": 11365000
+  },
+  "liabilities": {
+    "monthlyRentMortgage": 9500,
+    "monthlyCarPayments": 3200,
+    "monthlyMinCreditCard": 850,
+    "monthlyStudentLoans": 0,
+    "monthlyOtherDebts": 4100,
+    "totalMonthlyDebt": 17650,
+    "totalLiabilities": 680000
+  },
+  "declarations": {
+    "hasBankruptcy": "No",
+    "hasForeclosure": "No",
+    "hasLawsuit": "No",
+    "hasDelinquentDebt": "No",
+    "isUSCitizen": "Yes"
+  }
 }

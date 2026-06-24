@@ -1,4 +1,46 @@
 {
   "documentType": "CreditNote",
-  "sourceFile": "document_02_uk_return.pdf"
+  "sourceFile": "document_02_uk_return.pdf",
+  "documentNumber": "CN/2025/0088",
+  "issueDate": "2025-04-22",
+  "originalInvoiceRef": "INV/2025/0071",
+  "reason": "Goods returned as defective: 5 × Executive Mesh Office Chairs (SKU: EMC-701BK) delivered on 10 April 2025 were found to have broken armrest mechanisms. Full credit issued upon confirmed return receipt dated 19 April 2025.",
+  "currency": "GBP",
+  "totalAmount": -890,
+  "totalTaxBaseAmount": -645,
+  "totalTaxAmount": -129,
+  "supplier": {
+    "name": "Sterling Office Supplies Ltd",
+    "taxId": "GB 294 8831 07",
+    "address": {
+      "country": "GB",
+      "postalCode": "B1 1TG",
+      "municipality": "Birmingham",
+      "street": "Unit 12, Holliday Wharf Industrial Estate"
+    }
+  },
+  "customer": {
+    "name": "Harrington & Partners LLP",
+    "taxId": "GB 182 4453 29",
+    "address": {
+      "country": "GB",
+      "postalCode": "WC1X 8HN",
+      "municipality": "London",
+      "street": "14 Gray's Inn Road, 3rd Floor"
+    }
+  },
+  "lines": [
+    {
+      "description": "Executive Mesh Office Chair — Black (Defective Return)",
+      "quantity": 5,
+      "unitPrice": -118,
+      "amount": -590
+    },
+    {
+      "description": "Return Logistics Credit",
+      "quantity": 1,
+      "unitPrice": -55,
+      "amount": -55
+    }
+  ]
 }

@@ -1,4 +1,35 @@
 {
   "documentType": "Form1099",
-  "sourceFile": "document_02_1099misc_rent.pdf"
+  "sourceFile": "document_02_1099misc_rent.pdf",
+  "formVariant": "MISC",
+  "taxYear": 2024,
+  "corrected": null,
+  "payerName": "Greenfield Property Management LLC",
+  "payerTIN": "56-1829047",
+  "payerAddress": {
+    "street": "2250 Corporate Park Drive, Suite 400",
+    "municipality": "Charlotte, NC",
+    "postalCode": "28201",
+    "country": "US"
+  },
+  "payerPhone": "(704) 555-0244",
+  "recipientName": "Henderson Dental Group, P.C.",
+  "recipientTIN": "56-2391048",
+  "recipientAddress": {
+    "street": "5500 Park Road, Suite 200",
+    "municipality": "Charlotte, NC",
+    "postalCode": "28210",
+    "country": "US"
+  },
+  "accountNumber": "TENANT-5500-HDG",
+  "box1Amount": 24000,
+  "box2Amount": null,
+  "box3Amount": null,
+  "box4FederalTax": 0,
+  "box5Amount": null,
+  "box6Amount": null,
+  "stateCode": "NC",
+  "statePayerTIN": "5618290470",
+  "stateIncome": 24000,
+  "stateTax": 0
 }

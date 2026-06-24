@@ -1,4 +1,28 @@
 {
   "documentType": "DriversLicense",
-  "sourceFile": "document_05_spanish_carnet.pdf"
+  "sourceFile": "document_05_spanish_carnet.pdf",
+  "licenseNumber": "48821073 B",
+  "issuingCountry": "ES",
+  "issuingState": null,
+  "issuingAuthority": "Dirección General de Tráfico",
+  "issueDate": "2021-02-08",
+  "expiryDate": "2026-05-17",
+  "lastName": "GÓMEZ PALACIOS",
+  "firstName": "RAFAEL",
+  "middleName": null,
+  "dateOfBirth": "1985-05-17",
+  "sex": null,
+  "height": null,
+  "eyeColor": null,
+  "hairColor": null,
+  "vehicleCategories": "B, AM",
+  "restrictions": null,
+  "endorsements": null,
+  "address": {
+    "raw": "C/ Alcalá, 48, 28009 Madrid",
+    "country": "ES",
+    "postalCode": "28009",
+    "municipality": "Madrid",
+    "street": "C/ Alcalá, 48"
+  }
 }

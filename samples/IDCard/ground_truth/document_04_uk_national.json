@@ -1,4 +1,28 @@
 {
   "documentType": "IDCard",
-  "sourceFile": "document_04_uk_national.pdf"
+  "sourceFile": "document_04_uk_national.pdf",
+  "documentNumber": "GB1234567",
+  "issuingCountry": "GB",
+  "issuingAuthority": "HM Passport Office",
+  "issueDate": "2022-01-10",
+  "expiryDate": "2032-03-25",
+  "lastName": "PEMBERTON",
+  "firstName": "James",
+  "middleName": "Oliver",
+  "dateOfBirth": "1985-03-25",
+  "placeOfBirth": "London, GB",
+  "nationality": "GBR",
+  "sex": "M",
+  "height": null,
+  "eyeColor": null,
+  "hairColor": null,
+  "mrzLine1": "IDGBRGB1234567<2<<<<<<<<<<<<<<<<<<<<<",
+  "mrzLine2": "8503258M3203252GBR<<<<<<<PEMBERTON<<JAMES<OLIVER<<",
+  "address": {
+    "raw": null,
+    "country": null,
+    "postalCode": null,
+    "municipality": null,
+    "street": null
+  }
 }

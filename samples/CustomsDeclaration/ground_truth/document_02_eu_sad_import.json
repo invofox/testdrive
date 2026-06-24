@@ -1,4 +1,88 @@
 {
   "documentType": "CustomsDeclaration",
-  "sourceFile": "document_02_eu_sad_import.pdf"
+  "sourceFile": "document_02_eu_sad_import.pdf",
+  "declarationType": "Import",
+  "declarationNumber": "24DE123456789012AB",
+  "declarationDate": "2024-08-14",
+  "entryType": "IM A — Standard Import",
+  "portOfEntry": "DE004200 — Krefeld, Rhine/Waal",
+  "portOfLading": null,
+  "countryOfOrigin": "TR",
+  "countryOfExport": "TR",
+  "countryOfDestination": "DE",
+  "importer": {
+    "name": "EuroFashion GmbH",
+    "taxId": "DE4920381874000",
+    "address": {
+      "street": "Textilstraße 48",
+      "municipality": "Düsseldorf",
+      "postalCode": "40549",
+      "country": "DE"
+    }
+  },
+  "exporter": {
+    "name": "Anatolia Tekstil San. ve Tic. A.Ş.",
+    "taxId": "TR-3810294718",
+    "address": {
+      "street": "Organize Sanayi Bölgesi, Çerkezköy",
+      "municipality": "Tekirdağ",
+      "postalCode": "59500",
+      "country": "TR"
+    }
+  },
+  "carrier": null,
+  "vesselFlightNumber": "Truck / TIR — HGV No. 34 HT 7721",
+  "billOfLadingNumber": null,
+  "incoterms": "DAP",
+  "currency": "EUR",
+  "totalDeclaredValue": 84320,
+  "freightCost": 4280,
+  "insuranceCost": 1545,
+  "cifValue": 90145,
+  "dutiableValue": 90145,
+  "totalDuties": 0,
+  "totalTaxes": 17127.55,
+  "lineItems": [
+    {
+      "lineNumber": 1,
+      "description": "Cotton woven fabric, plain weave, >85% cotton, bleached, width >135cm (Art. No. AT-CTN-200)",
+      "hsCode": "5208.21.1000",
+      "quantity": 8400,
+      "unit": "m²",
+      "weight": 2100,
+      "unitValue": null,
+      "totalValue": 29400,
+      "dutyRate": 0,
+      "dutyAmount": 0,
+      "countryOfOrigin": "TR"
+    },
+    {
+      "lineNumber": 2,
+      "description": "Polyester knitted fabric, warp knit, >85% polyester, dyed (Art. No. AT-PLY-310)",
+      "hsCode": "6006.32.9000",
+      "quantity": 4200,
+      "unit": "kg",
+      "weight": 4200,
+      "unitValue": null,
+      "totalValue": 25200,
+      "dutyRate": 0,
+      "dutyAmount": 0,
+      "countryOfOrigin": "TR"
+    },
+    {
+      "lineNumber": 3,
+      "description": "Men's cotton shirts, woven, long sleeve (Art. No. AT-SHIRT-M-L) — 2,400 pcs",
+      "hsCode": "6205.20.0090",
+      "quantity": 2400,
+      "unit": "pcs",
+      "weight": 840,
+      "unitValue": null,
+      "totalValue": 29720,
+      "dutyRate": 0,
+      "dutyAmount": 0,
+      "countryOfOrigin": "TR"
+    }
+  ],
+  "brokerName": "Rheinland Zollservice GmbH",
+  "brokerLicenseNumber": "DE-ZA-2019-0044"
 }

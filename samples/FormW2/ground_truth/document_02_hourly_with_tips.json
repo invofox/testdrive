@@ -1,4 +1,37 @@
 {
   "documentType": "FormW2",
-  "sourceFile": "document_02_hourly_with_tips.pdf"
+  "sourceFile": "document_02_hourly_with_tips.pdf",
+  "taxYear": 2024,
+  "employerName": "The Golden Fork Restaurant Group LLC",
+  "employerEIN": "82-4419076",
+  "employerAddress": {
+    "street": "2150 Bourbon Street",
+    "municipality": "New Orleans, LA",
+    "postalCode": "70116",
+    "country": "US"
+  },
+  "employeeName": "Carlos D. Rivera",
+  "employeeSSN": "XXX-XX-3391",
+  "employeeAddress": {
+    "street": "416 Magazine Street, Apt 3B",
+    "municipality": "New Orleans, LA",
+    "postalCode": "70130",
+    "country": "US"
+  },
+  "box1Wages": 38460,
+  "box2FederalTax": 2872,
+  "box3SocialSecurityWages": 38460,
+  "box4SocialSecurityTax": 2384.52,
+  "box5MedicareWages": 38460,
+  "box6MedicareTax": 557.67,
+  "box7SocialSecurityTips": 15560,
+  "box10DependentCare": 0,
+  "box12Entries": [],
+  "box16StateWages": 38460,
+  "box17StateTax": 1346.1,
+  "stateCode": "LA",
+  "employerStateId": "LA7811203-2",
+  "box18LocalWages": 0,
+  "box19LocalTax": 0,
+  "localityName": null
 }

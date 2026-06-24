@@ -1,4 +1,49 @@
 {
   "documentType": "Form1008",
-  "sourceFile": "document_03_va_purchase.pdf"
+  "sourceFile": "document_03_va_purchase.pdf",
+  "submissionDate": "2024-07-08",
+  "loanNumber": "VUH-2024-VA-009871",
+  "lenderName": "Veterans United Home Loans",
+  "lenderAddress": {
+    "street": "1400 Veterans United Drive",
+    "municipality": "Columbia, MO",
+    "postalCode": "65201",
+    "country": "US"
+  },
+  "loanType": "VA",
+  "loanPurpose": "Purchase",
+  "loanAmount": 425000,
+  "interestRate": 6.5,
+  "loanTerm": 360,
+  "amortizationType": "Fixed Rate",
+  "ltv": 100,
+  "cltv": 100,
+  "propertyAddress": {
+    "street": "5523 Liberty Drive",
+    "municipality": "Virginia Beach, VA",
+    "postalCode": "23451",
+    "country": "US"
+  },
+  "propertyType": "Single Family Detached",
+  "occupancy": "Primary Residence",
+  "appraisedValue": 425000,
+  "salesPrice": 425000,
+  "borrower": {
+    "name": "James E. Wilson",
+    "monthlyIncome": 8340,
+    "monthlyHousingExpense": 2908,
+    "totalMonthlyDebt": 2919,
+    "housingRatio": 34.9,
+    "totalDebtRatio": 35,
+    "liquidAssets": 32400,
+    "creditScore": 720
+  },
+  "coBorrower": {
+    "name": null,
+    "monthlyIncome": null
+  },
+  "underwritingDecision": "Approved",
+  "underwriterName": "Patricia A. Moore",
+  "underwritingDate": "2024-07-08",
+  "conditions": []
 }

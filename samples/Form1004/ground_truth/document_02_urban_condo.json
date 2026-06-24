@@ -1,4 +1,80 @@
 {
   "documentType": "Form1004",
-  "sourceFile": "document_02_urban_condo.pdf"
+  "sourceFile": "document_02_urban_condo.pdf",
+  "appraisalDate": "2024-11-14",
+  "effectiveDate": "2024-11-14",
+  "fileNumber": "APR-2024-1231",
+  "loanNumber": "LN-2024-309155",
+  "lenderName": "First National Bank of Chicago",
+  "purpose": "Refinance",
+  "propertyAddress": {
+    "street": "820 N. Michigan Avenue, Unit 1504",
+    "municipality": "Chicago",
+    "postalCode": "60611",
+    "country": "US"
+  },
+  "legalDescription": "UNIT 1504, MICHIGAN AVENUE TOWERS CONDOMINIUM, Cook County, Illinois, recorded in Book 412, Page 88, as Document No. 2008-094721",
+  "propertyType": "Condominium",
+  "occupancy": "Owner Occupied",
+  "borrowerName": "Samantha L. Thornton",
+  "ownerName": "Samantha L. Thornton",
+  "county": "Cook",
+  "assessedValue": null,
+  "annualTaxes": 7850,
+  "neighborhood": {
+    "location": "Urban",
+    "builtUp": "Over 75%",
+    "growthRate": "Rapid",
+    "priceRangeLow": 225000,
+    "priceRangeHigh": 1200000,
+    "predominantValue": 380000
+  },
+  "site": {
+    "lotSize": null,
+    "zoning": "DX-16 Downtown Mixed Use",
+    "utilities": "Public — All utilities included in HOA except electric",
+    "view": "Lake Michigan / City Skyline (Superior)"
+  },
+  "improvements": {
+    "yearBuilt": 2008,
+    "grossLivingArea": 1380,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "garage": "Underground Assigned Parking",
+    "garageSpaces": 1,
+    "basement": null,
+    "condition": "Excellent",
+    "quality": "Q2"
+  },
+  "comparables": [
+    {
+      "address": "840 N. Lake Shore Dr #1202, Chicago, IL 60611",
+      "salePrice": 388000,
+      "saleDate": "2024-09-18",
+      "grossLivingArea": 1410,
+      "adjustedSalePrice": 392000
+    },
+    {
+      "address": "808 N. Michigan Ave #1808, Chicago, IL 60611",
+      "salePrice": 362000,
+      "saleDate": "2024-08-02",
+      "grossLivingArea": 1290,
+      "adjustedSalePrice": 377000
+    },
+    {
+      "address": "150 E. Huron St #1610, Chicago, IL 60611",
+      "salePrice": 379500,
+      "saleDate": "2024-10-11",
+      "grossLivingArea": 1355,
+      "adjustedSalePrice": 405000
+    }
+  ],
+  "reconciledValue": 375000,
+  "appraiser": {
+    "name": "Diana M. Castillo, SRA",
+    "licenseNumber": "IL-CR-0087344",
+    "licenseState": "Illinois",
+    "signatureDate": "2024-11-14",
+    "companyName": "Castillo Urban Appraisal Group"
+  }
 }

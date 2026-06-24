@@ -1,4 +1,57 @@
 {
-  "documentType": "MortgageDeed",
-  "sourceFile": "document_04_commercial_mortgage.pdf"
+  "documentType": "Deed of Trust",
+  "sourceFile": "document_04_commercial_mortgage.pdf",
+  "recordingDate": "2025-01-24",
+  "recordingInfo": {
+    "book": "37841",
+    "page": "089",
+    "instrumentNumber": "2025-003412",
+    "county": "Mecklenburg",
+    "state": "North Carolina"
+  },
+  "executionDate": "2025-01-22",
+  "loanAmount": 1200000,
+  "interestRate": 7.875,
+  "maturityDate": "2035-02-01",
+  "borrower": {
+    "name": "PINNACLE PROPERTIES GROUP, LLC",
+    "type": "LLC",
+    "address": {
+      "street": "4500 Commerce Parkway, Suite 200",
+      "municipality": "Charlotte, North Carolina",
+      "postalCode": "28217",
+      "country": "US"
+    }
+  },
+  "lender": {
+    "name": "FIRST COMMERCIAL BANK & TRUST",
+    "address": {
+      "street": "201 South Tryon Street, Suite 3100",
+      "municipality": "Charlotte, North Carolina",
+      "postalCode": "28202",
+      "country": "US"
+    }
+  },
+  "trustee": {
+    "name": "CAROLINA TITLE & TRUST COMPANY",
+    "address": {
+      "street": "700 East Stonewall Street",
+      "municipality": "Charlotte, North Carolina",
+      "postalCode": "28202",
+      "country": "US"
+    }
+  },
+  "propertyAddress": {
+    "street": "4500 Commerce Parkway, Suite 200",
+    "municipality": "Charlotte, North Carolina",
+    "postalCode": "28217",
+    "country": "US"
+  },
+  "legalDescription": "BEING LOT 12A of COMMERCE PARK SUBDIVISION, PHASE III, as the same is shown and delineated upon that certain plat recorded in Plat Book 47, at Page 831, in the Mecklenburg County Registry.",
+  "apn": "073-192-44",
+  "notary": {
+    "name": "Brenda J. Simmons",
+    "commissionExpiry": "2027-05-14",
+    "county": "Mecklenburg"
+  }
 }

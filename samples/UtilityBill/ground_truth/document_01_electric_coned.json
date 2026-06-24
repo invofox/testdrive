@@ -1,4 +1,110 @@
 {
   "documentType": "UtilityBill",
-  "sourceFile": "document_01_electric_coned.pdf"
+  "sourceFile": "document_01_electric_coned.pdf",
+  "accountNumber": "6-3847-2910-8",
+  "billDate": "2025-06-15",
+  "dueDate": "2025-07-05",
+  "billingPeriodStart": "2025-05-14",
+  "billingPeriodEnd": "2025-06-13",
+  "currency": "USD",
+  "totalAmount": 187.42,
+  "taxAmount": 13.49,
+  "taxRate": 8.875,
+  "taxBaseAmount": 151.88,
+  "serviceType": "Electricity",
+  "consumption": "824",
+  "consumptionUnit": "kWh",
+  "meterNumber": "NYS-04837-2291",
+  "supplier": {
+    "name": "Consolidated Edison Company of New York, Inc.",
+    "taxId": null,
+    "phone": "1-800-752-6633",
+    "website": "coned.com",
+    "address": {
+      "raw": "4 Irving Place, New York, NY 10003",
+      "country": "US",
+      "postalCode": "10003",
+      "municipality": "New York",
+      "street": "4 Irving Place"
+    }
+  },
+  "customer": {
+    "name": "Patricia & Leonard Morales",
+    "address": {
+      "raw": "1847 Pelham Pkwy North, Apt 4C, Bronx, NY 10469",
+      "country": "US",
+      "postalCode": "10469",
+      "municipality": "Bronx",
+      "street": "1847 Pelham Pkwy North, Apt 4C"
+    }
+  },
+  "serviceAddress": {
+    "raw": "1847 Pelham Pkwy North, Apt 4C, Bronx, NY 10469",
+    "country": "US",
+    "postalCode": "10469",
+    "municipality": "Bronx",
+    "street": "1847 Pelham Pkwy North, Apt 4C"
+  },
+  "charges": [
+    {
+      "description": "Basic Service Charge",
+      "amount": 17.38
+    },
+    {
+      "description": "Energy Charge — First 250 kWh @ $0.08941",
+      "amount": 22.35
+    },
+    {
+      "description": "Energy Charge — Next 574 kWh @ $0.10837",
+      "amount": 62.2
+    },
+    {
+      "description": "Delivery Charge — Distribution",
+      "amount": 34.46
+    },
+    {
+      "description": "Delivery Charge — Transmission",
+      "amount": 9.18
+    },
+    {
+      "description": "System Benefits Charge",
+      "amount": 3.84
+    },
+    {
+      "description": "Merchant Function Charge",
+      "amount": 2.47
+    },
+    {
+      "description": "State & Local Sales Tax (8.875%)",
+      "amount": 13.49
+    },
+    {
+      "description": "Revenue-Based PILOTS",
+      "amount": 4.78
+    },
+    {
+      "description": "Clean Energy Standard Surcharge",
+      "amount": 3.06
+    },
+    {
+      "description": "Municipal Surcharge",
+      "amount": 1.14
+    },
+    {
+      "description": "Franchise Tax Surcharge",
+      "amount": 0.79
+    },
+    {
+      "description": "NY State Assessment",
+      "amount": 0.28
+    },
+    {
+      "description": "GRT & Other Tax Surcharges",
+      "amount": 1.43
+    },
+    {
+      "description": "Gross Receipts Tax Surcharge",
+      "amount": 0.77
+    }
+  ]
 }

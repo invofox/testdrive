@@ -1,4 +1,110 @@
 {
   "documentType": "UtilityBill",
-  "sourceFile": "document_04_telecom_att.pdf"
+  "sourceFile": "document_04_telecom_att.pdf",
+  "accountNumber": "287-410-3883 001",
+  "billDate": "2025-07-01",
+  "dueDate": "2025-07-25",
+  "billingPeriodStart": "2025-06-01",
+  "billingPeriodEnd": "2025-06-30",
+  "currency": "USD",
+  "totalAmount": 834.27,
+  "taxAmount": 51.3,
+  "taxRate": 8.25,
+  "taxBaseAmount": 835.05,
+  "serviceType": "Internet",
+  "consumption": "2370",
+  "consumptionUnit": "GB",
+  "meterNumber": "TX.DFW.0047382-A",
+  "supplier": {
+    "name": "AT&T Business Services LLC",
+    "taxId": null,
+    "phone": "1-800-288-2020",
+    "website": "att.com/business",
+    "address": {
+      "raw": "208 S. Akard Street, Dallas, TX 75202",
+      "country": "US",
+      "postalCode": "75202",
+      "municipality": "Dallas",
+      "street": "208 S. Akard Street"
+    }
+  },
+  "customer": {
+    "name": "Ridgecrest Medical Associates PA",
+    "address": {
+      "raw": "3401 Worth Street, Suite 600, Dallas, TX 75246",
+      "country": "US",
+      "postalCode": "75246",
+      "municipality": "Dallas",
+      "street": "3401 Worth Street, Suite 600"
+    }
+  },
+  "serviceAddress": {
+    "raw": "3401 Worth Street, Suite 600, Dallas, TX 75246",
+    "country": "US",
+    "postalCode": "75246",
+    "municipality": "Dallas",
+    "street": "3401 Worth Street, Suite 600"
+  },
+  "charges": [
+    {
+      "description": "AT&T Dedicated Fiber 1 Gbps — Monthly Recurring Charge",
+      "amount": 529
+    },
+    {
+      "description": "IP Address Allocation (8 Static IPs)",
+      "amount": 16
+    },
+    {
+      "description": "Business WiFi Gateway Rental",
+      "amount": 9.95
+    },
+    {
+      "description": "AT&T Business Voice — 8 Lines @ $21.20/line",
+      "amount": 169.6
+    },
+    {
+      "description": "Unlimited Long Distance — 8 Lines",
+      "amount": 20
+    },
+    {
+      "description": "E911 Service Charge — 8 Lines @ $0.50/line",
+      "amount": 4
+    },
+    {
+      "description": "Directory Listing — Main Number",
+      "amount": 2.5
+    },
+    {
+      "description": "AT&T USM Firewall — Standard Plan",
+      "amount": 64
+    },
+    {
+      "description": "DDoS Protection Add-On",
+      "amount": 20
+    },
+    {
+      "description": "Federal Universal Service Fund (USF) Surcharge",
+      "amount": 18.84
+    },
+    {
+      "description": "Texas State Sales Tax (8.25%)",
+      "amount": 51.3
+    },
+    {
+      "description": "Dallas City Tax",
+      "amount": 4.11
+    },
+    {
+      "description": "FCC Regulatory Assessment Fee",
+      "amount": 1.84
+    },
+    {
+      "description": "911 Service Fee — City of Dallas",
+      "amount": 3.2
+    },
+    {
+      "description": "Line-item Credit — SLA Adjustment",
+      "amount": -80.07
+    }
+  ]
 }

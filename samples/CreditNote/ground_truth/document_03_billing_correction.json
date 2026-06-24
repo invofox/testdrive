@@ -1,4 +1,46 @@
 {
   "documentType": "CreditNote",
-  "sourceFile": "document_03_billing_correction.pdf"
+  "sourceFile": "document_03_billing_correction.pdf",
+  "documentNumber": "CN-2025-0077",
+  "issueDate": "2025-06-03",
+  "originalInvoiceRef": "INV-2025-0054",
+  "reason": "Overbilling correction on project fees for Strategic Review engagement (Q2 2025). Invoice INV-2025-0054 included 7 senior consultant hours billed in error (duplicate entry by billing coordinator). Credit issued per client request and internal audit confirmation dated 30 May 2025.",
+  "currency": "USD",
+  "totalAmount": -3500,
+  "totalTaxBaseAmount": -3500,
+  "totalTaxAmount": 0,
+  "supplier": {
+    "name": "Apex Consulting Group LLC",
+    "taxId": "13-4892017",
+    "address": {
+      "country": "US",
+      "postalCode": "10017",
+      "municipality": "New York",
+      "street": "330 Madison Avenue, 20th Floor"
+    }
+  },
+  "customer": {
+    "name": "Montrose Capital LLC",
+    "taxId": "06-1723418",
+    "address": {
+      "country": "US",
+      "postalCode": "06830",
+      "municipality": "Greenwich",
+      "street": "100 Field Point Road, Suite 200"
+    }
+  },
+  "lines": [
+    {
+      "description": "Senior Consultant Hours — Duplicated Entry (Credit)",
+      "quantity": 7,
+      "unitPrice": -350,
+      "amount": -2450
+    },
+    {
+      "description": "Analyst Research Hours — Overbilled",
+      "quantity": 5,
+      "unitPrice": -210,
+      "amount": -1050
+    }
+  ]
 }

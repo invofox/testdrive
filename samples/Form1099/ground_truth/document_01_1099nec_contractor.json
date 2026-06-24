@@ -1,4 +1,35 @@
 {
   "documentType": "Form1099",
-  "sourceFile": "document_01_1099nec_contractor.pdf"
+  "sourceFile": "document_01_1099nec_contractor.pdf",
+  "formVariant": "NEC",
+  "taxYear": 2024,
+  "corrected": null,
+  "payerName": "BuildSmart Technologies, Inc.",
+  "payerTIN": "77-3049182",
+  "payerAddress": {
+    "street": "1400 Harbor Boulevard, Suite 600",
+    "municipality": "San Jose, CA",
+    "postalCode": "95110",
+    "country": "US"
+  },
+  "payerPhone": "(408) 555-0183",
+  "recipientName": "Ethan P. Crawford",
+  "recipientTIN": "•••-••-5590",
+  "recipientAddress": {
+    "street": "7712 Oakwood Terrace",
+    "municipality": "Salt Lake City, UT",
+    "postalCode": "84101",
+    "country": "US"
+  },
+  "accountNumber": "VND-2024-EPC",
+  "box1Amount": 45000,
+  "box2Amount": null,
+  "box3Amount": null,
+  "box4FederalTax": 0,
+  "box5Amount": 0,
+  "box6Amount": null,
+  "stateCode": "UT",
+  "statePayerTIN": "7730491820",
+  "stateIncome": 45000,
+  "stateTax": 0
 }

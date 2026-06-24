@@ -1,4 +1,46 @@
 {
   "documentType": "FormW2",
-  "sourceFile": "document_04_healthcare_worker.pdf"
+  "sourceFile": "document_04_healthcare_worker.pdf",
+  "taxYear": 2024,
+  "employerName": "Providence Saint Joseph Medical Center",
+  "employerEIN": "59-2714830",
+  "employerAddress": {
+    "street": "501 South Buena Vista Street",
+    "municipality": "Burbank, CA",
+    "postalCode": "91505",
+    "country": "US"
+  },
+  "employeeName": "Aisha N. Okonkwo",
+  "employeeSSN": "XXX-XX-7729",
+  "employeeAddress": {
+    "street": "1822 Magnolia Boulevard",
+    "municipality": "Burbank, CA",
+    "postalCode": "91506",
+    "country": "US"
+  },
+  "box1Wages": 94200,
+  "box2FederalTax": 11304,
+  "box3SocialSecurityWages": 94200,
+  "box4SocialSecurityTax": 5840.4,
+  "box5MedicareWages": 94200,
+  "box6MedicareTax": 1365.9,
+  "box7SocialSecurityTips": 0,
+  "box10DependentCare": 5000,
+  "box12Entries": [
+    {
+      "code": "DD",
+      "amount": 14400
+    },
+    {
+      "code": "E",
+      "amount": 6500
+    }
+  ],
+  "box16StateWages": 94200,
+  "box17StateTax": 6971.4,
+  "stateCode": "CA",
+  "employerStateId": "CA-EDD-2847301",
+  "box18LocalWages": 0,
+  "box19LocalTax": 0,
+  "localityName": null
 }

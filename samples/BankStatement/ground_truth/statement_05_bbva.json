@@ -1,4 +1,175 @@
 {
   "documentType": "BankStatement",
-  "sourceFile": "statement_05_bbva.pdf"
+  "sourceFile": "statement_05_bbva.pdf",
+  "statementPeriodStart": "2025-04-01",
+  "statementPeriodEnd": "2025-04-30",
+  "openingBalance": 6244.5,
+  "closingBalance": 5817.32,
+  "currency": "EUR",
+  "accountNumber": null,
+  "iban": "ES7601824401180200193364",
+  "routingNumber": null,
+  "accountType": "Cuenta de Débito Conecta",
+  "totalCredits": 4740,
+  "totalDebits": 5167.18,
+  "transactions": [
+    {
+      "transactionDate": "2025-04-01",
+      "description": "TRANSFERENCIA RECIBIDA - DESPACHO ORÍGEN CONSULTORES S.L. / NÓMINA MARZO",
+      "amount": 2380,
+      "balance": 8624.5
+    },
+    {
+      "transactionDate": "2025-04-02",
+      "description": "RECIBO DOMICILIADO - IBERDROLA CLIENTES S.A.U. — LUZ Y GAS ABR",
+      "amount": -87.42,
+      "balance": 8537.08
+    },
+    {
+      "transactionDate": "2025-04-02",
+      "description": "PAGO CON TARJETA - EL CORTE INGLÉS GOYA — MADRID",
+      "amount": -124.6,
+      "balance": 8412.48
+    },
+    {
+      "transactionDate": "2025-04-03",
+      "description": "RECIBO DOMICILIADO - COMUNIDAD PROP. CALLE SERRANO 84 — CUOTA ABR",
+      "amount": -148,
+      "balance": 8264.48
+    },
+    {
+      "transactionDate": "2025-04-04",
+      "description": "RECIBO DOMICILIADO - TELEFÓNICA MÓVILES ESPAÑA S.A. — MOV ABR",
+      "amount": -42.9,
+      "balance": 8221.58
+    },
+    {
+      "transactionDate": "2025-04-07",
+      "description": "PAGO CON TARJETA - MERCADONA SA — MADRID",
+      "amount": -98.33,
+      "balance": 8123.25
+    },
+    {
+      "transactionDate": "2025-04-08",
+      "description": "TRANSFERENCIA EMITIDA - ARANTXA FERNÁNDEZ GARCÍA — PRÉSTAMO FAMILIAR",
+      "amount": -300,
+      "balance": 7823.25
+    },
+    {
+      "transactionDate": "2025-04-10",
+      "description": "DISPOSICIÓN CAJERO ATM - BBVA ATM — C/ GOYA 47, MADRID",
+      "amount": -200,
+      "balance": 7623.25
+    },
+    {
+      "transactionDate": "2025-04-10",
+      "description": "RECIBO DOMICILIADO - NETFLIX INTERNATIONAL B.V. — SUSCRIPCIÓN",
+      "amount": -17.99,
+      "balance": 7605.26
+    },
+    {
+      "transactionDate": "2025-04-11",
+      "description": "PAGO CON TARJETA - ZARA ONLINE — INDITEX SA",
+      "amount": -64.9,
+      "balance": 7540.36
+    },
+    {
+      "transactionDate": "2025-04-14",
+      "description": "TRANSFERENCIA RECIBIDA - INMOBILIARIA GOYA GESTIÓN SL — DEVOLUCIÓN FIANZA",
+      "amount": 900,
+      "balance": 8440.36
+    },
+    {
+      "transactionDate": "2025-04-15",
+      "description": "PAGO CON TARJETA - MERCADONA SA — MADRID",
+      "amount": -73.88,
+      "balance": 8366.48
+    },
+    {
+      "transactionDate": "2025-04-15",
+      "description": "RECIBO DOMICILIADO - MAPFRE VIDA SA — SEGURO HOGAR ABR",
+      "amount": -38.5,
+      "balance": 8327.98
+    },
+    {
+      "transactionDate": "2025-04-16",
+      "description": "TRANSFERENCIA RECIBIDA - DESPACHO ORÍGEN CONSULTORES S.L. / DIETAS ABR",
+      "amount": 460,
+      "balance": 8787.98
+    },
+    {
+      "transactionDate": "2025-04-17",
+      "description": "PAGO CON TARJETA - FNAC ESPAÑA — MADRID CASTELLANA",
+      "amount": -89.9,
+      "balance": 8698.08
+    },
+    {
+      "transactionDate": "2025-04-22",
+      "description": "PAGO RECIBO HACIENDA - AEAT — FRACCIONAMIENTO IRPF CUOTA 1/2",
+      "amount": -1240,
+      "balance": 7458.08
+    },
+    {
+      "transactionDate": "2025-04-23",
+      "description": "DISPOSICIÓN CAJERO ATM - BBVA ATM — AEROPUERTO ADOLFO SUÁREZ T4",
+      "amount": -300,
+      "balance": 7158.08
+    },
+    {
+      "transactionDate": "2025-04-24",
+      "description": "PAGO CON TARJETA - RENFE TICKET — MADRID-BARCELONA AVE",
+      "amount": -58.4,
+      "balance": 7099.68
+    },
+    {
+      "transactionDate": "2025-04-25",
+      "description": "PAGO CON TARJETA - NH HOTEL GRAN HOTEL CALDERÓN — BARCELONA",
+      "amount": -182.5,
+      "balance": 6917.18
+    },
+    {
+      "transactionDate": "2025-04-28",
+      "description": "TRANSFERENCIA RECIBIDA - CARLOS ESTEBAN VILLANUEVA — ALQUILER HABITACIÓN",
+      "amount": 1000,
+      "balance": 7917.18
+    },
+    {
+      "transactionDate": "2025-04-29",
+      "description": "RECIBO DOMICILIADO - ENDESA ENERGÍA SA — LUZ PLAYA ABR",
+      "amount": -52.76,
+      "balance": 7864.42
+    },
+    {
+      "transactionDate": "2025-04-30",
+      "description": "CUOTA HIPOTECA - PRÉSTAMO HIPOTECARIO 4401180220 — CUOTA ABR",
+      "amount": -1688.1,
+      "balance": 6176.32
+    },
+    {
+      "transactionDate": "2025-04-30",
+      "description": "LIQUIDACIÓN INTERESES - INTERESES CUENTA REMUNERADA — ABRIL 2025",
+      "amount": -359,
+      "balance": 5817.32
+    }
+  ],
+  "bank": {
+    "name": "BBVA Banco Bilbao Vizcaya Argentaria, S.A.",
+    "taxId": "A-48265169",
+    "address": {
+      "country": "ES",
+      "postalCode": "48005",
+      "municipality": "Bilbao",
+      "street": "Plaza de San Nicolás, 4"
+    }
+  },
+  "accountHolder": {
+    "name": "LAURA FERNÁNDEZ GARCÍA",
+    "taxId": "48392017-W",
+    "address": {
+      "country": "ES",
+      "postalCode": "28006",
+      "street": "Calle Serrano, 84, 3.º Dcha.",
+      "municipality": "Madrid"
+    }
+  }
 }

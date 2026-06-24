@@ -1,4 +1,102 @@
 {
   "documentType": "UtilityBill",
-  "sourceFile": "document_05_spanish_iberdrola.pdf"
+  "sourceFile": "document_05_spanish_iberdrola.pdf",
+  "accountNumber": "ES0031405282938140EK",
+  "billDate": "2025-05-31",
+  "dueDate": "2025-06-20",
+  "billingPeriodStart": "2025-05-01",
+  "billingPeriodEnd": "2025-05-31",
+  "currency": "EUR",
+  "totalAmount": 498.33,
+  "taxAmount": 26.43,
+  "taxRate": 5,
+  "taxBaseAmount": 528.65,
+  "serviceType": "Electricity & Gas",
+  "consumption": "2118",
+  "consumptionUnit": "kWh",
+  "meterNumber": "SAL-047382-EL",
+  "supplier": {
+    "name": "Iberdrola Clientes, S.A.U.",
+    "taxId": "A-95075328",
+    "phone": "900 225 235",
+    "website": "iberdrola.es",
+    "address": {
+      "raw": "C/ Tomás Redondo, 1, 28033 Madrid",
+      "country": "ES",
+      "postalCode": "28033",
+      "municipality": "Madrid",
+      "street": "C/ Tomás Redondo, 1"
+    }
+  },
+  "customer": {
+    "name": "Restaurante Casa Paco, S.L.",
+    "address": {
+      "raw": "C/ Rúa Mayor, 47, 37002 Salamanca",
+      "country": "ES",
+      "postalCode": "37002",
+      "municipality": "Salamanca",
+      "street": "C/ Rúa Mayor, 47"
+    }
+  },
+  "serviceAddress": {
+    "raw": "C/ Rúa Mayor, 47 (Planta Baja), 37002 Salamanca",
+    "country": "ES",
+    "postalCode": "37002",
+    "municipality": "Salamanca",
+    "street": "C/ Rúa Mayor, 47 (Planta Baja)"
+  },
+  "charges": [
+    {
+      "description": "Término de Potencia — P1 (20 kW × 31 días × 0,108740 €)",
+      "amount": 67.43
+    },
+    {
+      "description": "Término de Potencia — P2 (20 kW × 31 días × 0,067094 €)",
+      "amount": 41.6
+    },
+    {
+      "description": "Término de Potencia — P3 (20 kW × 31 días × 0,024651 €)",
+      "amount": 15.28
+    },
+    {
+      "description": "Término de Energía P1 — 1.048 kWh × 0,14320 €",
+      "amount": 150.07
+    },
+    {
+      "description": "Término de Energía P2 — 647 kWh × 0,09870 €",
+      "amount": 63.86
+    },
+    {
+      "description": "Término de Energía P3 — 423 kWh × 0,07220 €",
+      "amount": 30.54
+    },
+    {
+      "description": "Impuesto sobre la Electricidad (5,11%)",
+      "amount": 18.82
+    },
+    {
+      "description": "Alquiler de Equipos de Medida",
+      "amount": 4.38
+    },
+    {
+      "description": "Término Fijo Gas (31 días × 0,8240 €/día)",
+      "amount": 25.54
+    },
+    {
+      "description": "Término Variable Gas — 182 m³ × 0,5841 €/m³",
+      "amount": 106.31
+    },
+    {
+      "description": "Impuesto Especial Hidrocarburos (0,00234 €/kWh)",
+      "amount": 4.82
+    },
+    {
+      "description": "IVA (5% — energía)",
+      "amount": 26.43
+    },
+    {
+      "description": "Descuento Tarifa Social (–10%)",
+      "amount": -56.75
+    }
+  ]
 }

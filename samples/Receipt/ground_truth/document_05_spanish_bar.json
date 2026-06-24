@@ -1,4 +1,57 @@
 {
   "documentType": "Receipt",
-  "sourceFile": "document_05_spanish_bar.pdf"
+  "sourceFile": "document_05_spanish_bar.pdf",
+  "receiptNumber": "RM-20241215-0094",
+  "issueDate": "2024-12-15",
+  "issueTime": "14:22",
+  "currency": "EUR",
+  "subtotalAmount": 28.51,
+  "taxAmount": 4.99,
+  "taxRate": null,
+  "tipAmount": null,
+  "totalAmount": 34.5,
+  "paymentMethod": "Cash",
+  "merchant": {
+    "name": "El Rincón de Madrid",
+    "phoneNumber": "+34 91 365 08 72",
+    "address": {
+      "country": "ES",
+      "postalCode": "28013",
+      "municipality": "Madrid",
+      "street": "Calle Mayor, 42, 2º",
+      "raw": "Calle Mayor, 42, 2º, 28013 Madrid, España"
+    }
+  },
+  "items": [
+    {
+      "description": "Cocido madrileño",
+      "quantity": 1,
+      "unitPrice": 12.5,
+      "totalAmount": 12.5
+    },
+    {
+      "description": "Chuletillas de cordero a la brasa",
+      "quantity": 1,
+      "unitPrice": 14,
+      "totalAmount": 14
+    },
+    {
+      "description": "Postre: Arroz con leche",
+      "quantity": 2,
+      "unitPrice": 2,
+      "totalAmount": 4
+    },
+    {
+      "description": "Vino tinto Rioja (media botella)",
+      "quantity": 1,
+      "unitPrice": 8,
+      "totalAmount": 8
+    },
+    {
+      "description": "Agua mineral con gas",
+      "quantity": 2,
+      "unitPrice": 1,
+      "totalAmount": 2
+    }
+  ]
 }

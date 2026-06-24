@@ -1,4 +1,104 @@
 {
   "documentType": "InsurancePolicy",
-  "sourceFile": "document_04_uk_travel.pdf"
+  "sourceFile": "document_04_uk_travel.pdf",
+  "policyNumber": "TRV-2025-44120",
+  "issueDate": "2025-02-14",
+  "effectiveDate": "2025-03-01",
+  "expirationDate": "2026-02-28",
+  "insuranceType": "Travel",
+  "currency": "GBP",
+  "annualPremium": 284.5,
+  "paymentFrequency": "Annual",
+  "deductible": null,
+  "coverageLimit": 10000000,
+  "policyStatus": "Active",
+  "insured": {
+    "name": "Oliver W. Stanford",
+    "dateOfBirth": "1979-09-11",
+    "taxId": null,
+    "phone": "+44 (0)117 496 0033",
+    "email": null,
+    "address": {
+      "country": "GB",
+      "postalCode": "BS8 1AQ",
+      "municipality": "Bristol",
+      "street": "42 Clifton Road",
+      "raw": "42 Clifton Road, Bristol, BS8 1AQ, United Kingdom"
+    }
+  },
+  "insurer": {
+    "name": "Aviva Insurance Limited",
+    "taxId": null,
+    "phone": "+44 (0)800 068 5821",
+    "address": {
+      "country": "GB",
+      "postalCode": "PH2 0NH",
+      "municipality": "Perth",
+      "street": "Pitheavlis",
+      "raw": "Pitheavlis, Perth, PH2 0NH, United Kingdom"
+    }
+  },
+  "insuredObject": {
+    "description": "Annual Multi-Trip — Worldwide travel cover, maximum 60 days per trip",
+    "address": null,
+    "value": null
+  },
+  "coverages": [
+    {
+      "coverageType": "Emergency Medical",
+      "coverageDescription": "Medical expenses, repatriation & emergency dental",
+      "limit": 10000000,
+      "deductible": 0,
+      "premium": null
+    },
+    {
+      "coverageType": "Cancellation & Curtailment",
+      "coverageDescription": "Trip cancellation or curtailment costs",
+      "limit": 5000,
+      "deductible": 100,
+      "premium": null
+    },
+    {
+      "coverageType": "Baggage & Personal Effects",
+      "coverageDescription": "Loss, theft or damage to baggage",
+      "limit": 3000,
+      "deductible": 75,
+      "premium": null
+    },
+    {
+      "coverageType": "Travel Delay",
+      "coverageDescription": "Compensation for delayed departure (£25/hr after 4hrs)",
+      "limit": 250,
+      "deductible": 0,
+      "premium": null
+    },
+    {
+      "coverageType": "Personal Liability",
+      "coverageDescription": "Third-party bodily injury or property damage",
+      "limit": 2000000,
+      "deductible": 250,
+      "premium": null
+    },
+    {
+      "coverageType": "Personal Accident",
+      "coverageDescription": "Death or permanent disablement",
+      "limit": 25000,
+      "deductible": 0,
+      "premium": null
+    },
+    {
+      "coverageType": "Legal Expenses",
+      "coverageDescription": "Legal costs for personal injury claims",
+      "limit": 50000,
+      "deductible": 0,
+      "premium": null
+    },
+    {
+      "coverageType": "Winter Sports Extension",
+      "coverageDescription": "Ski equipment, piste closure, ski school (not included)",
+      "limit": 1000,
+      "deductible": 50,
+      "premium": null
+    }
+  ]
 }

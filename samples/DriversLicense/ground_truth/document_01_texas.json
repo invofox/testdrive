@@ -1,4 +1,28 @@
 {
   "documentType": "DriversLicense",
-  "sourceFile": "document_01_texas.pdf"
+  "sourceFile": "document_01_texas.pdf",
+  "licenseNumber": "48920417",
+  "issuingCountry": "US",
+  "issuingState": "TX",
+  "issuingAuthority": "Texas DPS",
+  "issueDate": "2023-09-01",
+  "expiryDate": "2027-08-22",
+  "lastName": "MORRISON",
+  "firstName": "JAMES",
+  "middleName": "EARL",
+  "dateOfBirth": "1983-08-22",
+  "sex": "M",
+  "height": "5-11",
+  "eyeColor": "BRN",
+  "hairColor": null,
+  "vehicleCategories": "C",
+  "restrictions": "NONE",
+  "endorsements": "NONE",
+  "address": {
+    "raw": "4821 Mesquite Trail, San Antonio, TX 78240",
+    "country": "US",
+    "postalCode": "78240",
+    "municipality": "San Antonio",
+    "street": "4821 Mesquite Trail"
+  }
 }

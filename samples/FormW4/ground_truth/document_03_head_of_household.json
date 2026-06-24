@@ -1,4 +1,26 @@
 {
   "documentType": "FormW4",
-  "sourceFile": "document_03_head_of_household.pdf"
+  "sourceFile": "document_03_head_of_household.pdf",
+  "taxYear": 2025,
+  "employeeName": "Maria L. Thornton",
+  "ssn": "•••-••-6201",
+  "address": [
+    {
+      "street": "1045 Birchwood Lane",
+      "municipality": "Nashville, TN",
+      "postalCode": "37201",
+      "country": null
+    }
+  ],
+  "filingStatus": "Head of Household",
+  "multipleJobs": null,
+  "dependentsCredit": 4000,
+  "otherIncome": 350,
+  "deductionsAmount": 0,
+  "extraWithholding": 0,
+  "exemptStatus": null,
+  "signatureDate": "2025-03-17",
+  "employerName": "Harmony Health Systems · 2200 West End Ave, Nashville, TN 37203",
+  "employerEIN": "62-1748390",
+  "firstPayDate": "2025-03-24"
 }

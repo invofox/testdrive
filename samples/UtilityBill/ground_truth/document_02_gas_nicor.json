@@ -1,4 +1,86 @@
 {
   "documentType": "UtilityBill",
-  "sourceFile": "document_02_gas_nicor.pdf"
+  "sourceFile": "document_02_gas_nicor.pdf",
+  "accountNumber": "78-4391-002-7",
+  "billDate": "2025-05-30",
+  "dueDate": "2025-06-20",
+  "billingPeriodStart": "2025-04-28",
+  "billingPeriodEnd": "2025-05-28",
+  "currency": "USD",
+  "totalAmount": 2104.8,
+  "taxAmount": 32.88,
+  "taxRate": 6.25,
+  "taxBaseAmount": 2055.76,
+  "serviceType": "Gas",
+  "consumption": "1840",
+  "consumptionUnit": "therms",
+  "meterNumber": "ILG-88341-0047",
+  "supplier": {
+    "name": "Northern Illinois Gas Company",
+    "taxId": null,
+    "phone": "1-888-642-6748",
+    "website": "nicorgas.com",
+    "address": {
+      "raw": "1844 Ferry Road, Naperville, IL 60563",
+      "country": "US",
+      "postalCode": "60563",
+      "municipality": "Naperville",
+      "street": "1844 Ferry Road"
+    }
+  },
+  "customer": {
+    "name": "Oakwood Properties LLC",
+    "address": {
+      "raw": "220 N. Michigan Ave, Suite 1400, Chicago, IL 60601",
+      "country": "US",
+      "postalCode": "60601",
+      "municipality": "Chicago",
+      "street": "220 N. Michigan Ave, Suite 1400"
+    }
+  },
+  "serviceAddress": {
+    "raw": "2815 W. Fullerton Avenue, Chicago, IL 60647",
+    "country": "US",
+    "postalCode": "60647",
+    "municipality": "Chicago",
+    "street": "2815 W. Fullerton Avenue"
+  },
+  "charges": [
+    {
+      "description": "Monthly Customer Charge (Commercial)",
+      "amount": 31.5
+    },
+    {
+      "description": "Gas Commodity Charge — 1,840 therms × $0.7824",
+      "amount": 1439.62
+    },
+    {
+      "description": "Distribution Charge — 1,840 therms × $0.3201",
+      "amount": 588.98
+    },
+    {
+      "description": "Gas Cost Incentive Adjustment",
+      "amount": -14.4
+    },
+    {
+      "description": "Revenue Decoupling Adjustment",
+      "amount": 6.22
+    },
+    {
+      "description": "Environmental Cost Recovery Surcharge",
+      "amount": 3.84
+    },
+    {
+      "description": "Illinois State Sales Tax (6.25%)",
+      "amount": 32.88
+    },
+    {
+      "description": "City of Chicago Gas Use Tax",
+      "amount": 11.04
+    },
+    {
+      "description": "Cook County Natural Gas Tax",
+      "amount": 5.12
+    }
+  ]
 }

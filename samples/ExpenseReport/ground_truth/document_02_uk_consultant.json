@@ -1,4 +1,122 @@
 {
   "documentType": "ExpenseReport",
-  "sourceFile": "document_02_uk_consultant.pdf"
+  "sourceFile": "document_02_uk_consultant.pdf",
+  "reportNumber": "AAG/EXP/2025/0523",
+  "reportDate": "2025-05-12",
+  "periodStart": "2025-05-05",
+  "periodEnd": "2025-05-09",
+  "currency": "GBP",
+  "totalAmount": 1248.6,
+  "approvedAmount": null,
+  "status": "Approved",
+  "purpose": "Project Heathrow — strategic restructuring advisory mandate for Cromwell Capital Partners",
+  "employee": {
+    "name": "Charlotte Simmons",
+    "employeeId": "CS-089",
+    "position": "Senior Consultant",
+    "department": "Financial Advisory",
+    "email": "c.simmons@ashfordadvisory.co.uk"
+  },
+  "employer": {
+    "name": "Ashford Advisory Group LLP",
+    "address": {
+      "country": "GB",
+      "postalCode": "EC2V 7NQ",
+      "municipality": "London",
+      "street": "12 Gresham Street",
+      "raw": "12 Gresham Street, London EC2V 7NQ, United Kingdom"
+    }
+  },
+  "expenses": [
+    {
+      "expenseDate": "2025-05-05",
+      "category": "Travel",
+      "description": "Standard Class return rail ticket London Euston – Manchester Piccadilly",
+      "merchant": "Avanti West Coast",
+      "amount": 189,
+      "currency": "GBP",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-05-05",
+      "category": "Transport",
+      "description": "Taxi from Manchester Piccadilly to Cromwell Capital offices",
+      "merchant": "Addison Lee",
+      "amount": 24.5,
+      "currency": "GBP",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-05-05",
+      "category": "Accommodation",
+      "description": "Hotel room — 2 nights (Mon–Wed)",
+      "merchant": "Kimpton Clocktower Hotel",
+      "amount": 378,
+      "currency": "GBP",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-05-05",
+      "category": "Meals",
+      "description": "Evening meal (solo)",
+      "merchant": "The Black Friar",
+      "amount": 42.3,
+      "currency": "GBP",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-05-06",
+      "category": "Meals",
+      "description": "Working lunch (with client team, 4 persons)",
+      "merchant": "Hispi Restaurant",
+      "amount": 187.4,
+      "currency": "GBP",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-05-07",
+      "category": "Entertainment",
+      "description": "Client dinner — Project Heathrow steering committee (6 persons)",
+      "merchant": "Manchester House",
+      "amount": 356.8,
+      "currency": "GBP",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-05-07",
+      "category": "Meals",
+      "description": "Breakfast (solo)",
+      "merchant": "Pret A Manger",
+      "amount": 12.6,
+      "currency": "GBP",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-05-08",
+      "category": "Transport",
+      "description": "Taxi to Manchester Piccadilly station",
+      "merchant": "Addison Lee",
+      "amount": 22,
+      "currency": "GBP",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-05-08",
+      "category": "Meals",
+      "description": "Subsistence — lunch on return journey",
+      "merchant": "M&S Simply Food",
+      "amount": 18,
+      "currency": "GBP",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-05-09",
+      "category": "Supplies",
+      "description": "Office supplies — printed presentation materials for client",
+      "merchant": "Ryman Stationery",
+      "amount": 18,
+      "currency": "GBP",
+      "isReimbursable": "Yes"
+    }
+  ]
 }

@@ -1,4 +1,57 @@
 {
-  "documentType": "MortgageDeed",
-  "sourceFile": "document_02_mortgage_new_york.pdf"
+  "documentType": "Mortgage",
+  "sourceFile": "document_02_mortgage_new_york.pdf",
+  "recordingDate": "2024-09-12",
+  "recordingInfo": {
+    "book": "13487",
+    "page": "224",
+    "instrumentNumber": "2024-NY-0094821",
+    "county": "New York",
+    "state": "New York"
+  },
+  "executionDate": "2024-09-08",
+  "loanAmount": 420000,
+  "interestRate": 7.125,
+  "maturityDate": "2044-10-01",
+  "borrower": {
+    "name": "PATRICIA M. SULLIVAN",
+    "type": "Individual",
+    "address": {
+      "street": "445 East 82nd Street, Unit 7B",
+      "municipality": "New York, New York",
+      "postalCode": "10028",
+      "country": "US"
+    }
+  },
+  "lender": {
+    "name": "JPMORGAN CHASE BANK, N.A.",
+    "address": {
+      "street": "270 Park Avenue",
+      "municipality": "New York, New York",
+      "postalCode": "10017",
+      "country": "US"
+    }
+  },
+  "trustee": {
+    "name": null,
+    "address": {
+      "street": null,
+      "municipality": null,
+      "postalCode": null,
+      "country": null
+    }
+  },
+  "propertyAddress": {
+    "street": "445 East 82nd Street, Unit 7B",
+    "municipality": "New York, New York",
+    "postalCode": "10028",
+    "country": "US"
+  },
+  "legalDescription": "APARTMENT 7B in the building known as The Stanhope Residences, located at 445 East 82nd Street, Borough of Manhattan, City and County of New York, State of New York, together with an undivided 0.847% interest in the common elements of said condominium building, all as defined and described in the Declaration of Condominium recorded in the Office of the Register of the City of New York, County of New York (the \"Register's Office\") on July 14, 1998, under City Register File Number (CRFN) 1998000312789, as amended.",
+  "apn": "1-01483/0047",
+  "notary": {
+    "name": "Robert A. Chen",
+    "commissionExpiry": "2026-02-28",
+    "county": "New York"
+  }
 }

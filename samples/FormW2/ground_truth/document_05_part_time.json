@@ -1,4 +1,37 @@
 {
   "documentType": "FormW2",
-  "sourceFile": "document_05_part_time.pdf"
+  "sourceFile": "document_05_part_time.pdf",
+  "taxYear": 2024,
+  "employerName": "Target Corporation",
+  "employerEIN": "36-4920183",
+  "employerAddress": {
+    "street": "1000 Nicollet Mall",
+    "municipality": "Minneapolis, MN",
+    "postalCode": "55403",
+    "country": "US"
+  },
+  "employeeName": "Emily R. Nguyen",
+  "employeeSSN": "XXX-XX-2214",
+  "employeeAddress": {
+    "street": "3301 University Avenue SE, Apt 12",
+    "municipality": "Minneapolis, MN",
+    "postalCode": "55414",
+    "country": "US"
+  },
+  "box1Wages": 14820,
+  "box2FederalTax": 296,
+  "box3SocialSecurityWages": 14820,
+  "box4SocialSecurityTax": 918.84,
+  "box5MedicareWages": 14820,
+  "box6MedicareTax": 214.89,
+  "box7SocialSecurityTips": 0,
+  "box10DependentCare": 0,
+  "box12Entries": [],
+  "box16StateWages": 14820,
+  "box17StateTax": 593,
+  "stateCode": "MN",
+  "employerStateId": "MN-2847-19X",
+  "box18LocalWages": 0,
+  "box19LocalTax": 0,
+  "localityName": null
 }

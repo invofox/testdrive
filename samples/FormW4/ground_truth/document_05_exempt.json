@@ -1,4 +1,26 @@
 {
   "documentType": "FormW4",
-  "sourceFile": "document_05_exempt.pdf"
+  "sourceFile": "document_05_exempt.pdf",
+  "taxYear": 2025,
+  "employeeName": "Sofia E. Guerrero",
+  "ssn": "•••-••-3357",
+  "address": [
+    {
+      "street": "University of Texas · Box 4412, 2201 Speedway",
+      "municipality": "Austin, TX",
+      "postalCode": "78712",
+      "country": null
+    }
+  ],
+  "filingStatus": "Single or Married Filing Separately",
+  "multipleJobs": null,
+  "dependentsCredit": 0,
+  "otherIncome": 0,
+  "deductionsAmount": 0,
+  "extraWithholding": 0,
+  "exemptStatus": "EXEMPT",
+  "signatureDate": "2025-01-06",
+  "employerName": "UT Austin Campus Dining Services · 2400 Nueces St, Austin, TX 78712",
+  "employerEIN": "74-6000203",
+  "firstPayDate": "2025-01-13"
 }

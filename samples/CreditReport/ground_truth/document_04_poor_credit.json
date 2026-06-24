@@ -1,4 +1,109 @@
 {
   "documentType": "CreditReport",
-  "sourceFile": "document_04_poor_credit.pdf"
+  "sourceFile": "document_04_poor_credit.pdf",
+  "reportNumber": "TU-2025-8821093",
+  "reportDate": "2025-01-20",
+  "creditBureau": "TransUnion",
+  "ficoScore": 541,
+  "equifaxScore": null,
+  "experianScore": null,
+  "transunionScore": null,
+  "reportType": "Individual",
+  "totalAccounts": 5,
+  "openAccounts": 3,
+  "closedAccounts": 2,
+  "delinquentAccounts": 2,
+  "collectionAccounts": 2,
+  "totalBalances": 22180,
+  "totalCreditLimit": 27000,
+  "creditUtilization": 82,
+  "inquiryCount": 4,
+  "oldestAccountAge": "Lakeshore Recovery / First National (Feb 2019) — 6 yrs",
+  "averageAccountAge": "3 years 4 months",
+  "subject": {
+    "fullName": "Brandon M. Schultz",
+    "ssn": "***-**-8821",
+    "dateOfBirth": "1988-02-14",
+    "currentAddress": "710 Elm St, Detroit, MI 48201",
+    "previousAddress": "245 Woodward Ave, Detroit, MI 48226",
+    "employer": "Midwest Parts Distribution LLC"
+  },
+  "publicRecords": {
+    "hasBankruptcy": "Yes",
+    "bankruptcyType": "Chapter 7",
+    "bankruptcyDate": "2021-09-12",
+    "hasForeclosure": "No",
+    "hasJudgment": "No",
+    "hasTaxLien": "No",
+    "totalPublicRecords": 1
+  },
+  "paymentHistory": {
+    "onTimePayments": 64,
+    "latePayments30": 6,
+    "latePayments60": 3,
+    "latePayments90plus": 2,
+    "totalPayments": 75
+  },
+  "accounts": [
+    {
+      "creditorName": "Motor City Secured Card",
+      "accountType": "Credit Card",
+      "accountNumber": "****1102",
+      "openDate": "2021-11-01",
+      "balance": 980,
+      "creditLimit": 1000,
+      "monthlyPayment": 39,
+      "paymentStatus": "Current",
+      "paymentHistory": "Consistent on-time payments since opening (3 years)",
+      "creditBureau": "TransUnion"
+    },
+    {
+      "creditorName": "Great Lakes Financial",
+      "accountType": "Credit Card",
+      "accountNumber": "****4480",
+      "openDate": "2022-03-01",
+      "balance": 4200,
+      "creditLimit": 5000,
+      "monthlyPayment": 168,
+      "paymentStatus": "30 Days Late",
+      "paymentHistory": "30-day late January 2025, April 2024, September 2024, November 2023, December 2023; otherwise current",
+      "creditBureau": "TransUnion"
+    },
+    {
+      "creditorName": "Wolverine Auto Finance",
+      "accountType": "Auto Loan",
+      "accountNumber": "****7710",
+      "openDate": "2023-08-01",
+      "balance": 13400,
+      "creditLimit": null,
+      "monthlyPayment": 420,
+      "paymentStatus": "Current",
+      "paymentHistory": "All payments on time",
+      "creditBureau": "TransUnion"
+    },
+    {
+      "creditorName": "Midwest Collections Group",
+      "accountType": "Collection",
+      "accountNumber": "****2299",
+      "openDate": "2020-04-01",
+      "balance": 1860,
+      "creditLimit": null,
+      "monthlyPayment": 0,
+      "paymentStatus": "Collection",
+      "paymentHistory": "Unpaid collection — original creditor Detroit Edison Utilities",
+      "creditBureau": "TransUnion"
+    },
+    {
+      "creditorName": "Lakeshore Recovery Services",
+      "accountType": "Charge-Off",
+      "accountNumber": "****6641",
+      "openDate": "2019-02-01",
+      "balance": 1740,
+      "creditLimit": null,
+      "monthlyPayment": 0,
+      "paymentStatus": "Charge-Off",
+      "paymentHistory": "Charge-off and collection — original creditor First National Bank (Credit Card)",
+      "creditBureau": "TransUnion"
+    }
+  ]
 }

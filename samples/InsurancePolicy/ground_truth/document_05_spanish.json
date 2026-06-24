@@ -1,4 +1,97 @@
 {
   "documentType": "InsurancePolicy",
-  "sourceFile": "document_05_spanish.pdf"
+  "sourceFile": "document_05_spanish.pdf",
+  "policyNumber": "HO-MAL-2025-88912",
+  "issueDate": "2025-03-18",
+  "effectiveDate": "2025-04-01",
+  "expirationDate": "2026-04-01",
+  "insuranceType": "Homeowner's",
+  "currency": "EUR",
+  "annualPremium": 548.3,
+  "paymentFrequency": "Annual",
+  "deductible": 150,
+  "coverageLimit": 220000,
+  "policyStatus": "In Force",
+  "insured": {
+    "name": "Carmen Ruiz Villanueva",
+    "dateOfBirth": null,
+    "taxId": "52.384.711-K",
+    "phone": "+34 952 418 820",
+    "email": null,
+    "address": {
+      "country": "ES",
+      "postalCode": "29005",
+      "municipality": "Málaga",
+      "street": "C/ Larios, 14, 3.º B",
+      "raw": "C/ Larios, 14, 3.º B, 29005 Málaga"
+    }
+  },
+  "insurer": {
+    "name": "MAPFRE España Compañía de Seguros y Reaseguros, S.A.",
+    "taxId": "A-28013050",
+    "phone": "900 444 444",
+    "address": {
+      "country": "ES",
+      "postalCode": "28222",
+      "municipality": "Majadahonda",
+      "street": "Carretera de Pozuelo, 52",
+      "raw": "Carretera de Pozuelo, 52, 28222 Majadahonda, Madrid"
+    }
+  },
+  "insuredObject": {
+    "description": "Vivienda — Piso, 87 m², construido en 1998, residencia habitual",
+    "address": "Avda. Velázquez, 82, 2.º A, 29004 Málaga",
+    "value": 220000
+  },
+  "coverages": [
+    {
+      "coverageType": "Continente (Edificio)",
+      "coverageDescription": "Daños materiales a la estructura del inmueble",
+      "limit": 220000,
+      "deductible": 150,
+      "premium": 218.4
+    },
+    {
+      "coverageType": "Contenido (Mobiliario)",
+      "coverageDescription": "Bienes muebles, electrodomésticos, efectos personales",
+      "limit": 30000,
+      "deductible": 150,
+      "premium": 96.2
+    },
+    {
+      "coverageType": "Responsabilidad Civil Familiar",
+      "coverageDescription": "Daños a terceros causados por el asegurado o familia",
+      "limit": 300000,
+      "deductible": 0,
+      "premium": 62.8
+    },
+    {
+      "coverageType": "Incendio y Explosión",
+      "coverageDescription": "Daños por incendio, explosión, rayo",
+      "limit": 220000,
+      "deductible": 150,
+      "premium": null
+    },
+    {
+      "coverageType": "Robo y Expoliación",
+      "coverageDescription": "Robo con fuerza o violencia en el domicilio",
+      "limit": 10000,
+      "deductible": 200,
+      "premium": 48.6
+    },
+    {
+      "coverageType": "Daños Eléctricos",
+      "coverageDescription": "Cortocircuitos y daños a aparatos electrónicos",
+      "limit": 5000,
+      "deductible": 75,
+      "premium": 32.1
+    },
+    {
+      "coverageType": "Asistencia en el Hogar 24h",
+      "coverageDescription": "Reparaciones urgentes, fontanería, cerrajería, electricidad",
+      "limit": null,
+      "deductible": null,
+      "premium": 90.2
+    }
+  ]
 }

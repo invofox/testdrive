@@ -1,4 +1,21 @@
 {
   "documentType": "FormW9",
-  "sourceFile": "document_05_individual_with_exemptions.pdf"
+  "sourceFile": "document_05_individual_with_exemptions.pdf",
+  "taxpayerName": "Thomas J. Bergman",
+  "businessName": null,
+  "federalTaxClassification": "Individual/sole proprietor or single-member LLC",
+  "llcTaxClassification": null,
+  "exemptPayeeCode": null,
+  "fatcaExemptionCode": "B",
+  "address": {
+    "street": "2817 Cloverleaf Drive",
+    "municipality": "Phoenix, AZ",
+    "postalCode": "85004",
+    "country": "US"
+  },
+  "accountNumbers": "IRA-MW-0039421",
+  "tinType": "SSN",
+  "tin": "•••-••-8824",
+  "certificationDate": "2024-11-22",
+  "requesterName": "Meridian Wealth Advisors"
 }

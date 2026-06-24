@@ -1,4 +1,51 @@
 {
   "documentType": "Resume",
-  "sourceFile": "document_04_recent_graduate.pdf"
+  "sourceFile": "document_04_recent_graduate.pdf",
+  "fullName": "Tyler James Okafor",
+  "email": "tyler.okafor@gmail.com",
+  "phone": "+1 (312) 604-7713",
+  "linkedIn": "linkedin.com/in/tylerokafor",
+  "website": "tylerokafor.com",
+  "currentTitle": "Marketing & Communications Graduate",
+  "summary": "Recent Northwestern University graduate with a passion for brand storytelling, content strategy, and data-driven marketing. Hands-on internship experience at a top-10 digital agency and a fast-growing CPG startup. Seeking a full-time Marketing Coordinator or Brand Associate role where I can apply creative and analytical skills to drive measurable engagement.",
+  "skills": "Content Strategy, Copywriting, Social Media Management, Email Marketing, Influencer Marketing, SEO Basics, Google Analytics 4, Klaviyo, Sprout Social, Figma, Canva, Microsoft Office",
+  "languages": "English (Native), Yoruba (Conversational), French (Basic)",
+  "certifications": "Google Analytics 4 Certified, HubSpot Content Marketing Certified",
+  "address": {
+    "raw": "Chicago, IL 60614",
+    "country": "US",
+    "postalCode": "60614",
+    "municipality": "Chicago",
+    "street": null
+  },
+  "experience": [
+    {
+      "company": "Ogilvy",
+      "title": "Content Marketing Intern",
+      "location": "Chicago, IL",
+      "startDate": "2024-06",
+      "endDate": "2024-08",
+      "description": "Supported social media strategy for a national QSR client with 2.8M followers across Instagram, TikTok, and X. Wrote copy for 34 organic posts per month; posts I authored averaged 14% higher engagement than team baseline. Conducted competitor audits and contributed to monthly performance decks presented to the client's CMO. Collaborated with design team using Figma to produce visual content assets for campaign launch.",
+      "isCurrent": null
+    },
+    {
+      "company": "Bev (CPG Startup)",
+      "title": "Marketing & Communications Intern",
+      "location": "Los Angeles, CA (Remote)",
+      "startDate": "2023-05",
+      "endDate": "2023-08",
+      "description": "Assisted in planning influencer partnerships; helped onboard 18 micro-influencers resulting in 480K impressions in Q3 2023. Managed email marketing calendar in Klaviyo; supported A/B tests that improved open rates by 9 percentage points. Created weekly social analytics reports using Sprout Social; identified top-performing content themes for editorial planning.",
+      "isCurrent": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Northwestern University — Medill School of Journalism, Media, Integrated Marketing Communications",
+      "degree": "BA",
+      "fieldOfStudy": "Marketing & Communications",
+      "graduationYear": "2024",
+      "gpa": "3.72",
+      "honors": "Dean's List (4 semesters), Graduated with Distinction"
+    }
+  ]
 }

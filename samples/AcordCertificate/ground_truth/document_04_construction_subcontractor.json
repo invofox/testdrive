@@ -1,4 +1,73 @@
 {
   "documentType": "AcordCertificate",
-  "sourceFile": "document_04_construction_subcontractor.pdf"
+  "sourceFile": "document_04_construction_subcontractor.pdf",
+  "acordForm": "ACORD 25",
+  "issueDate": "2025-02-20",
+  "producer": {
+    "name": "Pacific Northwest Risk Advisors",
+    "address": {
+      "street": "1800 9th Avenue, Suite 2200",
+      "municipality": "Seattle",
+      "postalCode": "98101",
+      "country": "US"
+    },
+    "phone": "(206) 555-0483",
+    "email": "certificates@pnwrisk.com",
+    "contactName": "Derek Yamamoto, CIC"
+  },
+  "insured": {
+    "name": "Cascade Electrical Contractors, LLC",
+    "address": {
+      "street": "12240 Meridian Avenue East",
+      "municipality": "Puyallup",
+      "postalCode": "98374",
+      "country": "US"
+    }
+  },
+  "coverages": [
+    {
+      "coverageType": "General Liability",
+      "insurer": "Zurich American Insurance Co.",
+      "policyNumber": "ZUR-CGL-WA-2025-88312",
+      "effectiveDate": "2025-03-01",
+      "expirationDate": "2026-03-01",
+      "eachOccurrence": 1000000,
+      "aggregateLimit": 2000000,
+      "additionalInsured": "Y",
+      "waiverOfSubrogation": "Y"
+    },
+    {
+      "coverageType": "Umbrella",
+      "insurer": "Great American Insurance Co.",
+      "policyNumber": "GA-UMB-2025-44190",
+      "effectiveDate": "2025-03-01",
+      "expirationDate": "2026-03-01",
+      "eachOccurrence": 5000000,
+      "aggregateLimit": 5000000,
+      "additionalInsured": "Y",
+      "waiverOfSubrogation": "Y"
+    },
+    {
+      "coverageType": "Workers Comp",
+      "insurer": "EMPLOYERS HOLDINGS INC.",
+      "policyNumber": "EH-WC-WA-2025-71042",
+      "effectiveDate": "2025-03-01",
+      "expirationDate": "2026-03-01",
+      "eachOccurrence": 1000000,
+      "aggregateLimit": null,
+      "additionalInsured": null,
+      "waiverOfSubrogation": "Y"
+    }
+  ],
+  "certificateHolder": {
+    "name": "Turner Construction Company",
+    "address": {
+      "street": "1200 5th Avenue, Suite 1800",
+      "municipality": "Seattle",
+      "postalCode": "98101",
+      "country": "US"
+    }
+  },
+  "descriptionOfOperations": "The certificate holder is named as an Additional Insured on the Commercial General Liability and Umbrella policies per CG 20 10 and CG 20 37 endorsements. Waiver of Subrogation endorsement applies to GL, Umbrella, and Workers' Compensation coverages per written subcontract agreement. Project: Northgate Link Expansion — Commercial Core Phase 2. Prime Contractor: Turner Construction Co. Location: 10220 5th Ave NE, Seattle, WA 98125. Coverage applies to all electrical subcontracting work performed under subcontract dated January 30, 2025.",
+  "cancellationDays": 30
 }

@@ -1,4 +1,67 @@
 {
   "documentType": "Form1040",
-  "sourceFile": "document_05_high_income.pdf"
+  "sourceFile": "document_05_high_income.pdf",
+  "formType": "1040",
+  "taxYear": 2024,
+  "filingDate": "2025-10-15",
+  "filingStatus": "Married Filing Jointly",
+  "taxpayer": {
+    "name": "David J. Worthington",
+    "ssn": "XXX-XX-8823",
+    "dateOfBirth": "1972-04-17",
+    "occupation": "Managing Director, Investment Banking",
+    "address": {
+      "street": "48 Riverside Terrace",
+      "municipality": "Greenwich, CT",
+      "postalCode": "06830",
+      "country": "US"
+    }
+  },
+  "spouse": {
+    "name": "Nicole A. Worthington",
+    "ssn": "XXX-XX-4401",
+    "dateOfBirth": "1975-09-28",
+    "occupation": "Attorney"
+  },
+  "income": {
+    "wages": 800000,
+    "taxableInterest": 18400,
+    "qualifiedDividends": 42800,
+    "capitalGains": 185000,
+    "otherIncome": 95000,
+    "totalIncome": 1141200,
+    "adjustments": 0,
+    "adjustedGrossIncome": 1141200
+  },
+  "deductions": {
+    "type": "Itemized",
+    "amount": 143200,
+    "qualifiedBusinessIncome": 0
+  },
+  "tax": {
+    "taxableIncome": 998000,
+    "incomeTax": 294780,
+    "alternativeMinimumTax": 22400,
+    "totalTax": 326826
+  },
+  "credits": {
+    "childTaxCredit": 0,
+    "educationCredit": null,
+    "earnedIncomeCredit": 0,
+    "totalCredits": 8200
+  },
+  "payments": {
+    "withheldFederal": 196000,
+    "estimatedTaxPayments": 140000,
+    "totalPayments": 336000
+  },
+  "result": {
+    "refundAmount": 9174,
+    "amountOwed": 0
+  },
+  "preparer": {
+    "name": "Jonathan P. Reeves, CPA/PFS",
+    "ptin": "P00563247",
+    "firmName": "Reeves Goldstein & Partners LLP"
+  }
 }

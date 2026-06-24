@@ -1,4 +1,53 @@
 {
   "documentType": "Payslip",
-  "sourceFile": "document_03_uk.pdf"
+  "sourceFile": "document_03_uk.pdf",
+  "payPeriodStart": "2025-04-01",
+  "payPeriodEnd": "2025-04-30",
+  "payDate": "2025-04-30",
+  "currency": "GBP",
+  "grossSalary": 5800,
+  "netSalary": 4124.2,
+  "totalDeductions": 1675.8,
+  "totalEarnings": 5800,
+  "payFrequency": "Monthly",
+  "employee": {
+    "name": "Oliver T. Farnsworth",
+    "employeeId": "AB-0441",
+    "position": "Associate Solicitor",
+    "department": "Commercial Litigation",
+    "taxId": "JK 84 37 19 C"
+  },
+  "employer": {
+    "name": "Ashworth & Bradley Solicitors LLP",
+    "taxId": "GB 294 7741 03",
+    "address": {
+      "country": "GB",
+      "postalCode": "WC2A 1LH",
+      "municipality": "London",
+      "street": "14 Chancery Lane",
+      "raw": "14 Chancery Lane, London WC2A 1LH"
+    }
+  },
+  "earnings": [
+    {
+      "description": "Basic Monthly Salary",
+      "hours": null,
+      "rate": null,
+      "amount": 5800
+    }
+  ],
+  "deductions": [
+    {
+      "description": "Income Tax (PAYE)",
+      "amount": 1138.2
+    },
+    {
+      "description": "National Insurance (Class 1)",
+      "amount": 408.08
+    },
+    {
+      "description": "Workplace Pension (5%)",
+      "amount": 129.52
+    }
+  ]
 }

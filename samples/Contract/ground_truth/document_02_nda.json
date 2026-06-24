@@ -1,4 +1,41 @@
 {
   "documentType": "Contract",
-  "sourceFile": "document_02_nda.pdf"
+  "sourceFile": "document_02_nda.pdf",
+  "contractNumber": "NDA-2025-NGT-087",
+  "contractTitle": "Non-Disclosure Agreement",
+  "contractType": "NDA",
+  "effectiveDate": "2025-03-15",
+  "expiryDate": "2027-03-14",
+  "signatureDate": "2025-03-15",
+  "currency": null,
+  "totalValue": null,
+  "paymentTerms": null,
+  "governingLaw": "State of California",
+  "jurisdiction": "San Diego County, California",
+  "party1": {
+    "name": "Northgate Biotech Inc",
+    "role": "Disclosing / Receiving Party",
+    "taxId": null,
+    "address": {
+      "country": "US",
+      "postalCode": "92037",
+      "municipality": "San Diego",
+      "street": "4250 Executive Square, Suite 900"
+    },
+    "signatoryName": "Marcus T. Brinkley",
+    "signatoryTitle": "Chief Scientific Officer"
+  },
+  "party2": {
+    "name": "Dr. Elena Vasquez",
+    "role": "Receiving / Disclosing Party",
+    "taxId": null,
+    "address": {
+      "country": "US",
+      "postalCode": "02116",
+      "municipality": "Boston",
+      "street": "47 Commonwealth Avenue, Apt. 12B"
+    },
+    "signatoryName": "Dr. Elena Vasquez",
+    "signatoryTitle": "Research Consultant"
+  }
 }

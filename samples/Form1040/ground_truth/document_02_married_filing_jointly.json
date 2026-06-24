@@ -1,4 +1,67 @@
 {
   "documentType": "Form1040",
-  "sourceFile": "document_02_married_filing_jointly.pdf"
+  "sourceFile": "document_02_married_filing_jointly.pdf",
+  "formType": "1040",
+  "taxYear": 2024,
+  "filingDate": "2025-03-28",
+  "filingStatus": "Married Filing Jointly",
+  "taxpayer": {
+    "name": "James A. Henderson",
+    "ssn": "XXX-XX-7743",
+    "dateOfBirth": "1985-06-22",
+    "occupation": "Marketing Manager",
+    "address": {
+      "street": "1542 Willow Creek Lane",
+      "municipality": "Charlotte, NC",
+      "postalCode": "28205",
+      "country": "US"
+    }
+  },
+  "spouse": {
+    "name": "Sarah M. Henderson",
+    "ssn": "XXX-XX-9912",
+    "dateOfBirth": "1987-09-05",
+    "occupation": "Registered Nurse"
+  },
+  "income": {
+    "wages": 168000,
+    "taxableInterest": 1240,
+    "qualifiedDividends": 3680,
+    "capitalGains": 4200,
+    "otherIncome": 0,
+    "totalIncome": 177120,
+    "adjustments": -4850,
+    "adjustedGrossIncome": 172270
+  },
+  "deductions": {
+    "type": "Itemized",
+    "amount": 29200,
+    "qualifiedBusinessIncome": 0
+  },
+  "tax": {
+    "taxableIncome": 143070,
+    "incomeTax": 22847,
+    "alternativeMinimumTax": 0,
+    "totalTax": 17647
+  },
+  "credits": {
+    "childTaxCredit": 4000,
+    "educationCredit": null,
+    "earnedIncomeCredit": 0,
+    "totalCredits": 5200
+  },
+  "payments": {
+    "withheldFederal": 21200,
+    "estimatedTaxPayments": 0,
+    "totalPayments": 21200
+  },
+  "result": {
+    "refundAmount": 3553,
+    "amountOwed": 0
+  },
+  "preparer": {
+    "name": "Robert K. Lawson, CPA",
+    "ptin": "P00412837",
+    "firmName": "Lawson & Associates Tax Services LLC"
+  }
 }

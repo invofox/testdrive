@@ -1,4 +1,84 @@
 {
   "documentType": "Quote",
-  "sourceFile": "document_03_marketing_agency.pdf"
+  "sourceFile": "document_03_marketing_agency.pdf",
+  "quoteNumber": "QUO-2025-087",
+  "issueDate": "2025-04-22",
+  "expiryDate": "2025-06-05",
+  "currency": "USD",
+  "totalAmount": 18900,
+  "totalTaxBaseAmount": 18900,
+  "totalTaxAmount": 0,
+  "taxRate": 0,
+  "paymentTerms": "50% ($9,450) on project commencement. 50% ($9,450) on Phase 3 delivery. Wire transfer or ACH accepted. Net 14.",
+  "validityDays": 45,
+  "supplier": {
+    "name": "Catalyst Creative Agency Inc",
+    "taxId": "47-2193840",
+    "email": "hello@catalystcreative.agency",
+    "phoneNumber": "+1 (312) 555-0247",
+    "address": {
+      "country": "US",
+      "postalCode": "60654",
+      "municipality": "Chicago",
+      "street": "325 N. Clark Street, Suite 810",
+      "raw": "325 N. Clark Street, Suite 810, Chicago, IL 60654, USA"
+    }
+  },
+  "customer": {
+    "name": "NovaBridge Capital LLC",
+    "taxId": null,
+    "email": "p.mehta@novabridgecapital.com",
+    "phoneNumber": null,
+    "address": {
+      "country": "US",
+      "postalCode": "10001",
+      "municipality": "New York",
+      "street": "30 Hudson Yards, 72nd Floor",
+      "raw": "30 Hudson Yards, 72nd Floor, New York, NY 10001, USA"
+    }
+  },
+  "lines": [
+    {
+      "description": "Brand Discovery & Strategy Sprint",
+      "quantity": 24,
+      "unitOfMeasure": "hrs",
+      "unitPrice": 175,
+      "totalAmount": 4200
+    },
+    {
+      "description": "Visual Identity System",
+      "quantity": 32,
+      "unitOfMeasure": "hrs",
+      "unitPrice": 165,
+      "totalAmount": 5280
+    },
+    {
+      "description": "Investor Collateral Pack",
+      "quantity": 16,
+      "unitOfMeasure": "hrs",
+      "unitPrice": 155,
+      "totalAmount": 2480
+    },
+    {
+      "description": "Digital Campaign Strategy & Creative",
+      "quantity": 28,
+      "unitOfMeasure": "hrs",
+      "unitPrice": 170,
+      "totalAmount": 4760
+    },
+    {
+      "description": "Content Programme — 90 Days",
+      "quantity": 14,
+      "unitOfMeasure": "hrs",
+      "unitPrice": 155,
+      "totalAmount": 2170
+    },
+    {
+      "description": "Project Management & Account Direction",
+      "quantity": null,
+      "unitOfMeasure": null,
+      "unitPrice": null,
+      "totalAmount": 10
+    }
+  ]
 }

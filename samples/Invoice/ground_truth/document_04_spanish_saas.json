@@ -1,4 +1,67 @@
 {
   "documentType": "Invoice",
-  "sourceFile": "document_04_spanish_saas.pdf"
+  "sourceFile": "document_04_spanish_saas.pdf",
+  "documentNumber": "CMT-2024-01182",
+  "issueDate": "2024-12-05",
+  "dueDate": "2025-01-04",
+  "currency": "EUR",
+  "totalAmount": 7066.4,
+  "totalTaxBaseAmount": 5840,
+  "totalTaxAmount": 1226.4,
+  "withholdingTaxRate": null,
+  "withholdingTaxAmount": null,
+  "supplier": {
+    "name": "CloudMetrics Technologies SL",
+    "taxId": "B-84731925",
+    "email": "facturacion@cloudmetrics.es",
+    "phoneNumber": "+34 91 577 4400",
+    "address": {
+      "street": "Calle Velázquez 24, 3ª planta",
+      "municipality": "Madrid",
+      "postalCode": "28001",
+      "country": "ES"
+    }
+  },
+  "customer": {
+    "name": "Distribuciones Molina SA",
+    "taxId": "A-60294817",
+    "email": "administracion@dmolina.es",
+    "phoneNumber": null,
+    "address": {
+      "street": "Avenida Diagonal 418, 2º",
+      "municipality": "Barcelona",
+      "postalCode": "08037",
+      "country": "ES"
+    }
+  },
+  "lines": [
+    {
+      "description": "Licencia Plataforma CloudMetrics Pro",
+      "quantity": 1,
+      "unitPrice": 3640,
+      "totalAmount": 3640,
+      "taxRate": 21
+    },
+    {
+      "description": "Servicio de Implantación y Formación",
+      "quantity": 1,
+      "unitPrice": 1200,
+      "totalAmount": 1200,
+      "taxRate": 21
+    },
+    {
+      "description": "Soporte Premium Anual",
+      "quantity": 1,
+      "unitPrice": 1000,
+      "totalAmount": 1000,
+      "taxRate": 21
+    }
+  ],
+  "breakdowns": [
+    {
+      "taxRate": 21,
+      "taxBaseAmount": 5840,
+      "taxAmount": 1226.4
+    }
+  ]
 }

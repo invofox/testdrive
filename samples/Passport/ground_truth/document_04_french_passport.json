@@ -1,4 +1,18 @@
 {
   "documentType": "Passport",
-  "sourceFile": "document_04_french_passport.pdf"
+  "sourceFile": "document_04_french_passport.pdf",
+  "documentNumber": "22AE44821",
+  "issuingCountry": "FR",
+  "issuingAuthority": "Préfecture du Rhône",
+  "issueDate": "2021-04-15",
+  "expiryDate": "2031-04-14",
+  "surname": "BEAUMONT",
+  "givenNames": "CLAIRE SOPHIE",
+  "dateOfBirth": "1993-11-08",
+  "placeOfBirth": "LYON",
+  "nationality": "FRANÇAISE / FRENCH",
+  "sex": "F",
+  "personalNumber": null,
+  "mrzLine1": "P<FRABEAUMONT<<CLAIRE<SOPHIE<<<<<<<<<<<<<<<<<<<<<",
+  "mrzLine2": "22AE44821<4FRA9311088F3104149<<<<<<<<<<<<<<8"
 }

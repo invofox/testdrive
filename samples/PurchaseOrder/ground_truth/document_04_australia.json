@@ -1,4 +1,83 @@
 {
   "documentType": "PurchaseOrder",
-  "sourceFile": "document_04_australia.pdf"
+  "sourceFile": "document_04_australia.pdf",
+  "poNumber": "PO-AU-2025-0334",
+  "issueDate": "2025-07-07",
+  "deliveryDate": "2025-07-25",
+  "currency": "AUD",
+  "totalAmount": 12450,
+  "paymentTerms": "30 days EOM",
+  "deliveryTerms": "DDP Sydney Warehouse",
+  "notes": "All items are for the 2025 pre-season restock across Coastal Hospitality Group's four Sydney properties. Please label each carton with item code, quantity, and PO number. Embroidered robes (CHG logo) to be confirmed as separate follow-up order. This purchase order constitutes a binding contract subject to Coastal Hospitality Group's Standard Purchasing Conditions.",
+  "buyer": {
+    "name": "Coastal Hospitality Group Pty Ltd",
+    "taxId": "47 613 892 045",
+    "contactName": "Rebecca Nguyen",
+    "email": "r.nguyen@coastalhospitality.com.au",
+    "address": {
+      "country": "AU",
+      "postalCode": "2000",
+      "municipality": "Sydney",
+      "street": "Level 22, 1 Market Street",
+      "raw": "Level 22, 1 Market Street, Sydney NSW 2000, Australia"
+    }
+  },
+  "supplier": {
+    "name": "Pacific Linen Supplies Pty Ltd",
+    "taxId": "82 544 317 906",
+    "contactName": "Thomas Andreou",
+    "email": "t.andreou@pacificlinen.com.au",
+    "address": {
+      "country": "AU",
+      "postalCode": "3056",
+      "municipality": "Brunswick",
+      "street": "88 Moreland Road",
+      "raw": "88 Moreland Road, Brunswick VIC 3056, Melbourne, Australia"
+    }
+  },
+  "deliveryAddress": {
+    "country": "AU",
+    "postalCode": "2015",
+    "municipality": "Alexandria",
+    "street": "18 O'Riordan Street",
+    "raw": "Coastal Hospitality Group — Linen & Housekeeping Warehouse, 18 O'Riordan Street, Alexandria NSW 2015, Australia"
+  },
+  "lines": [
+    {
+      "lineNumber": "1",
+      "partNumber": "PLS-BWSH-K",
+      "description": "King Size Bed Sheet Set — 400TC Egyptian Cotton — white, fitted + flat + 2 pillowcases",
+      "quantity": 120,
+      "unitOfMeasure": "SET",
+      "unitPrice": 38.5,
+      "totalAmount": 4620
+    },
+    {
+      "lineNumber": "2",
+      "partNumber": "PLS-BTOW-L",
+      "description": "Bath Towels — Hotel Weight 600GSM — white, 75×150cm, ring-spun cotton",
+      "quantity": 300,
+      "unitOfMeasure": "EA",
+      "unitPrice": 12.8,
+      "totalAmount": 3840
+    },
+    {
+      "lineNumber": "3",
+      "partNumber": "PLS-HDTOW",
+      "description": "Hand Towels — 600GSM — white, 45×90cm, hotel-grade, matching bath towel series",
+      "quantity": 300,
+      "unitOfMeasure": "EA",
+      "unitPrice": 6.5,
+      "totalAmount": 1950
+    },
+    {
+      "lineNumber": "4",
+      "partNumber": "PLS-ROBE-M",
+      "description": "Terry Cloth Bathrobe — Unisex Medium — white, waffle weave, embroidery-ready, 100% cotton",
+      "quantity": 80,
+      "unitOfMeasure": "EA",
+      "unitPrice": 25.5,
+      "totalAmount": 2040
+    }
+  ]
 }

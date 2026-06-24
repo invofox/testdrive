@@ -1,4 +1,57 @@
 {
-  "documentType": "MortgageDeed",
-  "sourceFile": "document_01_deed_of_trust_california.pdf"
+  "documentType": "Deed of Trust",
+  "sourceFile": "document_01_deed_of_trust_california.pdf",
+  "recordingDate": "2025-03-14",
+  "recordingInfo": {
+    "book": null,
+    "page": null,
+    "instrumentNumber": "2025-0312447",
+    "county": "Los Angeles",
+    "state": "California"
+  },
+  "executionDate": "2025-03-12",
+  "loanAmount": 650000,
+  "interestRate": 6.875,
+  "maturityDate": "2055-04-01",
+  "borrower": {
+    "name": "WILLIAM J. HARTLEY and AMANDA K. HARTLEY",
+    "type": "Married Couple",
+    "address": {
+      "street": "2847 Rosewood Lane",
+      "municipality": "Pasadena, California",
+      "postalCode": "91103",
+      "country": "US"
+    }
+  },
+  "lender": {
+    "name": "WELLS FARGO BANK, N.A.",
+    "address": {
+      "street": "101 North Phillips Avenue",
+      "municipality": "Sioux Falls, South Dakota",
+      "postalCode": "57104",
+      "country": "US"
+    }
+  },
+  "trustee": {
+    "name": "CALIFORNIA LAND TITLE COMPANY",
+    "address": {
+      "street": null,
+      "municipality": null,
+      "postalCode": null,
+      "country": "US"
+    }
+  },
+  "propertyAddress": {
+    "street": "2847 Rosewood Lane",
+    "municipality": "Pasadena, California",
+    "postalCode": "91103",
+    "country": "US"
+  },
+  "legalDescription": "LOT 17 OF TRACT NO. 24891, IN THE CITY OF PASADENA, COUNTY OF LOS ANGELES, STATE OF CALIFORNIA, AS PER MAP RECORDED IN BOOK 631, PAGES 42 AND 43, OF MAPS, IN THE OFFICE OF THE COUNTY RECORDER OF SAID COUNTY.",
+  "apn": "5742-018-035",
+  "notary": {
+    "name": "Margaret L. Torres",
+    "commissionExpiry": "2026-06-30",
+    "county": "Los Angeles"
+  }
 }

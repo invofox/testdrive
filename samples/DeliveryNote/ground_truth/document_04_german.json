@@ -1,4 +1,104 @@
 {
   "documentType": "DeliveryNote",
-  "sourceFile": "document_04_german.pdf"
+  "sourceFile": "document_04_german.pdf",
+  "deliveryNoteNumber": "LS-2025-11294",
+  "issueDate": "2025-06-02",
+  "deliveryDate": "2025-06-04",
+  "orderRef": "HAG-BE-2025-4401",
+  "invoiceRef": "SL-RE-2025-9901",
+  "carrierId": "Rolf Grüneberg — Dachser GmbH",
+  "totalPackages": 9,
+  "totalWeight": "1.145 kg",
+  "supplier": {
+    "name": "Schreiber Logistik GmbH",
+    "address": {
+      "raw": "Bredowstraße 14, 20539 Hamburg, Deutschland",
+      "street": "Bredowstraße 14",
+      "municipality": "Hamburg",
+      "postalCode": "20539",
+      "country": "DE"
+    }
+  },
+  "recipient": {
+    "name": "Hartmann Automotive GmbH",
+    "address": {
+      "raw": "Mercedesstraße 77, 70372 Stuttgart, Deutschland",
+      "street": "Mercedesstraße 77",
+      "municipality": "Stuttgart",
+      "postalCode": "70372",
+      "country": "DE"
+    }
+  },
+  "shipToAddress": {
+    "raw": "Industriepark Ost, Halle B, Brückenstraße 12, 70376 Stuttgart, Deutschland",
+    "street": "Brückenstraße 12",
+    "municipality": "Stuttgart",
+    "postalCode": "70376",
+    "country": "DE"
+  },
+  "lines": [
+    {
+      "lineNumber": "1",
+      "partNumber": "BRK-DSC-F-BMW5",
+      "description": "Bremsscheibe vorne, BMW 5er (G30), OEM-Qualität, belüftet, Ø 348mm",
+      "quantityOrdered": 60,
+      "quantityDelivered": 60,
+      "unitOfMeasure": "Stk",
+      "batchNumber": "CH-2025-B-03311"
+    },
+    {
+      "lineNumber": "2",
+      "partNumber": "BRK-PAD-F-BMW5",
+      "description": "Bremsbelagsatz vorne, BMW 5er (G30), ECE R90-zertifiziert, inkl. Warnkontakt",
+      "quantityOrdered": 60,
+      "quantityDelivered": 60,
+      "unitOfMeasure": "Satz",
+      "batchNumber": "CH-2025-B-03312"
+    },
+    {
+      "lineNumber": "3",
+      "partNumber": "SHCK-FR-MB-E213",
+      "description": "Stoßdämpfer vorne (1 Stk.), Mercedes E-Klasse W213, Gas-Druck",
+      "quantityOrdered": 40,
+      "quantityDelivered": 40,
+      "unitOfMeasure": "Stk",
+      "batchNumber": "CH-2025-S-01140"
+    },
+    {
+      "lineNumber": "4",
+      "partNumber": "FLTR-OIL-VW2.0T",
+      "description": "Ölfilter, VW/Audi 2.0 TDI EA288, MANN HU 7047 z, inkl. Dichtring",
+      "quantityOrdered": 200,
+      "quantityDelivered": 200,
+      "unitOfMeasure": "Stk",
+      "batchNumber": "CH-2025-F-08821"
+    },
+    {
+      "lineNumber": "5",
+      "partNumber": "FLTR-AIR-VW2.0T",
+      "description": "Luftfilter, VW/Audi 2.0 TDI EA288, MANN C 29 130/1",
+      "quantityOrdered": 150,
+      "quantityDelivered": 150,
+      "unitOfMeasure": "Stk",
+      "batchNumber": "CH-2025-F-08822"
+    },
+    {
+      "lineNumber": "6",
+      "partNumber": "BELT-TIMING-P308",
+      "description": "Zahnriemen-Satz, Peugeot 308 1.6 BlueHDi, inkl. Spanner und Umlenkrolle",
+      "quantityOrdered": 30,
+      "quantityDelivered": 25,
+      "unitOfMeasure": "Satz",
+      "batchNumber": "CH-2025-Z-00441"
+    },
+    {
+      "lineNumber": "7",
+      "partNumber": "LAMP-LED-H7-PRO",
+      "description": "LED-Scheinwerferlampe H7 Pro, 6500K, 12V, Paar, ECE-zertifiziert",
+      "quantityOrdered": 80,
+      "quantityDelivered": 80,
+      "unitOfMeasure": "Paar",
+      "batchNumber": "CH-2025-L-02210"
+    }
+  ]
 }

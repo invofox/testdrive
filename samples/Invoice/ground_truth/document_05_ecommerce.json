@@ -1,4 +1,88 @@
 {
   "documentType": "Invoice",
-  "sourceFile": "document_05_ecommerce.pdf"
+  "sourceFile": "document_05_ecommerce.pdf",
+  "documentNumber": "PRW-2024-08851",
+  "issueDate": "2024-10-14",
+  "dueDate": "2024-11-13",
+  "currency": "USD",
+  "totalAmount": 14230,
+  "totalTaxBaseAmount": 14230,
+  "totalTaxAmount": 0,
+  "withholdingTaxRate": null,
+  "withholdingTaxAmount": null,
+  "supplier": {
+    "name": "Pacific Rim Wholesale Inc",
+    "taxId": "95-4728310",
+    "email": "orders@pacificrimwholesale.com",
+    "phoneNumber": "+1 (213) 628-4450",
+    "address": {
+      "street": "2340 E 8th Street, Suite 110",
+      "municipality": "Los Angeles",
+      "postalCode": "90021",
+      "country": "US"
+    }
+  },
+  "customer": {
+    "name": "Desert Sun Retail LLC",
+    "taxId": "86-1947530",
+    "email": "ap@desertsunretail.com",
+    "phoneNumber": null,
+    "address": {
+      "street": "4820 N 16th Street, Suite 200",
+      "municipality": "Phoenix",
+      "postalCode": "85016",
+      "country": "US"
+    }
+  },
+  "lines": [
+    {
+      "description": "Bamboo Fiber Bath Towel Set — 6-Piece",
+      "quantity": 120,
+      "unitPrice": 18.5,
+      "totalAmount": 2109,
+      "taxRate": 0
+    },
+    {
+      "description": "Stainless Steel Insulated Travel Mug 20oz",
+      "quantity": 200,
+      "unitPrice": 12.75,
+      "totalAmount": 2422.5,
+      "taxRate": 0
+    },
+    {
+      "description": "Organic Cotton Tote Bag — Natural",
+      "quantity": 350,
+      "unitPrice": 6.4,
+      "totalAmount": 2240,
+      "taxRate": 0
+    },
+    {
+      "description": "Ceramic Scented Candle — Lavender & Eucalyptus",
+      "quantity": 250,
+      "unitPrice": 9.2,
+      "totalAmount": 2300,
+      "taxRate": 0
+    },
+    {
+      "description": "Wooden Serving Board — Acacia Large",
+      "quantity": 90,
+      "unitPrice": 22,
+      "totalAmount": 1782,
+      "taxRate": 0
+    },
+    {
+      "description": "Recycled Glass Drinking Set — 8-Piece",
+      "quantity": 60,
+      "unitPrice": 22.95,
+      "totalAmount": 1377,
+      "taxRate": 0
+    }
+  ],
+  "breakdowns": [
+    {
+      "taxRate": 0,
+      "taxBaseAmount": 14230,
+      "taxAmount": 0
+    }
+  ]
 }

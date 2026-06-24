@@ -1,4 +1,39 @@
 {
   "documentType": "Receipt",
-  "sourceFile": "document_01_coffee_shop.pdf"
+  "sourceFile": "document_01_coffee_shop.pdf",
+  "receiptNumber": "BB-20241118-0392",
+  "issueDate": "2024-11-18",
+  "issueTime": "08:47",
+  "currency": "USD",
+  "subtotalAmount": 18.45,
+  "taxAmount": 0,
+  "taxRate": 0,
+  "tipAmount": null,
+  "totalAmount": 18.45,
+  "paymentMethod": "Cash",
+  "merchant": {
+    "name": "Blue Bottle Coffee",
+    "phoneNumber": "(415) 863-2060",
+    "address": {
+      "country": "US",
+      "postalCode": "94102",
+      "municipality": "San Francisco",
+      "street": "315 Linden Street",
+      "raw": "315 Linden Street, San Francisco, CA 94102"
+    }
+  },
+  "items": [
+    {
+      "description": "Gibraltar Latte",
+      "quantity": 2,
+      "unitPrice": 6.25,
+      "totalAmount": 12.5
+    },
+    {
+      "description": "Almond Croissant",
+      "quantity": 1,
+      "unitPrice": 5.95,
+      "totalAmount": 5.95
+    }
+  ]
 }

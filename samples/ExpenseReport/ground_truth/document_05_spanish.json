@@ -1,4 +1,140 @@
 {
   "documentType": "ExpenseReport",
-  "sourceFile": "document_05_spanish.pdf"
+  "sourceFile": "document_05_spanish.pdf",
+  "reportNumber": "GIS/GAS/2025-0331",
+  "reportDate": "2025-04-01",
+  "periodStart": "2025-03-01",
+  "periodEnd": "2025-03-31",
+  "currency": "EUR",
+  "totalAmount": 2341.8,
+  "approvedAmount": 2341.8,
+  "status": "Approved",
+  "purpose": "Gastos de representación y desplazamiento — visitas comerciales Madrid, Feria Industria del Norte 2025",
+  "employee": {
+    "name": "Ana María Contreras López",
+    "employeeId": "00489",
+    "position": "Directora Comercial",
+    "department": "Dirección Comercial y Ventas",
+    "email": "am.contreras@gruposanamaria.es"
+  },
+  "employer": {
+    "name": "Grupo Industrial Santamaría S.A.",
+    "address": {
+      "country": "ES",
+      "postalCode": "48011",
+      "municipality": "Bilbao",
+      "street": "Gran Vía, 45, 2.º",
+      "raw": "Gran Vía, 45, 2.º, 48011 Bilbao, España"
+    }
+  },
+  "expenses": [
+    {
+      "expenseDate": "2025-03-04",
+      "category": "Meals",
+      "description": "Almuerzo de representación con distribuidor — Bilbao (3 personas)",
+      "merchant": "Restaurante Zortziko",
+      "amount": 198.4,
+      "currency": "EUR",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-03-11",
+      "category": "Travel",
+      "description": "Billete AVE Bilbao–Madrid (ida y vuelta, clase Preferente)",
+      "merchant": "Renfe",
+      "amount": 248,
+      "currency": "EUR",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-03-11",
+      "category": "Transport",
+      "description": "Taxi Atocha – hotel NH Collection Eurobuilding",
+      "merchant": "Radio Taxi Madrid",
+      "amount": 32.5,
+      "currency": "EUR",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-03-11",
+      "category": "Accommodation",
+      "description": "Hotel — 1 noche (martes)",
+      "merchant": "NH Collection Eurobuilding",
+      "amount": 224,
+      "currency": "EUR",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-03-11",
+      "category": "Meals",
+      "description": "Cena de trabajo con equipo Ferrovial Agroman (5 personas)",
+      "merchant": "Restaurante Dstage",
+      "amount": 412,
+      "currency": "EUR",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-03-12",
+      "category": "Meals",
+      "description": "Almuerzo con Acciona Infraestructuras — reunión comercial (4 personas)",
+      "merchant": "Restaurante Sacha",
+      "amount": 287.5,
+      "currency": "EUR",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-03-12",
+      "category": "Transport",
+      "description": "Taxi hotel – Atocha (vuelta estación)",
+      "merchant": "Cabify",
+      "amount": 28,
+      "currency": "EUR",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-03-18",
+      "category": "Meals",
+      "description": "Almuerzo interno — revisión estrategia comercial Q2 (6 personas)",
+      "merchant": "Café Iruña, Bilbao",
+      "amount": 134.6,
+      "currency": "EUR",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-03-20",
+      "category": "Travel",
+      "description": "Trayecto en tren Bilbao–San Sebastián (ida y vuelta)",
+      "merchant": "Euskotren",
+      "amount": 18.4,
+      "currency": "EUR",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-03-20",
+      "category": "Registration",
+      "description": "Inscripción Feria Industria del Norte 2025 — Stand visitante",
+      "merchant": "Feria Internacional de San Sebastián",
+      "amount": 450,
+      "currency": "EUR",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-03-20",
+      "category": "Meals",
+      "description": "Cóctel de networking — Feria Industria del Norte",
+      "merchant": "Catering Zaldua",
+      "amount": 98.4,
+      "currency": "EUR",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-03-27",
+      "category": "Meals",
+      "description": "Cena representación fin de mes — clientes distribución (4 personas)",
+      "merchant": "Restaurante Etxebarri, Axpe",
+      "amount": 210,
+      "currency": "EUR",
+      "isReimbursable": "Yes"
+    }
+  ]
 }

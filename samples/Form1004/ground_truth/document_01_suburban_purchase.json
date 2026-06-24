@@ -1,4 +1,80 @@
 {
   "documentType": "Form1004",
-  "sourceFile": "document_01_suburban_purchase.pdf"
+  "sourceFile": "document_01_suburban_purchase.pdf",
+  "appraisalDate": "2024-09-03",
+  "effectiveDate": "2024-09-03",
+  "fileNumber": "APR-2024-0847",
+  "loanNumber": "LN-2024-198742",
+  "lenderName": "Midwest Federal Savings Bank",
+  "purpose": "Purchase",
+  "propertyAddress": {
+    "street": "4827 Maple Grove Drive",
+    "municipality": "Naperville",
+    "postalCode": "60563",
+    "country": "US"
+  },
+  "legalDescription": "LOT 14, BLOCK 3, MAPLE GROVE SUBDIVISION, UNIT 2, DuPage County, Illinois, Book 78, Page 122",
+  "propertyType": "Single Family",
+  "occupancy": "Owner Occupied",
+  "borrowerName": "Michael R. Henderson",
+  "ownerName": "Patricia A. Simmons",
+  "county": "DuPage",
+  "assessedValue": null,
+  "annualTaxes": 9240,
+  "neighborhood": {
+    "location": "Suburban",
+    "builtUp": "25-75%",
+    "growthRate": "Stable",
+    "priceRangeLow": 320000,
+    "priceRangeHigh": 650000,
+    "predominantValue": 465000
+  },
+  "site": {
+    "lotSize": "10,400 sq ft",
+    "zoning": "R-1 Single Family",
+    "utilities": "Public: Electric, Gas, Water, Sanitary Sewer",
+    "view": "Residential Street / Landscaped"
+  },
+  "improvements": {
+    "yearBuilt": 1998,
+    "grossLivingArea": 2184,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "garage": "Attached",
+    "garageSpaces": 2,
+    "basement": "Full / Finished 800 sq ft",
+    "condition": "Good",
+    "quality": "Q3"
+  },
+  "comparables": [
+    {
+      "address": "4915 Oak Timber Ct, Naperville, IL 60563",
+      "salePrice": 492500,
+      "saleDate": "2024-07-22",
+      "grossLivingArea": 2210,
+      "adjustedSalePrice": 490700
+    },
+    {
+      "address": "5102 Willowbrook Ln, Naperville, IL 60540",
+      "salePrice": 475000,
+      "saleDate": "2024-06-15",
+      "grossLivingArea": 2095,
+      "adjustedSalePrice": 495500
+    },
+    {
+      "address": "4633 Elmwood Park Blvd, Naperville, IL 60563",
+      "salePrice": 488000,
+      "saleDate": "2024-08-05",
+      "grossLivingArea": 2260,
+      "adjustedSalePrice": 479400
+    }
+  ],
+  "reconciledValue": 485000,
+  "appraiser": {
+    "name": "Robert J. Kowalski, MAI",
+    "licenseNumber": "IL-CG-1045872",
+    "licenseState": "Illinois",
+    "signatureDate": "2024-09-03",
+    "companyName": "Kowalski Appraisal Services, LLC"
+  }
 }

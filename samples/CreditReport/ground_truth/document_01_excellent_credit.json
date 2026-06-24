@@ -1,4 +1,97 @@
 {
   "documentType": "CreditReport",
-  "sourceFile": "document_01_excellent_credit.pdf"
+  "sourceFile": "document_01_excellent_credit.pdf",
+  "reportNumber": "TMC-2025-0041823",
+  "reportDate": "2025-04-14",
+  "creditBureau": "TriMerge",
+  "ficoScore": 798,
+  "equifaxScore": 801,
+  "experianScore": 795,
+  "transunionScore": 798,
+  "reportType": "Tri-Merge",
+  "totalAccounts": 4,
+  "openAccounts": 4,
+  "closedAccounts": 0,
+  "delinquentAccounts": 0,
+  "collectionAccounts": 0,
+  "totalBalances": 1284500,
+  "totalCreditLimit": 1310000,
+  "creditUtilization": 2,
+  "inquiryCount": 2,
+  "oldestAccountAge": "Beacon Rewards Visa (Aug 2012) — 12 yrs 8 mos",
+  "averageAccountAge": "8 years 4 months",
+  "subject": {
+    "fullName": "Jennifer A. Blackwood",
+    "ssn": "***-**-4892",
+    "dateOfBirth": "1979-04-12",
+    "currentAddress": "88 Pine St, Boston, MA 02101",
+    "previousAddress": "14 Harbor View Rd, Cambridge, MA 02139",
+    "employer": "Harborlight Financial Group"
+  },
+  "publicRecords": {
+    "hasBankruptcy": "No",
+    "bankruptcyType": null,
+    "bankruptcyDate": null,
+    "hasForeclosure": "No",
+    "hasJudgment": "No",
+    "hasTaxLien": "No",
+    "totalPublicRecords": 0
+  },
+  "paymentHistory": {
+    "onTimePayments": 144,
+    "latePayments30": 0,
+    "latePayments60": 0,
+    "latePayments90plus": 0,
+    "totalPayments": 144
+  },
+  "accounts": [
+    {
+      "creditorName": "Northeast Mortgage Group",
+      "accountType": "Mortgage",
+      "accountNumber": "****4421",
+      "openDate": "2018-06-01",
+      "balance": 842300,
+      "creditLimit": 960000,
+      "monthlyPayment": 4150,
+      "paymentStatus": "Current",
+      "paymentHistory": "All payments on time",
+      "creditBureau": "EQ/EX/TU"
+    },
+    {
+      "creditorName": "Pilgrim Home Equity",
+      "accountType": "Mortgage",
+      "accountNumber": "****8810",
+      "openDate": "2021-01-01",
+      "balance": 432200,
+      "creditLimit": 300000,
+      "monthlyPayment": 1920,
+      "paymentStatus": "Current",
+      "paymentHistory": "All payments on time",
+      "creditBureau": "EQ/EX/TU"
+    },
+    {
+      "creditorName": "Beacon Rewards Visa",
+      "accountType": "Credit Card",
+      "accountNumber": "****3309",
+      "openDate": "2012-08-01",
+      "balance": 4800,
+      "creditLimit": 25000,
+      "monthlyPayment": 200,
+      "paymentStatus": "Current",
+      "paymentHistory": "All payments on time",
+      "creditBureau": "EQ/EX/TU"
+    },
+    {
+      "creditorName": "Harborlight MasterCard Platinum",
+      "accountType": "Credit Card",
+      "accountNumber": "****6641",
+      "openDate": "2015-03-01",
+      "balance": 5200,
+      "creditLimit": 25000,
+      "monthlyPayment": 217,
+      "paymentStatus": "Current",
+      "paymentHistory": "All payments on time",
+      "creditBureau": "EQ/EX/TU"
+    }
+  ]
 }

@@ -1,4 +1,75 @@
 {
   "documentType": "PurchaseSaleAgreement",
-  "sourceFile": "document_01_residential_purchase.pdf"
+  "sourceFile": "document_01_residential_purchase.pdf",
+  "agreementDate": "2024-10-03",
+  "status": "Executed",
+  "buyer": {
+    "name": "Robert J. and Karen L. Harrington",
+    "address": {
+      "street": "4812 Balcones Drive, Apt 204",
+      "municipality": "Austin",
+      "postalCode": "78731",
+      "country": "US"
+    },
+    "phone": "(512) 555-0271",
+    "email": "rharrington@austinmail.com"
+  },
+  "seller": {
+    "name": "Patricia A. Donovan",
+    "address": {
+      "street": "1506 Westover Hills Blvd",
+      "municipality": "Austin",
+      "postalCode": "78746",
+      "country": "US"
+    },
+    "phone": "(512) 555-0348",
+    "email": "pat.donovan@gmail.com"
+  },
+  "property": {
+    "address": {
+      "street": "1506 Westover Hills Boulevard",
+      "municipality": "Austin",
+      "postalCode": "78746",
+      "country": "US"
+    },
+    "legalDescription": "Lot 22, Block 4, Westover Hills Section III, Travis County, Texas, as recorded in Volume 81, Page 14 of the Deed Records of Travis County, Texas.",
+    "apn": "04-2214-0004-00022",
+    "propertyType": "Single Family"
+  },
+  "purchasePrice": 485000,
+  "currency": "USD",
+  "earnestMoney": 9700,
+  "earnestMoneyDueDate": "2024-10-08",
+  "earnestMoneyHolder": "Lone Star Title Company",
+  "financingContingency": {
+    "enabled": "Yes",
+    "loanAmount": 388000,
+    "loanType": "Conventional",
+    "interestRate": 6.875,
+    "deadline": "2024-10-25"
+  },
+  "inspectionContingency": {
+    "enabled": "Yes",
+    "deadline": "2024-10-14"
+  },
+  "appraisalContingency": {
+    "enabled": "Yes",
+    "deadline": "2024-10-21"
+  },
+  "closingDate": "2024-11-04",
+  "possessionDate": "2024-11-04",
+  "titleCompany": "Lone Star Title Company",
+  "buyerAgent": {
+    "name": "Marcus T. Okonkwo",
+    "licenseNumber": "TX-0573291",
+    "brokerageName": "Realty Austin LLC"
+  },
+  "sellerAgent": {
+    "name": "Jennifer L. Vasquez",
+    "licenseNumber": "TX-0481056",
+    "brokerageName": "Kuper Sotheby's International Realty"
+  },
+  "includedItems": "All built-in appliances (refrigerator, dishwasher, range/oven, microwave), ceiling fans, window treatments, garage door openers and remotes, outdoor storage shed, and all built-in shelving.",
+  "excludedItems": "Seller's personal property including the dining room chandelier (to be replaced with matching fixture prior to closing), all yard and garden equipment, and the mounted flat-screen television in the primary bedroom.",
+  "governingLaw": "State of Texas"
 }

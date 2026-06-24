@@ -1,4 +1,80 @@
 {
   "documentType": "Form1004",
-  "sourceFile": "document_04_new_construction.pdf"
+  "sourceFile": "document_04_new_construction.pdf",
+  "appraisalDate": "2025-01-08",
+  "effectiveDate": "2025-01-08",
+  "fileNumber": "APR-2025-0044",
+  "loanNumber": "LN-2025-001847",
+  "lenderName": "Texas Capital Bank, N.A.",
+  "purpose": "Purchase",
+  "propertyAddress": {
+    "street": "7711 Creekside Crossing Drive (Lot 28)",
+    "municipality": "McKinney",
+    "postalCode": "75070",
+    "country": "US"
+  },
+  "legalDescription": "LOT 28, BLOCK E, CREEKSIDE CROSSING ADDITION, PHASE 3, Collin County, Texas, as recorded in Volume 2024, Page 1482 of the Collin County Plat Records",
+  "propertyType": "Single Family",
+  "occupancy": "Owner Occupied",
+  "borrowerName": "Kevin D. and Ashley N. Morales",
+  "ownerName": "Stonegate Homes, LLC (Builder)",
+  "county": "Collin",
+  "assessedValue": null,
+  "annualTaxes": 11200,
+  "neighborhood": {
+    "location": "Suburban",
+    "builtUp": "25-75%",
+    "growthRate": "Rapid",
+    "priceRangeLow": 380000,
+    "priceRangeHigh": 720000,
+    "predominantValue": 520000
+  },
+  "site": {
+    "lotSize": "8,125 sq ft",
+    "zoning": "SF-3 Single Family",
+    "utilities": "Municipal: Water, Sewer, Electric, Natural Gas",
+    "view": "Greenbelt / Drainage Easement (Average)"
+  },
+  "improvements": {
+    "yearBuilt": 2025,
+    "grossLivingArea": 2648,
+    "bedrooms": 4,
+    "bathrooms": 2.5,
+    "garage": "Attached",
+    "garageSpaces": 2,
+    "basement": null,
+    "condition": "Excellent",
+    "quality": "Q3"
+  },
+  "comparables": [
+    {
+      "address": "7625 Creekside Crossing Dr (Lot 22), McKinney, TX 75070",
+      "salePrice": 536900,
+      "saleDate": "2024-11-22",
+      "grossLivingArea": 2605,
+      "adjustedSalePrice": 548375
+    },
+    {
+      "address": "7840 Heritage Oaks Blvd, McKinney, TX 75070",
+      "salePrice": 552000,
+      "saleDate": "2024-12-05",
+      "grossLivingArea": 2720,
+      "adjustedSalePrice": 541350
+    },
+    {
+      "address": "3912 Windmill Ranch Rd, McKinney, TX 75071",
+      "salePrice": 528000,
+      "saleDate": "2024-10-30",
+      "grossLivingArea": 2510,
+      "adjustedSalePrice": 550600
+    }
+  ],
+  "reconciledValue": 545000,
+  "appraiser": {
+    "name": "Jennifer A. Blackwood, SRA",
+    "licenseNumber": "TX-1380274",
+    "licenseState": "Texas",
+    "signatureDate": "2025-01-08",
+    "companyName": "DFW Residential Appraisals, Inc."
+  }
 }

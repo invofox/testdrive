@@ -1,4 +1,28 @@
 {
   "documentType": "IDCard",
-  "sourceFile": "document_01_ny_state_id.pdf"
+  "sourceFile": "document_01_ny_state_id.pdf",
+  "documentNumber": "847-221-994",
+  "issuingCountry": "US",
+  "issuingAuthority": "New York State DMV",
+  "issueDate": "2023-03-10",
+  "expiryDate": "2027-04-22",
+  "lastName": "HERNANDEZ",
+  "firstName": "Patricia",
+  "middleName": "A.",
+  "dateOfBirth": "1991-04-22",
+  "placeOfBirth": null,
+  "nationality": null,
+  "sex": "F",
+  "height": "5-04",
+  "eyeColor": "BRN",
+  "hairColor": "BRN",
+  "mrzLine1": "IDUSA847221994<<<<<<<<<<<<<<<<",
+  "mrzLine2": null,
+  "address": {
+    "raw": "1847 Grand Concourse, Bronx, NY 10453",
+    "country": "US",
+    "postalCode": "10453",
+    "municipality": "Bronx",
+    "street": "1847 Grand Concourse"
+  }
 }

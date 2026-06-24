@@ -1,4 +1,68 @@
 {
   "documentType": "Resume",
-  "sourceFile": "document_05_spanish.pdf"
+  "sourceFile": "document_05_spanish.pdf",
+  "fullName": "Marta Izquierdo Blanco",
+  "email": "marta.izquierdo@gmail.com",
+  "phone": "+34 628 441 073",
+  "linkedIn": "linkedin.com/in/martaizquierdo",
+  "website": null,
+  "currentTitle": "Ingeniera de Telecomunicaciones Senior",
+  "summary": "Ingeniera de Telecomunicaciones Senior con 12 años de experiencia en el diseño, despliegue y optimización de redes móviles de alta capacidad. Especializada en arquitecturas 5G, SDN/NFV y virtualización de funciones de red. Historial probado liderando proyectos de infraestructura de gran escala en Telefónica y Ericsson, con impacto directo en la calidad de servicio para millones de usuarios en Europa y Latinoamérica.",
+  "skills": "Redes 5G / LTE, Python / MATLAB, Cloud (AWS / Azure), SDN / NFV, Network Slicing, Seguridad de red",
+  "languages": "Español — Lengua materna, Inglés — Nivel C1 (IELTS 7.5), Alemán — Nivel B1",
+  "certifications": "CCNP Enterprise (Cisco, 2022), AWS Certified Solutions Architect (2021), PMP — Project Management Professional (2020), ETSI NFV Associate (2019)",
+  "address": {
+    "raw": "Madrid, España",
+    "country": "ES",
+    "postalCode": null,
+    "municipality": "Madrid",
+    "street": null
+  },
+  "experience": [
+    {
+      "company": "Telefónica España",
+      "title": "Ingeniera Senior de Redes 5G — Core Network",
+      "location": "Madrid, España",
+      "startDate": "2020-01",
+      "endDate": null,
+      "description": "Lideró el despliegue del núcleo de red 5G Stand-Alone en 12 ciudades españolas, cubriendo a 8,4 millones de usuarios. Diseñó la arquitectura de network slicing para servicios de Industria 4.0, logrando latencias inferiores a 5 ms. Redujo el TCO de la infraestructura NFV en un 31% mediante optimización de la orquestación en OpenStack. Coordinó un equipo multidisciplinar de 14 ingenieros distribuidos entre Madrid, Barcelona y Bogotá. Representó a Telefónica en grupos de trabajo del 3GPP (Release 17 y 18) relacionados con IMS y AMF.",
+      "isCurrent": "Yes"
+    },
+    {
+      "company": "Ericsson",
+      "title": "Ingeniera de Sistemas de Radio — LTE/5G NR",
+      "location": "Madrid, España",
+      "startDate": "2016-03",
+      "endDate": "2019-12",
+      "description": "Optimizó parámetros de radio para la red LTE de Vodafone España, mejorando la tasa de retención de llamadas en un 18%. Participó en el piloto comercial de 5G NR en la banda de 3,5 GHz para O2 Reino Unido (2018–2019). Desarrolló scripts de automatización en Python para el análisis de KPIs de red, reduciendo el tiempo de diagnóstico en 40%. Formó y certificó a 6 ingenieros de campo en procedimientos de integración de sitios Massive MIMO.",
+      "isCurrent": null
+    },
+    {
+      "company": "Huawei Technologies",
+      "title": "Ingeniera de Red Junior",
+      "location": "Madrid, España",
+      "startDate": "2013-09",
+      "endDate": "2016-02",
+      "description": "Apoyó el despliegue e integración de equipos de radio RRU y BBU para operadores MVNO en España. Elaboró documentación técnica de proyectos (HLD, LLD) para licitaciones de infraestructura pública. Colaboró en la migración de más de 1.200 nodos 3G a 4G en la región de Andalucía.",
+      "isCurrent": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Politécnica de Madrid (UPM)",
+      "degree": "MSc",
+      "fieldOfStudy": "Ingeniería de Telecomunicaciones",
+      "graduationYear": "2013",
+      "gpa": "9.1/10",
+      "honors": "Premio Extraordinario de Fin de Máster"
+    },
+    {
+      "institution": "Universidad Politécnica de Madrid (UPM)",
+      "degree": "Grado",
+      "fieldOfStudy": "Ingeniería de Telecomunicación",
+      "graduationYear": "2011",
+      "gpa": "8.6/10",
+      "honors": null
+    }
+  ]
 }

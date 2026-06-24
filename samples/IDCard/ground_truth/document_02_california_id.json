@@ -1,4 +1,28 @@
 {
   "documentType": "IDCard",
-  "sourceFile": "document_02_california_id.pdf"
+  "sourceFile": "document_02_california_id.pdf",
+  "documentNumber": "X4892044",
+  "issuingCountry": "US",
+  "issuingAuthority": "California DMV",
+  "issueDate": "2024-07-01",
+  "expiryDate": "2028-09-15",
+  "lastName": "OSEI",
+  "firstName": "David",
+  "middleName": "K.",
+  "dateOfBirth": "1978-09-15",
+  "placeOfBirth": null,
+  "nationality": null,
+  "sex": "M",
+  "height": "5-11",
+  "eyeColor": "BRN",
+  "hairColor": null,
+  "mrzLine1": "IDUSAX4892044<<<<<<<<<<<<<<<",
+  "mrzLine2": null,
+  "address": {
+    "raw": "3421 Venice Blvd, Los Angeles, CA 90019",
+    "country": "US",
+    "postalCode": "90019",
+    "municipality": "Los Angeles",
+    "street": "3421 Venice Blvd"
+  }
 }

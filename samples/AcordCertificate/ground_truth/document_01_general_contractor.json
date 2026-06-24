@@ -1,4 +1,73 @@
 {
   "documentType": "AcordCertificate",
-  "sourceFile": "document_01_general_contractor.pdf"
+  "sourceFile": "document_01_general_contractor.pdf",
+  "acordForm": "ACORD 25",
+  "issueDate": "2025-03-15",
+  "producer": {
+    "name": "Hartwell Insurance Group, LLC",
+    "address": {
+      "street": "1420 Harbor Boulevard, Suite 300",
+      "municipality": "Houston",
+      "postalCode": "77002",
+      "country": "US"
+    },
+    "phone": "(713) 555-0192",
+    "email": "certificates@hartwellinsurance.com",
+    "contactName": null
+  },
+  "insured": {
+    "name": "Ridgeline Construction Group, Inc.",
+    "address": {
+      "street": "4850 Westpark Drive, Suite 110",
+      "municipality": "Houston",
+      "postalCode": "77041",
+      "country": "US"
+    }
+  },
+  "coverages": [
+    {
+      "coverageType": "General Liability",
+      "insurer": "Liberty Mutual Insurance Co.",
+      "policyNumber": "LM-GL-7734-2025",
+      "effectiveDate": "2025-04-01",
+      "expirationDate": "2026-04-01",
+      "eachOccurrence": 1000000,
+      "aggregateLimit": 2000000,
+      "additionalInsured": "Y",
+      "waiverOfSubrogation": "Y"
+    },
+    {
+      "coverageType": "Auto",
+      "insurer": "Hartford Fire Insurance Co.",
+      "policyNumber": "HF-AUTO-88812-2025",
+      "effectiveDate": "2025-04-01",
+      "expirationDate": "2026-04-01",
+      "eachOccurrence": 1000000,
+      "aggregateLimit": null,
+      "additionalInsured": null,
+      "waiverOfSubrogation": null
+    },
+    {
+      "coverageType": "Workers Comp",
+      "insurer": "Travelers Casualty Ins. Co.",
+      "policyNumber": "TC-WC-33901-TX-2025",
+      "effectiveDate": "2025-04-01",
+      "expirationDate": "2026-04-01",
+      "eachOccurrence": 1000000,
+      "aggregateLimit": null,
+      "additionalInsured": null,
+      "waiverOfSubrogation": "Y"
+    }
+  ],
+  "certificateHolder": {
+    "name": "Riverside Properties Development, LLC",
+    "address": {
+      "street": "2200 Allen Parkway, Suite 500",
+      "municipality": "Houston",
+      "postalCode": "77019",
+      "country": "US"
+    }
+  },
+  "descriptionOfOperations": "Certificate holder is named as Additional Insured on the Commercial General Liability and Automobile Liability policies per written contract. Waiver of Subrogation applies on GL and Workers Compensation policies. Project: Riverside Towers Mixed-Use Development, 2200 Allen Parkway, Houston, TX 77019. Coverage applies to all operations of the Named Insured including but not limited to general contracting, site supervision, and subcontractor management.",
+  "cancellationDays": 30
 }

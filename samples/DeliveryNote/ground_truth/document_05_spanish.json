@@ -1,4 +1,113 @@
 {
   "documentType": "DeliveryNote",
-  "sourceFile": "document_05_spanish.pdf"
+  "sourceFile": "document_05_spanish.pdf",
+  "deliveryNoteNumber": "ALB-2025-22891",
+  "issueDate": "2025-05-18",
+  "deliveryDate": "2025-05-20",
+  "orderRef": "PED-ECI-2025-88210",
+  "invoiceRef": "FAC-TLI-2025-14402",
+  "carrierId": "Javier Soriano — Matrícula: 4821 XKL",
+  "totalPackages": 24,
+  "totalWeight": "1.240 kg",
+  "supplier": {
+    "name": "Transportes y Logística Ibérica S.A.",
+    "address": {
+      "raw": "Calle de la Industria, 84, Pol. Industrial La Sagrera, 08020 Barcelona, España",
+      "street": "Calle de la Industria, 84",
+      "municipality": "Barcelona",
+      "postalCode": "08020",
+      "country": "ES"
+    }
+  },
+  "recipient": {
+    "name": "El Corte Inglés S.A.",
+    "address": {
+      "raw": "Calle de Hermosilla, 112, 28009 Madrid, España",
+      "street": "Calle de Hermosilla, 112",
+      "municipality": "Madrid",
+      "postalCode": "28009",
+      "country": "ES"
+    }
+  },
+  "shipToAddress": {
+    "raw": "Ctra. de Getafe, km 2,5, 28906 Getafe, Madrid, España",
+    "street": "Ctra. de Getafe, km 2,5",
+    "municipality": "Getafe",
+    "postalCode": "28906",
+    "country": "ES"
+  },
+  "lines": [
+    {
+      "lineNumber": "1",
+      "partNumber": "TEX-CAM-BLN-M",
+      "description": "Camisa Oxford hombre, manga larga, talla M, color blanco, 100% algodón",
+      "quantityOrdered": 120,
+      "quantityDelivered": 120,
+      "unitOfMeasure": "UD",
+      "batchNumber": "LT-2025-TX-03301"
+    },
+    {
+      "lineNumber": "2",
+      "partNumber": "TEX-CAM-BLN-L",
+      "description": "Camisa Oxford hombre, manga larga, talla L, color blanco, 100% algodón",
+      "quantityOrdered": 100,
+      "quantityDelivered": 100,
+      "unitOfMeasure": "UD",
+      "batchNumber": "LT-2025-TX-03302"
+    },
+    {
+      "lineNumber": "3",
+      "partNumber": "TEX-CJE-NEG-38",
+      "description": "Camiseta interior cuello redondo mujer, talla 38, color negro, algodón orgánico",
+      "quantityOrdered": 200,
+      "quantityDelivered": 200,
+      "unitOfMeasure": "UD",
+      "batchNumber": "LT-2025-TX-03303"
+    },
+    {
+      "lineNumber": "4",
+      "partNumber": "TEX-VQU-AZL-40",
+      "description": "Vaquero slim fit hombre, talla 40/32, color azul índigo, 98% algodón / 2% elastano",
+      "quantityOrdered": 80,
+      "quantityDelivered": 80,
+      "unitOfMeasure": "UD",
+      "batchNumber": "LT-2025-TX-03304"
+    },
+    {
+      "lineNumber": "5",
+      "partNumber": "TEX-VQU-AZL-42",
+      "description": "Vaquero slim fit hombre, talla 42/32, color azul índigo, 98% algodón / 2% elastano",
+      "quantityOrdered": 80,
+      "quantityDelivered": 65,
+      "unitOfMeasure": "UD",
+      "batchNumber": "LT-2025-TX-03305"
+    },
+    {
+      "lineNumber": "6",
+      "partNumber": "CAL-ZAP-NEG-41",
+      "description": "Zapato de vestir hombre, talla 41, color negro, piel, suela de goma",
+      "quantityOrdered": 60,
+      "quantityDelivered": 60,
+      "unitOfMeasure": "PAR",
+      "batchNumber": "LT-2025-CZ-00881"
+    },
+    {
+      "lineNumber": "7",
+      "partNumber": "CAL-ZAP-MRN-38",
+      "description": "Zapato salón mujer, talla 38, color marrón camel, piel sintética, tacón 5cm",
+      "quantityOrdered": 60,
+      "quantityDelivered": 60,
+      "unitOfMeasure": "PAR",
+      "batchNumber": "LT-2025-CZ-00882"
+    },
+    {
+      "lineNumber": "8",
+      "partNumber": "CAL-SNK-BLC-42",
+      "description": "Zapatilla deportiva unisex, talla 42, blanco/gris, suela EVA",
+      "quantityOrdered": 90,
+      "quantityDelivered": 90,
+      "unitOfMeasure": "PAR",
+      "batchNumber": "LT-2025-CZ-00883"
+    }
+  ]
 }

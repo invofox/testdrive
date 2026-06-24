@@ -1,4 +1,21 @@
 {
   "documentType": "FormW9",
-  "sourceFile": "document_04_partnership.pdf"
+  "sourceFile": "document_04_partnership.pdf",
+  "taxpayerName": "Brennan & Kowalski Architects, GP",
+  "businessName": "BK Design Group",
+  "federalTaxClassification": "Partnership",
+  "llcTaxClassification": null,
+  "exemptPayeeCode": null,
+  "fatcaExemptionCode": null,
+  "address": {
+    "street": "404 Fifth Avenue North, Floor 8",
+    "municipality": "Minneapolis, MN",
+    "postalCode": "55401",
+    "country": "US"
+  },
+  "accountNumbers": null,
+  "tinType": "EIN",
+  "tin": "41-1839204",
+  "certificationDate": "2024-05-14",
+  "requesterName": "Metro Development Corp."
 }

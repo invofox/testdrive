@@ -1,4 +1,45 @@
 {
   "documentType": "ClosingDisclosure",
-  "sourceFile": "document_02_arm_condo.pdf"
+  "sourceFile": "document_02_arm_condo.pdf",
+  "closingDate": "2024-09-13",
+  "disbursementDate": "2024-09-16",
+  "loanNumber": "PWB-2024-057391",
+  "loanType": "Conventional",
+  "loanTerm": "30 Year 5/1 Adjustable Rate",
+  "loanPurpose": "Purchase",
+  "interestRate": 6.25,
+  "loanAmount": 285000,
+  "monthlyPrincipalInterest": 1756.06,
+  "apr": 6.598,
+  "totalClosingCosts": 9870,
+  "cashToClose": 19200,
+  "currency": "USD",
+  "salePrice": 302000,
+  "prepaidInterest": 195.12,
+  "initialEscrow": 836,
+  "borrower": {
+    "name": "Stephanie R. Chen",
+    "address": {
+      "country": "US",
+      "postalCode": "60611",
+      "municipality": "Chicago",
+      "street": "445 N. Wabash Ave Apt 7B"
+    }
+  },
+  "lender": {
+    "name": "Pacific West Bank & Trust",
+    "address": {
+      "country": "US",
+      "postalCode": "60661",
+      "municipality": "Chicago",
+      "street": "500 W. Madison St, Suite 2800"
+    }
+  },
+  "propertyAddress": {
+    "raw": "Unit 18C, 2200 Lake Shore Dr, Chicago, IL 60614",
+    "country": "US",
+    "postalCode": "60614",
+    "municipality": "Chicago",
+    "street": "2200 Lake Shore Dr, Unit 18C"
+  }
 }

@@ -1,4 +1,51 @@
 {
   "documentType": "Resume",
-  "sourceFile": "document_03_finance_analyst.pdf"
+  "sourceFile": "document_03_finance_analyst.pdf",
+  "fullName": "Adriana Morales-Reyes, CFA",
+  "email": "adriana.morales@gmail.com",
+  "phone": "+1 (646) 553-8820",
+  "linkedIn": "linkedin.com/in/adrianamoralesreyes",
+  "website": null,
+  "currentTitle": "Senior Financial Analyst",
+  "summary": "CFA charterholder and Senior Financial Analyst with 6 years of experience in equity research, financial modelling, and investment analysis. Track record of generating actionable investment insights across TMT and consumer sectors. Highly proficient in building complex DCF and LBO models and communicating findings to senior portfolio managers at bulge-bracket institutions.",
+  "skills": "Financial Modelling (DCF, LBO, M&A), Equity Research, Bloomberg Terminal, FactSet, Python (pandas, numpy), SQL, Excel / VBA, PowerPoint, Capital IQ",
+  "languages": "English (Native), Spanish (Native), Portuguese (Intermediate)",
+  "certifications": "CFA Charterholder (Level III, 2022), Series 7 & 63 Licenses",
+  "address": {
+    "raw": "New York, NY 10004",
+    "country": "US",
+    "postalCode": "10004",
+    "municipality": "New York",
+    "street": null
+  },
+  "experience": [
+    {
+      "company": "Goldman Sachs",
+      "title": "Senior Financial Analyst — Equity Research (TMT)",
+      "location": "New York, NY",
+      "startDate": "2022-07",
+      "endDate": null,
+      "description": "Produce in-depth equity research reports on 18 large-cap technology and media companies with combined market cap of $3.4T. Built proprietary revenue model for cloud infrastructure segment that forecast AWS Q3 2024 earnings within 1.2% of consensus. Collaborated with Sales & Trading on 12 block transactions totalling $2.8B in combined deal value. Mentored 2 junior analysts; one was promoted to Associate Analyst within 14 months. Published 40+ initiations, updates, and thematic notes per year; ranked Top 3 by institutional investor survey in 2023.",
+      "isCurrent": "Yes"
+    },
+    {
+      "company": "Citibank N.A.",
+      "title": "Financial Analyst — Global Markets",
+      "location": "New York, NY",
+      "startDate": "2019-06",
+      "endDate": "2022-06",
+      "description": "Conducted fundamental analysis and maintained financial models for 25-stock coverage universe in consumer discretionary sector. Prepared weekly market commentary and earnings previews distributed to 300+ institutional clients across North America and EMEA. Supported M&A advisory team on 4 cross-border deals with aggregate transaction value exceeding $900M. Automated quarterly earnings reconciliation process using Python (pandas), saving 12 analyst hours per earnings season.",
+      "isCurrent": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "New York University — Stern School of Business",
+      "degree": "BS",
+      "fieldOfStudy": "Finance",
+      "graduationYear": "2019",
+      "gpa": "3.93",
+      "honors": "Summa Cum Laude"
+    }
+  ]
 }

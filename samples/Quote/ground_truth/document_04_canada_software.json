@@ -1,4 +1,91 @@
 {
   "documentType": "Quote",
-  "sourceFile": "document_04_canada_software.pdf"
+  "sourceFile": "document_04_canada_software.pdf",
+  "quoteNumber": "EST-2025-0129",
+  "issueDate": "2025-01-28",
+  "expiryDate": "2025-02-27",
+  "currency": "CAD",
+  "totalAmount": 55370,
+  "totalTaxBaseAmount": 49000,
+  "totalTaxAmount": 6370,
+  "taxRate": 13,
+  "paymentTerms": "30% on contract signing, 40% at beta delivery, 30% on go-live. Net 15 on each invoice. EFT or corporate cheque.",
+  "validityDays": 30,
+  "supplier": {
+    "name": "Maple Peak Software Inc",
+    "taxId": "854 920 316 RT0001",
+    "email": "info@maplepeak.ca",
+    "phoneNumber": "+1 (416) 555-0319",
+    "address": {
+      "country": "CA",
+      "postalCode": "M5J 2J1",
+      "municipality": "Toronto",
+      "street": "200 Bay Street, Suite 1240",
+      "raw": "200 Bay Street, Suite 1240, Toronto, ON M5J 2J1, Canada"
+    }
+  },
+  "customer": {
+    "name": "Lakeview Hospitality Group Inc",
+    "taxId": null,
+    "email": "j.tran@lakeviewhospitality.ca",
+    "phoneNumber": null,
+    "address": {
+      "country": "CA",
+      "postalCode": "V6G 2Z6",
+      "municipality": "Vancouver",
+      "street": "1600 West Georgia Street, Suite 400",
+      "raw": "1600 West Georgia Street, Suite 400, Vancouver, BC V6G 2Z6, Canada"
+    }
+  },
+  "lines": [
+    {
+      "description": "Requirements Workshop & Technical Architecture",
+      "quantity": 32,
+      "unitOfMeasure": "Fixed",
+      "unitPrice": 185,
+      "totalAmount": 5920
+    },
+    {
+      "description": "Reservation Engine & Front Desk Module",
+      "quantity": 80,
+      "unitOfMeasure": "Sprint",
+      "unitPrice": 175,
+      "totalAmount": 14000
+    },
+    {
+      "description": "Channel Manager — OTA Connectivity",
+      "quantity": 40,
+      "unitOfMeasure": "Fixed",
+      "unitPrice": 175,
+      "totalAmount": 7000
+    },
+    {
+      "description": "Housekeeping & Maintenance Workflow",
+      "quantity": 32,
+      "unitOfMeasure": "Sprint",
+      "unitPrice": 165,
+      "totalAmount": 5280
+    },
+    {
+      "description": "Billing, Invoicing & Payment Processing",
+      "quantity": 36,
+      "unitOfMeasure": "Fixed",
+      "unitPrice": 175,
+      "totalAmount": 6300
+    },
+    {
+      "description": "Dashboard & Reporting Suite",
+      "quantity": 28,
+      "unitOfMeasure": "Sprint",
+      "unitPrice": 165,
+      "totalAmount": 4620
+    },
+    {
+      "description": "QA Testing, Deployment & Staff Training",
+      "quantity": 40,
+      "unitOfMeasure": "Fixed",
+      "unitPrice": 147,
+      "totalAmount": 5880
+    }
+  ]
 }

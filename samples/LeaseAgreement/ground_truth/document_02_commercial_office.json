@@ -1,4 +1,61 @@
 {
   "documentType": "LeaseAgreement",
-  "sourceFile": "document_02_commercial_office.pdf"
+  "sourceFile": "document_02_commercial_office.pdf",
+  "leaseNumber": "CO-2024-0389",
+  "leaseType": "Commercial (NNN)",
+  "startDate": "2025-01-01",
+  "endDate": "2027-12-31",
+  "leaseTerm": "36 months (3 years)",
+  "renewalOption": "Tenant shall have one (1) option to renew this Lease for an additional two (2) year term at 95% of then-current market rent for comparable Class A office space in the SoMa/Financial District submarket. Tenant must exercise this option by delivering written notice to Landlord no later than nine (9) months prior to the expiration of the Initial Term.",
+  "landlord": {
+    "name": "Pacific Crown Properties LLC",
+    "taxId": "94-3872015",
+    "address": {
+      "street": "555 California Street, Suite 2800",
+      "municipality": "San Francisco",
+      "postalCode": "94104",
+      "country": "US"
+    },
+    "phone": "(415) 555-0220",
+    "email": "leasing@pacificcrownprops.com"
+  },
+  "tenant": {
+    "name": "Brightwave Technologies, Inc.",
+    "taxId": "82-1094753",
+    "address": {
+      "street": "201 Mission Street, Floor 12",
+      "municipality": "San Francisco",
+      "postalCode": "94105",
+      "country": "US"
+    },
+    "phone": "(415) 555-0461",
+    "email": "cfo@brightwavetech.com"
+  },
+  "property": {
+    "address": {
+      "street": "760 Market Street",
+      "municipality": "San Francisco",
+      "postalCode": "94102",
+      "country": "US"
+    },
+    "unit": "Suite 1100",
+    "type": "Office",
+    "squareFootage": 3400,
+    "description": "Class A office suite on the 11th floor of the 760 Market Street tower. Open-plan layout with four private offices, a conference room, and a kitchen/break area. LEED Gold certified building. Includes two reserved parking spaces in the building's underground garage. 24/7 card-key access."
+  },
+  "financialTerms": {
+    "monthlyRent": 8500,
+    "currency": "USD",
+    "securityDeposit": 17000,
+    "lastMonthRent": null,
+    "petDeposit": null,
+    "lateFee": 425,
+    "lateFeeGraceDays": 5,
+    "paymentDueDay": 1,
+    "paymentMethod": "Wire transfer"
+  },
+  "utilities": "Included in rent: Water, sewer, building common area electricity, elevator service, lobby security. Tenant responsible for: electricity, gas, telephone, internet, and janitorial services.",
+  "petsAllowed": "No — Commercial premises; no animals permitted except certified service animals as required by applicable law.",
+  "signatureDate": "2024-11-20",
+  "governingLaw": "State of California"
 }

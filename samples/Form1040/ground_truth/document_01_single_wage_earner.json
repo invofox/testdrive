@@ -1,4 +1,62 @@
 {
   "documentType": "Form1040",
-  "sourceFile": "document_01_single_wage_earner.pdf"
+  "sourceFile": "document_01_single_wage_earner.pdf",
+  "formType": "1040",
+  "taxYear": 2024,
+  "filingDate": "2025-04-12",
+  "filingStatus": "Single",
+  "taxpayer": {
+    "name": "Michael R. Thompson",
+    "ssn": "XXX-XX-4821",
+    "dateOfBirth": "1990-03-14",
+    "occupation": "Software Engineer",
+    "address": {
+      "street": "2847 Maple Grove Drive, Apt 12",
+      "municipality": "Austin, TX",
+      "postalCode": "78701",
+      "country": "US"
+    }
+  },
+  "spouse": null,
+  "income": {
+    "wages": 78450,
+    "taxableInterest": 312,
+    "qualifiedDividends": 0,
+    "capitalGains": 0,
+    "otherIncome": 0,
+    "totalIncome": 78762,
+    "adjustments": -3500,
+    "adjustedGrossIncome": 75262
+  },
+  "deductions": {
+    "type": "Standard",
+    "amount": 14600,
+    "qualifiedBusinessIncome": 0
+  },
+  "tax": {
+    "taxableIncome": 60662,
+    "incomeTax": 8774,
+    "alternativeMinimumTax": 0,
+    "totalTax": 8774
+  },
+  "credits": {
+    "childTaxCredit": 0,
+    "educationCredit": null,
+    "earnedIncomeCredit": 0,
+    "totalCredits": 0
+  },
+  "payments": {
+    "withheldFederal": 9974,
+    "estimatedTaxPayments": 0,
+    "totalPayments": 9974
+  },
+  "result": {
+    "refundAmount": 1200,
+    "amountOwed": 0
+  },
+  "preparer": {
+    "name": "Self-prepared",
+    "ptin": null,
+    "firmName": null
+  }
 }

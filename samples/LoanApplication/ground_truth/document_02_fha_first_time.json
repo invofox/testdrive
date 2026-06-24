@@ -1,4 +1,87 @@
 {
   "documentType": "LoanApplication",
-  "sourceFile": "document_02_fha_first_time.pdf"
+  "sourceFile": "document_02_fha_first_time.pdf",
+  "loanAmount": 209000,
+  "loanPurpose": "Purchase",
+  "loanType": "FHA",
+  "interestRateType": "Fixed",
+  "loanTerm": "30 Year",
+  "applicationDate": "2024-07-08",
+  "amortizationType": "Fixed Rate",
+  "property": {
+    "address": "710 Sunrise Blvd",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38118",
+    "estimatedValue": 220000,
+    "propertyType": "Single Family",
+    "propertyUse": "Primary Residence"
+  },
+  "borrower": {
+    "fullName": "Marcus T. Williams",
+    "ssn": "***-**-3917",
+    "dateOfBirth": "1995-04-13",
+    "maritalStatus": "Single",
+    "dependents": 0,
+    "phone": "(901) 555-4420",
+    "email": "marcus.williams@email.com",
+    "yearsAtCurrentAddress": 2,
+    "currentAddress": {
+      "raw": "3348 Poplar Ave, Apt 5B, Memphis, TN 38111",
+      "country": "US",
+      "postalCode": "38111",
+      "municipality": "Memphis",
+      "street": "3348 Poplar Ave, Apt 5B"
+    }
+  },
+  "coborrower": {
+    "fullName": null,
+    "ssn": null,
+    "dateOfBirth": null,
+    "maritalStatus": null,
+    "phone": null,
+    "email": null
+  },
+  "employment": {
+    "employerName": "FedEx Logistics",
+    "employerAddress": "3620 Hacks Cross Rd, Memphis, TN 38125",
+    "position": "Operations Coordinator",
+    "startDate": "2021-03-22",
+    "yearsEmployed": 3,
+    "isSelfEmployed": "No",
+    "monthlyBaseSalary": 5800,
+    "monthlyOvertimeIncome": 350,
+    "monthlyBonusIncome": 0,
+    "monthlyOtherIncome": 0,
+    "totalMonthlyIncome": 6150
+  },
+  "coborrowerEmployment": {
+    "employerName": null,
+    "position": null,
+    "monthlyBaseSalary": null,
+    "totalMonthlyIncome": null
+  },
+  "assets": {
+    "checkingBalance": 8200,
+    "savingsBalance": 16500,
+    "retirementBalance": 12000,
+    "otherAssetsValue": 3500,
+    "totalAssets": 40200
+  },
+  "liabilities": {
+    "monthlyRentMortgage": 975,
+    "monthlyCarPayments": 285,
+    "monthlyMinCreditCard": 95,
+    "monthlyStudentLoans": 180,
+    "monthlyOtherDebts": 0,
+    "totalMonthlyDebt": 1535,
+    "totalLiabilities": 22400
+  },
+  "declarations": {
+    "hasBankruptcy": "No",
+    "hasForeclosure": "No",
+    "hasLawsuit": "No",
+    "hasDelinquentDebt": "No",
+    "isUSCitizen": "Yes"
+  }
 }

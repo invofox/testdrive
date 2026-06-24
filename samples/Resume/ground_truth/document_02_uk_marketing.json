@@ -1,4 +1,77 @@
 {
   "documentType": "Resume",
-  "sourceFile": "document_02_uk_marketing.pdf"
+  "sourceFile": "document_02_uk_marketing.pdf",
+  "fullName": "Sophie Harrington-Clarke",
+  "email": "s.harrington-clarke@gmail.com",
+  "phone": "+44 7823 491 062",
+  "linkedIn": "linkedin.com/in/sophieharringtonclarke",
+  "website": null,
+  "currentTitle": "Head of Digital Marketing",
+  "summary": "Results-driven digital marketing leader with 10 years of experience across global agencies and in-house roles. Deep expertise in performance marketing, paid media strategy, and marketing analytics. Proven ability to build and scale high-performing teams, manage eight-figure budgets, and drive measurable commercial outcomes. MBA from Cambridge Judge Business School.",
+  "skills": "Performance Marketing (SEM, Paid Social, Programmatic), Marketing Analytics & Attribution Modelling, SEO Strategy & Content Marketing, Team Leadership & Stakeholder Management, Budget Planning & P&L Management, A/B Testing & CRO, Tools: GA4, Salesforce, Tableau, Looker",
+  "languages": "English (Native), French (Proficient)",
+  "certifications": "Google Ads Certified (Search, Display, Video), Meta Blueprint Certified, HubSpot Marketing Certified",
+  "address": {
+    "raw": "London, UK",
+    "country": "GB",
+    "postalCode": null,
+    "municipality": "London",
+    "street": null
+  },
+  "experience": [
+    {
+      "company": "Google",
+      "title": "Head of Digital Marketing — EMEA",
+      "location": "London, UK",
+      "startDate": "2021-09",
+      "endDate": null,
+      "description": "Lead a cross-functional team of 18 marketers across 12 EMEA markets, managing a £22M annual budget. Launched brand awareness campaign achieving 340M impressions and a 14-point brand recall lift in core markets. Spearheaded adoption of Privacy Sandbox APIs across the EMEA marketing stack ahead of third-party cookie deprecation. Reduced customer acquisition cost by 28% through algorithmic bidding strategy redesign using Google's Performance Max. Grew EMEA organic search traffic by 47% YoY through structured SEO roadmap and content strategy overhaul.",
+      "isCurrent": "Yes"
+    },
+    {
+      "company": "Wunderman Thompson (WPP)",
+      "title": "Associate Director, Performance Marketing",
+      "location": "London, UK",
+      "startDate": "2018-04",
+      "endDate": "2021-08",
+      "description": "Managed paid search, display, and social campaigns for clients including HSBC, Unilever, and British Airways. Delivered £180M in combined tracked revenue across client portfolio in FY 2020. Built and managed a team of 9 performance specialists; introduced structured OKR framework reducing onboarding time by 40%. Developed proprietary attribution model adopted agency-wide, replacing last-click default for 22 client accounts.",
+      "isCurrent": null
+    },
+    {
+      "company": "Dentsu Aegis Network",
+      "title": "Senior Digital Marketing Manager",
+      "location": "London, UK",
+      "startDate": "2015-07",
+      "endDate": "2018-03",
+      "description": "Planned and executed integrated digital campaigns across SEM, programmatic display, and social for retail and FMCG clients. Achieved average ROAS of 5.4x across managed accounts, exceeding agency benchmarks by 30%. Mentored 4 junior executives; two were promoted to manager within 18 months.",
+      "isCurrent": null
+    },
+    {
+      "company": "Havas Media",
+      "title": "Digital Marketing Executive",
+      "location": "London, UK",
+      "startDate": "2013-09",
+      "endDate": "2015-06",
+      "description": "Executed Google Ads and Facebook campaigns for luxury retail clients; managed combined monthly spend of £600K. Produced weekly performance dashboards and executive-level reporting for six client accounts.",
+      "isCurrent": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cambridge Judge Business School, University of Cambridge",
+      "degree": "MBA",
+      "fieldOfStudy": "Marketing & Strategy",
+      "graduationYear": "2017",
+      "gpa": null,
+      "honors": null
+    },
+    {
+      "institution": "University of Leeds",
+      "degree": "BA (Hons)",
+      "fieldOfStudy": "Business Management",
+      "graduationYear": "2013",
+      "gpa": null,
+      "honors": "First Class"
+    }
+  ]
 }

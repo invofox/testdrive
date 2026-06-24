@@ -1,4 +1,49 @@
 {
   "documentType": "Form1008",
-  "sourceFile": "document_05_cash_out_refi.pdf"
+  "sourceFile": "document_05_cash_out_refi.pdf",
+  "submissionDate": "2025-02-14",
+  "loanNumber": "PCM-2025-COR-11294",
+  "lenderName": "Pacific Coast Mortgage",
+  "lenderAddress": {
+    "street": "600 B Street, Suite 2100",
+    "municipality": "San Diego, CA",
+    "postalCode": "92101",
+    "country": "US"
+  },
+  "loanType": "Conventional",
+  "loanPurpose": "Cash-Out Refinance",
+  "loanAmount": 487500,
+  "interestRate": 7.25,
+  "loanTerm": 360,
+  "amortizationType": "Fixed Rate",
+  "ltv": 75,
+  "cltv": 75,
+  "propertyAddress": {
+    "street": "892 Ocean View Dr",
+    "municipality": "San Diego, CA",
+    "postalCode": "92101",
+    "country": "US"
+  },
+  "propertyType": "Single Family Detached",
+  "occupancy": "Primary Residence",
+  "appraisedValue": 650000,
+  "salesPrice": null,
+  "borrower": {
+    "name": "David K. Nguyen",
+    "monthlyIncome": 11800,
+    "monthlyHousingExpense": 3577,
+    "totalMonthlyDebt": 4720,
+    "housingRatio": 30.3,
+    "totalDebtRatio": 40,
+    "liquidAssets": 88600,
+    "creditScore": 715
+  },
+  "coBorrower": {
+    "name": null,
+    "monthlyIncome": null
+  },
+  "underwritingDecision": "Approved",
+  "underwriterName": "Angela T. Simmons",
+  "underwritingDate": "2025-02-14",
+  "conditions": []
 }

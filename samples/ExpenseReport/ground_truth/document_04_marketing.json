@@ -1,4 +1,86 @@
 {
   "documentType": "ExpenseReport",
-  "sourceFile": "document_04_marketing.pdf"
+  "sourceFile": "document_04_marketing.pdf",
+  "reportNumber": "BSM-EXP-2025-0318",
+  "reportDate": "2025-04-02",
+  "periodStart": "2025-03-01",
+  "periodEnd": "2025-03-31",
+  "currency": "USD",
+  "totalAmount": 987.35,
+  "approvedAmount": null,
+  "status": "Pending",
+  "purpose": "Client entertainment and creative supplies expenses for March 2025 — Westmont Properties and Greenfield Foods accounts",
+  "employee": {
+    "name": "Jason Kowalski",
+    "employeeId": "JK-112",
+    "position": "Creative Director",
+    "department": "Creative Services",
+    "email": "j.kowalski@blueskyagency.com"
+  },
+  "employer": {
+    "name": "BlueSky Marketing Agency",
+    "address": {
+      "country": "US",
+      "postalCode": "60611",
+      "municipality": "Chicago",
+      "street": "875 N Michigan Ave, Suite 2100",
+      "raw": "875 N Michigan Ave, Suite 2100, Chicago, IL 60611, United States"
+    }
+  },
+  "expenses": [
+    {
+      "expenseDate": "2025-03-04",
+      "category": "Entertainment",
+      "description": "Client dinner — Westmont Properties pitch (4 persons)",
+      "merchant": "Bavette's Bar & Boeuf",
+      "amount": 348.2,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-03-11",
+      "category": "Meals",
+      "description": "Team working lunch — Greenfield Foods brief kickoff (6 people)",
+      "merchant": "Portillo's Hot Dogs",
+      "amount": 112.5,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-03-14",
+      "category": "Supplies",
+      "description": "Foam core boards, colour swatches, storyboard materials",
+      "merchant": "Blick Art Materials",
+      "amount": 89.75,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-03-18",
+      "category": "Supplies",
+      "description": "Props & styling accessories — Greenfield Foods photoshoot",
+      "merchant": "HomeGoods",
+      "amount": 143.6,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-03-19",
+      "category": "Meals",
+      "description": "Crew lunch — Greenfield Foods photoshoot day 2 (8 people)",
+      "merchant": "Big Bowl",
+      "amount": 164.3,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    },
+    {
+      "expenseDate": "2025-03-25",
+      "category": "Entertainment",
+      "description": "Client cocktail reception — Westmont Properties (account kickoff)",
+      "merchant": "Gibsons Bar & Steakhouse",
+      "amount": 129,
+      "currency": "USD",
+      "isReimbursable": "Yes"
+    }
+  ]
 }

@@ -1,4 +1,26 @@
 {
   "documentType": "FormW4",
-  "sourceFile": "document_04_extra_withholding.pdf"
+  "sourceFile": "document_04_extra_withholding.pdf",
+  "taxYear": 2025,
+  "employeeName": "Derek R. Okonkwo",
+  "ssn": "•••-••-9014",
+  "address": [
+    {
+      "street": "733 Westhaven Blvd, Apt 12A",
+      "municipality": "Atlanta, GA",
+      "postalCode": "30301",
+      "country": null
+    }
+  ],
+  "filingStatus": "Single or Married Filing Separately",
+  "multipleJobs": null,
+  "dependentsCredit": 0,
+  "otherIncome": 18500,
+  "deductionsAmount": 0,
+  "extraWithholding": 200,
+  "exemptStatus": null,
+  "signatureDate": "2025-04-07",
+  "employerName": "Delta Ridge Consulting Group · 191 Peachtree Tower, Suite 2200, Atlanta, GA 30303",
+  "employerEIN": "58-2374901",
+  "firstPayDate": "2025-04-14"
 }

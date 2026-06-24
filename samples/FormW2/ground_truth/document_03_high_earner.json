@@ -1,4 +1,46 @@
 {
   "documentType": "FormW2",
-  "sourceFile": "document_03_high_earner.pdf"
+  "sourceFile": "document_03_high_earner.pdf",
+  "taxYear": 2024,
+  "employerName": "Blackstone Ventures Capital Management LLC",
+  "employerEIN": "13-7845239",
+  "employerAddress": {
+    "street": "375 Park Avenue, 26th Floor",
+    "municipality": "New York, NY",
+    "postalCode": "10152",
+    "country": "US"
+  },
+  "employeeName": "Gregory T. Ashworth",
+  "employeeSSN": "XXX-XX-0091",
+  "employeeAddress": {
+    "street": "88 West 72nd Street, PH4",
+    "municipality": "New York, NY",
+    "postalCode": "10023",
+    "country": "US"
+  },
+  "box1Wages": 620000,
+  "box2FederalTax": 204600,
+  "box3SocialSecurityWages": 168600,
+  "box4SocialSecurityTax": 10453.2,
+  "box5MedicareWages": 620000,
+  "box6MedicareTax": 10585,
+  "box7SocialSecurityTips": 0,
+  "box10DependentCare": 0,
+  "box12Entries": [
+    {
+      "code": "D",
+      "amount": 23000
+    },
+    {
+      "code": "P",
+      "amount": 8500
+    }
+  ],
+  "box16StateWages": 620000,
+  "box17StateTax": 62308,
+  "stateCode": "NY",
+  "employerStateId": "NY-147823901",
+  "box18LocalWages": 620000,
+  "box19LocalTax": 22724,
+  "localityName": "New York City"
 }

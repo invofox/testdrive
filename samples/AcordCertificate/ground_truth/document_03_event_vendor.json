@@ -1,4 +1,51 @@
 {
   "documentType": "AcordCertificate",
-  "sourceFile": "document_03_event_vendor.pdf"
+  "sourceFile": "document_03_event_vendor.pdf",
+  "acordForm": "ACORD 25",
+  "issueDate": "2024-09-05",
+  "producer": {
+    "name": "Sunshine State Insurance Brokers",
+    "address": {
+      "street": "8801 Collins Avenue, Suite 400",
+      "municipality": "Miami Beach",
+      "postalCode": "33141",
+      "country": "US"
+    },
+    "phone": "(305) 555-0744",
+    "email": "mfuentes@sunshinestateins.com",
+    "contactName": "Maria Elena Fuentes"
+  },
+  "insured": {
+    "name": "Palmas Catering & Events, LLC",
+    "address": {
+      "street": "2250 NW 87th Avenue, Unit 12",
+      "municipality": "Doral",
+      "postalCode": "33172",
+      "country": "US"
+    }
+  },
+  "coverages": [
+    {
+      "coverageType": "General Liability",
+      "insurer": "State Farm Fire & Casualty Company",
+      "policyNumber": "SF-GL-FL-2024-77123",
+      "effectiveDate": "2024-10-01",
+      "expirationDate": "2025-10-01",
+      "eachOccurrence": 1000000,
+      "aggregateLimit": 2000000,
+      "additionalInsured": "Y",
+      "waiverOfSubrogation": "Y"
+    }
+  ],
+  "certificateHolder": {
+    "name": "Brightline Capital Management, LLC",
+    "address": {
+      "street": "200 South Biscayne Blvd., Suite 4400",
+      "municipality": "Miami",
+      "postalCode": "33131",
+      "country": "US"
+    }
+  },
+  "descriptionOfOperations": "Certificate issued for catering services at the following scheduled event: Event: Brightline Capital Annual Gala Dinner. Date of Event: October 18, 2024. Venue: Fontainebleau Miami Beach, 4441 Collins Ave., Miami Beach, FL 33140. Guest Count: Approximately 350 guests. Certificate holder is named as Additional Insured for the above event only. Liquor liability coverage is included per endorsement FL-0024-LL. Waiver of subrogation applies in favor of certificate holder.",
+  "cancellationDays": 30
 }

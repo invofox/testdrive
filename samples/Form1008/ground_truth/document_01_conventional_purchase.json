@@ -1,4 +1,49 @@
 {
   "documentType": "Form1008",
-  "sourceFile": "document_01_conventional_purchase.pdf"
+  "sourceFile": "document_01_conventional_purchase.pdf",
+  "submissionDate": "2024-09-15",
+  "loanNumber": "FNB-2024-087341",
+  "lenderName": "First National Bank",
+  "lenderAddress": {
+    "street": "100 Congress Avenue, Suite 1200",
+    "municipality": "Austin, TX",
+    "postalCode": "78701",
+    "country": "US"
+  },
+  "loanType": "Conventional",
+  "loanPurpose": "Purchase",
+  "loanAmount": 384000,
+  "interestRate": 6.875,
+  "loanTerm": 360,
+  "amortizationType": "Fixed Rate",
+  "ltv": 80,
+  "cltv": 80,
+  "propertyAddress": {
+    "street": "234 Maple Avenue",
+    "municipality": "Austin, TX",
+    "postalCode": "78701",
+    "country": "US"
+  },
+  "propertyType": "Single Family Detached",
+  "occupancy": "Primary Residence",
+  "appraisedValue": 480000,
+  "salesPrice": 480000,
+  "borrower": {
+    "name": "Michael R. Thompson",
+    "monthlyIncome": 9850,
+    "monthlyHousingExpense": 2851,
+    "totalMonthlyDebt": 3743,
+    "housingRatio": 28.9,
+    "totalDebtRatio": 38,
+    "liquidAssets": 54200,
+    "creditScore": 742
+  },
+  "coBorrower": {
+    "name": null,
+    "monthlyIncome": null
+  },
+  "underwritingDecision": "Approved",
+  "underwriterName": "Jennifer Walsh",
+  "underwritingDate": "2024-09-15",
+  "conditions": []
 }

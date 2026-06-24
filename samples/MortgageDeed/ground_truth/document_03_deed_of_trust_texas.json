@@ -1,4 +1,57 @@
 {
-  "documentType": "MortgageDeed",
-  "sourceFile": "document_03_deed_of_trust_texas.pdf"
+  "documentType": "Deed of Trust",
+  "sourceFile": "document_03_deed_of_trust_texas.pdf",
+  "recordingDate": "2024-11-18",
+  "recordingInfo": {
+    "book": null,
+    "page": null,
+    "instrumentNumber": "20240487921",
+    "county": "Bexar",
+    "state": "Texas"
+  },
+  "executionDate": "2024-11-15",
+  "loanAmount": 175000,
+  "interestRate": 7.5,
+  "maturityDate": "2039-12-01",
+  "borrower": {
+    "name": "CARLOS M. REYES and MARIA L. REYES",
+    "type": "Married Couple",
+    "address": {
+      "street": "9823 Bluebonnet Court",
+      "municipality": "San Antonio, Texas",
+      "postalCode": "78240",
+      "country": "US"
+    }
+  },
+  "lender": {
+    "name": "FROST BANK",
+    "address": {
+      "street": "100 West Houston Street",
+      "municipality": "San Antonio, Texas",
+      "postalCode": "78205",
+      "country": "US"
+    }
+  },
+  "trustee": {
+    "name": "TEXAS TITLE SERVICES, LLC",
+    "address": {
+      "street": "100 West Houston Street, Suite 1850",
+      "municipality": "San Antonio, Texas",
+      "postalCode": "78205",
+      "country": "US"
+    }
+  },
+  "propertyAddress": {
+    "street": "9823 Bluebonnet Court",
+    "municipality": "San Antonio, Texas",
+    "postalCode": "78240",
+    "country": "US"
+  },
+  "legalDescription": "LOT 14, BLOCK 7, EMERALD HILLS SUBDIVISION, UNIT IV, AN ADDITION TO THE CITY OF SAN ANTONIO, BEXAR COUNTY, TEXAS, ACCORDING TO THE PLAT THEREOF RECORDED IN VOLUME 9862, PAGE 147, OF THE MAP AND PLAT RECORDS OF BEXAR COUNTY, TEXAS.",
+  "apn": "38-7423-0014-00900",
+  "notary": {
+    "name": "Diana G. Morales",
+    "commissionExpiry": "2026-08-31",
+    "county": "Bexar"
+  }
 }

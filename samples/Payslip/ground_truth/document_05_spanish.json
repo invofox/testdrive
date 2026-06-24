@@ -1,4 +1,71 @@
 {
   "documentType": "Payslip",
-  "sourceFile": "document_05_spanish.pdf"
+  "sourceFile": "document_05_spanish.pdf",
+  "payPeriodStart": "2025-05-01",
+  "payPeriodEnd": "2025-05-31",
+  "payDate": "2025-05-31",
+  "currency": "EUR",
+  "grossSalary": 2840,
+  "netSalary": 2187.42,
+  "totalDeductions": 652.58,
+  "totalEarnings": 2840,
+  "payFrequency": "Monthly",
+  "employee": {
+    "name": "Alejandro Casas Moreno",
+    "employeeId": "1084",
+    "position": "Técnico de Producción",
+    "department": "Producción",
+    "taxId": "44827391K"
+  },
+  "employer": {
+    "name": "Industrias Ferreira Hermanos SA",
+    "taxId": "A-36481220",
+    "address": {
+      "country": "ES",
+      "postalCode": "36214",
+      "municipality": "Vigo",
+      "street": "Polígono Industrial A Granxa, Parcela 14",
+      "raw": "Polígono Industrial A Granxa, Parcela 14, 36214 Vigo, Galicia"
+    }
+  },
+  "earnings": [
+    {
+      "description": "Salario Base",
+      "hours": null,
+      "rate": null,
+      "amount": 2100
+    },
+    {
+      "description": "Complemento de Productividad",
+      "hours": null,
+      "rate": null,
+      "amount": 320
+    },
+    {
+      "description": "Plus de Transporte",
+      "hours": null,
+      "rate": null,
+      "amount": 180
+    },
+    {
+      "description": "Plus de Convenio",
+      "hours": null,
+      "rate": null,
+      "amount": 240
+    }
+  ],
+  "deductions": [
+    {
+      "description": "IRPF (18%)",
+      "amount": 511.2
+    },
+    {
+      "description": "Cuota Seg. Social – Contingencias Comunes (4.7%)",
+      "amount": 133.48
+    },
+    {
+      "description": "Cuota Seg. Social – Desempleo (1.55%)",
+      "amount": 7.9
+    }
+  ]
 }

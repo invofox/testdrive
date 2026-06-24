@@ -1,4 +1,41 @@
 {
   "documentType": "Contract",
-  "sourceFile": "document_03_employment.pdf"
+  "sourceFile": "document_03_employment.pdf",
+  "contractNumber": "SFSC-HR-2025-0312",
+  "contractTitle": "Employment Contract",
+  "contractType": "Employment Contract",
+  "effectiveDate": "2025-06-01",
+  "expiryDate": null,
+  "signatureDate": "2025-05-14",
+  "currency": "USD",
+  "totalValue": 145000,
+  "paymentTerms": "Bi-weekly",
+  "governingLaw": "State of New York",
+  "jurisdiction": "New York County, New York",
+  "party1": {
+    "name": "Sterling Financial Services Corp",
+    "role": "Employer",
+    "taxId": null,
+    "address": {
+      "country": "US",
+      "postalCode": "10007",
+      "municipality": "New York",
+      "street": "1 World Trade Center, 85th Floor"
+    },
+    "signatoryName": "Helen G. Park",
+    "signatoryTitle": "SVP Human Resources"
+  },
+  "party2": {
+    "name": "Christopher D. Owan",
+    "role": "Employee",
+    "taxId": null,
+    "address": {
+      "country": "US",
+      "postalCode": "10024",
+      "municipality": "New York",
+      "street": "84 Riverside Drive, Apt. 6E"
+    },
+    "signatoryName": "Christopher D. Owan",
+    "signatoryTitle": "Employee"
+  }
 }

@@ -1,4 +1,61 @@
 {
   "documentType": "Payslip",
-  "sourceFile": "document_01_us_salaried.pdf"
+  "sourceFile": "document_01_us_salaried.pdf",
+  "payPeriodStart": "2025-05-01",
+  "payPeriodEnd": "2025-05-31",
+  "payDate": "2025-05-31",
+  "currency": "USD",
+  "grossSalary": 7200,
+  "netSalary": 5108.44,
+  "totalDeductions": 2091.56,
+  "totalEarnings": 7200,
+  "payFrequency": "Monthly",
+  "employee": {
+    "name": "Brittany D. Simmons, RN",
+    "employeeId": "E-44821",
+    "position": "Registered Nurse",
+    "department": "ICU",
+    "taxId": "***-**-7839"
+  },
+  "employer": {
+    "name": "Meridian Healthcare Partners LLC",
+    "taxId": "62-4418872",
+    "address": {
+      "country": "US",
+      "postalCode": "37203",
+      "municipality": "Nashville",
+      "street": "840 Commerce Street, Suite 300",
+      "raw": "840 Commerce Street, Suite 300, Nashville, TN 37203"
+    }
+  },
+  "earnings": [
+    {
+      "description": "Base Monthly Salary",
+      "hours": null,
+      "rate": null,
+      "amount": 7200
+    }
+  ],
+  "deductions": [
+    {
+      "description": "Federal Income Tax",
+      "amount": 1224
+    },
+    {
+      "description": "Social Security (6.2%)",
+      "amount": 446.4
+    },
+    {
+      "description": "Medicare (1.45%)",
+      "amount": 104.4
+    },
+    {
+      "description": "401(k) Contribution",
+      "amount": 216.76
+    },
+    {
+      "description": "Health Insurance Premium",
+      "amount": 100
+    }
+  ]
 }

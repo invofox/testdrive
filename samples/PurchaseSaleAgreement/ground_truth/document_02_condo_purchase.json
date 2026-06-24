@@ -1,4 +1,75 @@
 {
   "documentType": "PurchaseSaleAgreement",
-  "sourceFile": "document_02_condo_purchase.pdf"
+  "sourceFile": "document_02_condo_purchase.pdf",
+  "agreementDate": "2024-08-12",
+  "status": "Executed",
+  "buyer": {
+    "name": "Nadia S. Petrov",
+    "address": {
+      "street": "8200 NE 2nd Ave, Unit 412",
+      "municipality": "Miami",
+      "postalCode": "33138",
+      "country": "US"
+    },
+    "phone": "(305) 555-0183",
+    "email": "nadia.petrov@gmail.com"
+  },
+  "seller": {
+    "name": "William T. and Sandra F. Morales",
+    "address": {
+      "street": "201 S. Biscayne Blvd, Unit 2400",
+      "municipality": "Miami",
+      "postalCode": "33131",
+      "country": "US"
+    },
+    "phone": "(305) 555-0429",
+    "email": "wmorales@brickellcapital.com"
+  },
+  "property": {
+    "address": {
+      "street": "1000 Brickell Bay Drive, Unit 3108",
+      "municipality": "Miami",
+      "postalCode": "33131",
+      "country": "US"
+    },
+    "legalDescription": "Unit 3108 of BRICKELL BAY TOWER, a Condominium, according to the Declaration of Condominium recorded in O.R. Book 29841, Pages 4471–4590, Public Records of Miami-Dade County, Florida.",
+    "apn": "01-4138-095-3420",
+    "propertyType": "Condo"
+  },
+  "purchasePrice": 320000,
+  "currency": "USD",
+  "earnestMoney": 6400,
+  "earnestMoneyDueDate": "2024-08-15",
+  "earnestMoneyHolder": "First American Title Insurance Co.",
+  "financingContingency": {
+    "enabled": "Yes",
+    "loanAmount": 256000,
+    "loanType": "Conventional",
+    "interestRate": 7.25,
+    "deadline": "2024-09-02"
+  },
+  "inspectionContingency": {
+    "enabled": "Yes",
+    "deadline": "2024-08-22"
+  },
+  "appraisalContingency": {
+    "enabled": "Yes",
+    "deadline": "2024-09-05"
+  },
+  "closingDate": "2024-09-16",
+  "possessionDate": "2024-09-16",
+  "titleCompany": "First American Title Insurance Company",
+  "buyerAgent": {
+    "name": "Claudia R. Espinoza",
+    "licenseNumber": "FL-3091847",
+    "brokerageName": "EXP Realty LLC"
+  },
+  "sellerAgent": {
+    "name": "Jonathan B. Kessler",
+    "licenseNumber": "FL-2784502",
+    "brokerageName": "Compass Florida LLC"
+  },
+  "includedItems": "Refrigerator, washer/dryer, dishwasher, built-in microwave, all window treatments and blinds, ceiling fans, one parking space (P2-#447), storage locker.",
+  "excludedItems": "All artwork, personal furniture, and the custom closet system in the primary bedroom (to be removed prior to closing and replaced with standard closet fittings).",
+  "governingLaw": "State of Florida"
 }

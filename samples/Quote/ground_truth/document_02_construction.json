@@ -1,4 +1,98 @@
 {
   "documentType": "Quote",
-  "sourceFile": "document_02_construction.pdf"
+  "sourceFile": "document_02_construction.pdf",
+  "quoteNumber": "QT-4892",
+  "issueDate": "2025-02-06",
+  "expiryDate": "2025-04-07",
+  "currency": "GBP",
+  "totalAmount": 34212,
+  "totalTaxBaseAmount": 28510,
+  "totalTaxAmount": 5702,
+  "taxRate": 20,
+  "paymentTerms": "Monthly interim valuations. 30-day payment terms from invoice date. 5% retention released 6 weeks post practical completion.",
+  "validityDays": 60,
+  "supplier": {
+    "name": "Thornton Building & Restoration Ltd",
+    "taxId": "GB 294 7513 08",
+    "email": "admin@thorntonbr.co.uk",
+    "phoneNumber": "0113 246 8800",
+    "address": {
+      "country": "GB",
+      "postalCode": "LS11 9NT",
+      "municipality": "Leeds",
+      "street": "Unit 14, Holbeck Urban Village",
+      "raw": "Unit 14, Holbeck Urban Village, Leeds, LS11 9NT, United Kingdom"
+    }
+  },
+  "customer": {
+    "name": "Whitfield Estate Management Ltd",
+    "taxId": null,
+    "email": "r.ashworth@whitfieldestate.co.uk",
+    "phoneNumber": null,
+    "address": {
+      "country": "GB",
+      "postalCode": "SW1W 0DH",
+      "municipality": "London",
+      "street": "12 Grosvenor Gardens",
+      "raw": "12 Grosvenor Gardens, London, SW1W 0DH, United Kingdom"
+    }
+  },
+  "lines": [
+    {
+      "description": "Strip out — removal of existing ceiling tiles, partitions, carpet, fittings to skip",
+      "quantity": 1,
+      "unitOfMeasure": "Item",
+      "unitPrice": 1850,
+      "totalAmount": 1850
+    },
+    {
+      "description": "Suspended ceiling — Armstrong Ultima 600×600 tile system, complete installation",
+      "quantity": 460,
+      "unitOfMeasure": "m²",
+      "unitPrice": 32,
+      "totalAmount": 14720
+    },
+    {
+      "description": "LVT flooring — Amtico Spacia (client-specified), supply and fit incl. DPM",
+      "quantity": 460,
+      "unitOfMeasure": "m²",
+      "unitPrice": 28.5,
+      "totalAmount": 13110
+    },
+    {
+      "description": "Stud partition reconfiguration — new meeting room pod (12m²) and breakout area",
+      "quantity": 1,
+      "unitOfMeasure": "Item",
+      "unitPrice": 3200,
+      "totalAmount": 3200
+    },
+    {
+      "description": "Full decoration — plaster skim, mist coat, two coats emulsion (walls & ceilings)",
+      "quantity": 1,
+      "unitOfMeasure": "Item",
+      "unitPrice": 4100,
+      "totalAmount": 4100
+    },
+    {
+      "description": "M&E first and second fix — lighting, power, data containment per layout drawing",
+      "quantity": 1,
+      "unitOfMeasure": "Item",
+      "unitPrice": 6500,
+      "totalAmount": 6500
+    },
+    {
+      "description": "Glazed manifestation film to meeting room partitions (logo pattern, client-supplied artwork)",
+      "quantity": 18,
+      "unitOfMeasure": "m²",
+      "unitPrice": 85,
+      "totalAmount": 1530
+    },
+    {
+      "description": "Project management, site supervision, welfare, and waste disposal",
+      "quantity": 4,
+      "unitOfMeasure": "Weeks",
+      "unitPrice": 875,
+      "totalAmount": 3500
+    }
+  ]
 }

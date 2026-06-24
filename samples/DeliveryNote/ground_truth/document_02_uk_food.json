@@ -1,4 +1,104 @@
 {
   "documentType": "DeliveryNote",
-  "sourceFile": "document_02_uk_food.pdf"
+  "sourceFile": "document_02_uk_food.pdf",
+  "deliveryNoteNumber": "DNF-2025-0892",
+  "issueDate": "2025-03-22",
+  "deliveryDate": "2025-03-23",
+  "orderRef": "MRN-PO-2025-44119",
+  "invoiceRef": "INV-FFF-2025-0321",
+  "carrierId": "Kevin Marsden — KM229",
+  "totalPackages": 6,
+  "totalWeight": "1,842 kg",
+  "supplier": {
+    "name": "Farmhouse Fresh Foods Ltd",
+    "address": {
+      "raw": "Unit 7, Avonmouth Business Park, Bristol, BS11 9HP, United Kingdom",
+      "street": "Unit 7, Avonmouth Business Park",
+      "municipality": "Bristol",
+      "postalCode": "BS11 9HP",
+      "country": "GB"
+    }
+  },
+  "recipient": {
+    "name": "Morrisons Supermarkets PLC",
+    "address": {
+      "raw": "Hilmore House, Gain Lane, Bradford, BD3 7DL, United Kingdom",
+      "street": "Hilmore House, Gain Lane",
+      "municipality": "Bradford",
+      "postalCode": "BD3 7DL",
+      "country": "GB"
+    }
+  },
+  "shipToAddress": {
+    "raw": "Wakefield Road, Normanton, Leeds, WF6 1TA, United Kingdom",
+    "street": "Wakefield Road, Normanton",
+    "municipality": "Leeds",
+    "postalCode": "WF6 1TA",
+    "country": "GB"
+  },
+  "lines": [
+    {
+      "lineNumber": "1",
+      "partNumber": "MILK-SEMI-6PK",
+      "description": "Semi-Skimmed Milk 2L — 6-bottle multipack (chilled)",
+      "quantityOrdered": 200,
+      "quantityDelivered": 200,
+      "unitOfMeasure": "PACK",
+      "batchNumber": "FFF-M-250322-A"
+    },
+    {
+      "lineNumber": "2",
+      "partNumber": "CHD-CHEDDAR-KG",
+      "description": "Mature Farmhouse Cheddar 1kg block (chilled)",
+      "quantityOrdered": 150,
+      "quantityDelivered": 150,
+      "unitOfMeasure": "EA",
+      "batchNumber": "FFF-C-250320-B"
+    },
+    {
+      "lineNumber": "3",
+      "partNumber": "YOG-NATL-500G",
+      "description": "Natural Bio Yoghurt 500g pot (chilled)",
+      "quantityOrdered": 300,
+      "quantityDelivered": 300,
+      "unitOfMeasure": "EA",
+      "batchNumber": "FFF-Y-250321-A"
+    },
+    {
+      "lineNumber": "4",
+      "partNumber": "BTR-UNSL-250G",
+      "description": "Unsalted Butter 250g (chilled)",
+      "quantityOrdered": 400,
+      "quantityDelivered": 380,
+      "unitOfMeasure": "EA",
+      "batchNumber": "FFF-B-250319-C"
+    },
+    {
+      "lineNumber": "5",
+      "partNumber": "CRM-DBL-300ML",
+      "description": "Double Cream 300ml (chilled) — SHORT DELIVERY",
+      "quantityOrdered": 250,
+      "quantityDelivered": 200,
+      "unitOfMeasure": "EA",
+      "batchNumber": "FFF-D-250318-A"
+    },
+    {
+      "lineNumber": "6",
+      "partNumber": "EGG-FRR-DZN",
+      "description": "Free Range Large Eggs — dozen (6-box tray)",
+      "quantityOrdered": 100,
+      "quantityDelivered": 100,
+      "unitOfMeasure": "TRAY",
+      "batchNumber": "FFF-E-250322-A"
+    },
+    {
+      "lineNumber": "7",
+      "partNumber": "STRAW-PNT-UK",
+      "description": "British Strawberries 400g punnet (chilled)",
+      "quantityOrdered": 180,
+      "quantityDelivered": 180,
+      "unitOfMeasure": "PNT",
+      "batchNumber": "FFF-S-250323-A"
+    }
+  ]
 }

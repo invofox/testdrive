@@ -1,4 +1,84 @@
 {
   "documentType": "Quote",
-  "sourceFile": "document_01_it_services.pdf"
+  "sourceFile": "document_01_it_services.pdf",
+  "quoteNumber": "Q-2025-0441",
+  "issueDate": "2025-03-14",
+  "expiryDate": "2025-04-13",
+  "currency": "USD",
+  "totalAmount": 47460,
+  "totalTaxBaseAmount": 47460,
+  "totalTaxAmount": 0,
+  "taxRate": 0,
+  "paymentTerms": "50% deposit upon signed acceptance; 25% at project midpoint; 25% on final delivery. Net 30 on each invoice.",
+  "validityDays": 30,
+  "supplier": {
+    "name": "Ironbridge Technology Partners LLC",
+    "taxId": "82-4471039",
+    "email": "info@ironbridgetech.com",
+    "phoneNumber": "+1 (206) 555-0182",
+    "address": {
+      "country": "US",
+      "postalCode": "98101",
+      "municipality": "Seattle",
+      "street": "1420 Fifth Avenue, Suite 3100",
+      "raw": "1420 Fifth Avenue, Suite 3100, Seattle, WA 98101, United States"
+    }
+  },
+  "customer": {
+    "name": "Cascade Financial Group Inc",
+    "taxId": null,
+    "email": null,
+    "phoneNumber": null,
+    "address": {
+      "country": "US",
+      "postalCode": "97204",
+      "municipality": "Portland",
+      "street": "425 SW Washington Street, Suite 700",
+      "raw": "425 SW Washington Street, Suite 700, Portland, OR 97204, United States"
+    }
+  },
+  "lines": [
+    {
+      "description": "Network Core Infrastructure Upgrade (Cisco Catalyst 9300 Stack + cabling)",
+      "quantity": 1,
+      "unitOfMeasure": null,
+      "unitPrice": 8400,
+      "totalAmount": 8400
+    },
+    {
+      "description": "Server Virtualization — VMware vSphere 8 (3-host cluster, licensing + setup)",
+      "quantity": 1,
+      "unitOfMeasure": null,
+      "unitPrice": 11250,
+      "totalAmount": 11250
+    },
+    {
+      "description": "Endpoint Security — CrowdStrike Falcon Complete (per seat, 12 months)",
+      "quantity": 85,
+      "unitOfMeasure": null,
+      "unitPrice": 62,
+      "totalAmount": 5270
+    },
+    {
+      "description": "Zero-Trust Network Access (Zscaler Private Access — 12-month subscription)",
+      "quantity": 1,
+      "unitOfMeasure": null,
+      "unitPrice": 4800,
+      "totalAmount": 4800
+    },
+    {
+      "description": "Cloud Migration Assessment & Architecture Design (40 hrs @ $175/hr)",
+      "quantity": 40,
+      "unitOfMeasure": "hrs",
+      "unitPrice": 175,
+      "totalAmount": 7000
+    },
+    {
+      "description": "Managed IT Support — Silver Tier (8×5 helpdesk + monthly reporting, 12 mo)",
+      "quantity": 12,
+      "unitOfMeasure": null,
+      "unitPrice": 895,
+      "totalAmount": 10740
+    }
+  ]
 }

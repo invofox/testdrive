@@ -1,4 +1,153 @@
 {
   "documentType": "CustomsDeclaration",
-  "sourceFile": "document_05_personal_effects.pdf"
+  "sourceFile": "document_05_personal_effects.pdf",
+  "declarationType": "Import",
+  "declarationNumber": "CBP-3299-ORD-2025-187443",
+  "declarationDate": "2025-05-28",
+  "entryType": "Transit — Sea (Japan → US)",
+  "portOfEntry": "3901 — Chicago O'Hare, IL",
+  "portOfLading": "JPTYO — Tokyo, Japan",
+  "countryOfOrigin": "JP",
+  "countryOfExport": "JP",
+  "countryOfDestination": "US",
+  "importer": {
+    "name": "Nakamura, Hiroshi James",
+    "taxId": null,
+    "address": {
+      "street": "2847 North Sheridan Road, Apt. 14C",
+      "municipality": "Chicago",
+      "postalCode": "60657",
+      "country": "US"
+    }
+  },
+  "exporter": {
+    "name": null,
+    "taxId": null,
+    "address": {
+      "street": "3-12-8 Minami-Aoyama, Minato-ku",
+      "municipality": "Tokyo",
+      "postalCode": "107-0062",
+      "country": "JP"
+    }
+  },
+  "carrier": "Nippon Yusen Kaisha (NYK Line)",
+  "vesselFlightNumber": "NYK VIRGO / V.0528S",
+  "billOfLadingNumber": "NYKB25052800041",
+  "incoterms": null,
+  "currency": "USD",
+  "totalDeclaredValue": 28400,
+  "freightCost": null,
+  "insuranceCost": null,
+  "cifValue": null,
+  "dutiableValue": null,
+  "totalDuties": 0,
+  "totalTaxes": 0,
+  "lineItems": [
+    {
+      "lineNumber": 1,
+      "description": "Clothing and Personal Apparel (Men's)",
+      "hsCode": "6201–6217",
+      "quantity": 80,
+      "unit": "pcs",
+      "weight": null,
+      "unitValue": null,
+      "totalValue": 2800,
+      "dutyRate": 0,
+      "dutyAmount": 0,
+      "countryOfOrigin": "JP"
+    },
+    {
+      "lineNumber": 2,
+      "description": "Household Furniture — Sofa, Dining Table, Chairs, Bed Frame (Modern, Japanese design)",
+      "hsCode": "9401–9403",
+      "quantity": 8,
+      "unit": "pcs",
+      "weight": null,
+      "unitValue": null,
+      "totalValue": 6200,
+      "dutyRate": 0,
+      "dutyAmount": 0,
+      "countryOfOrigin": "JP"
+    },
+    {
+      "lineNumber": 3,
+      "description": "Household Electrical Appliances — TV, Vacuum, Microwave, Air Purifier",
+      "hsCode": "8509–8528",
+      "quantity": 4,
+      "unit": "pcs",
+      "weight": null,
+      "unitValue": null,
+      "totalValue": 3100,
+      "dutyRate": 0,
+      "dutyAmount": 0,
+      "countryOfOrigin": "JP"
+    },
+    {
+      "lineNumber": 4,
+      "description": "Personal Computers, Laptops, Monitors, Peripherals (Work & Personal)",
+      "hsCode": "8471",
+      "quantity": 3,
+      "unit": "units",
+      "weight": null,
+      "unitValue": null,
+      "totalValue": 4800,
+      "dutyRate": 0,
+      "dutyAmount": 0,
+      "countryOfOrigin": "JP"
+    },
+    {
+      "lineNumber": 5,
+      "description": "Books, Technical Manuals, Personal Documents, Musical Scores",
+      "hsCode": "4901–4903",
+      "quantity": 200,
+      "unit": "items",
+      "weight": null,
+      "unitValue": null,
+      "totalValue": 1200,
+      "dutyRate": 0,
+      "dutyAmount": 0,
+      "countryOfOrigin": "JP"
+    },
+    {
+      "lineNumber": 6,
+      "description": "Kitchen Utensils, Tableware, Cookware (Japan pottery, ceramics)",
+      "hsCode": "6911–6912, 7323",
+      "quantity": 60,
+      "unit": "pcs",
+      "weight": null,
+      "unitValue": null,
+      "totalValue": 1800,
+      "dutyRate": 0,
+      "dutyAmount": 0,
+      "countryOfOrigin": "JP"
+    },
+    {
+      "lineNumber": 7,
+      "description": "Sports & Outdoor Equipment — Road Bicycle, Tennis Rackets, Camping Gear",
+      "hsCode": "9506–9507",
+      "quantity": null,
+      "unit": null,
+      "weight": null,
+      "unitValue": null,
+      "totalValue": 3200,
+      "dutyRate": 0,
+      "dutyAmount": 0,
+      "countryOfOrigin": "JP"
+    },
+    {
+      "lineNumber": 8,
+      "description": "Musical Instrument — Yamaha Acoustic Piano (Model: U1H, used)",
+      "hsCode": "9201.20.0000",
+      "quantity": 1,
+      "unit": null,
+      "weight": null,
+      "unitValue": null,
+      "totalValue": 5300,
+      "dutyRate": 0,
+      "dutyAmount": 0,
+      "countryOfOrigin": "JP"
+    }
+  ],
+  "brokerName": "Chicago Global Customs, LLC",
+  "brokerLicenseNumber": "CHB-38841"
 }

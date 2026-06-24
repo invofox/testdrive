@@ -1,4 +1,62 @@
 {
   "documentType": "Form1040",
-  "sourceFile": "document_03_self_employed.pdf"
+  "sourceFile": "document_03_self_employed.pdf",
+  "formType": "1040",
+  "taxYear": 2024,
+  "filingDate": "2025-04-07",
+  "filingStatus": "Single",
+  "taxpayer": {
+    "name": "Patricia L. Vance",
+    "ssn": "XXX-XX-3367",
+    "dateOfBirth": "1979-11-08",
+    "occupation": "Freelance Graphic Designer / Business Owner",
+    "address": {
+      "street": "5901 Ridgemont Court",
+      "municipality": "Portland, OR",
+      "postalCode": "97204",
+      "country": "US"
+    }
+  },
+  "spouse": null,
+  "income": {
+    "wages": 12000,
+    "taxableInterest": 520,
+    "qualifiedDividends": 0,
+    "capitalGains": 0,
+    "otherIncome": 81370,
+    "totalIncome": 93890,
+    "adjustments": -20754,
+    "adjustedGrossIncome": 73136
+  },
+  "deductions": {
+    "type": "Standard",
+    "amount": 14600,
+    "qualifiedBusinessIncome": 11707
+  },
+  "tax": {
+    "taxableIncome": 46829,
+    "incomeTax": 5954,
+    "alternativeMinimumTax": 0,
+    "totalTax": 17462
+  },
+  "credits": {
+    "childTaxCredit": 0,
+    "educationCredit": null,
+    "earnedIncomeCredit": 0,
+    "totalCredits": null
+  },
+  "payments": {
+    "withheldFederal": 1200,
+    "estimatedTaxPayments": 16000,
+    "totalPayments": 17200
+  },
+  "result": {
+    "refundAmount": 0,
+    "amountOwed": 262
+  },
+  "preparer": {
+    "name": "Christine M. Okafor, EA",
+    "ptin": "P00872341",
+    "firmName": "Pacific Northwest Tax Partners"
+  }
 }

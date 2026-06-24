@@ -1,4 +1,94 @@
 {
   "documentType": "UtilityBill",
-  "sourceFile": "document_03_uk_water.pdf"
+  "sourceFile": "document_03_uk_water.pdf",
+  "accountNumber": "TW-2947-6381",
+  "billDate": "2025-07-01",
+  "dueDate": "2025-07-31",
+  "billingPeriodStart": "2025-04-01",
+  "billingPeriodEnd": "2025-06-30",
+  "currency": "GBP",
+  "totalAmount": 218.6,
+  "taxAmount": 9.2,
+  "taxRate": 5,
+  "taxBaseAmount": 183.96,
+  "serviceType": "Water",
+  "consumption": "23.93",
+  "consumptionUnit": "m³",
+  "meterNumber": "TW-018-47291-M",
+  "supplier": {
+    "name": "Thames Water Utilities Ltd",
+    "taxId": "02366661",
+    "phone": "0800 316 9800",
+    "website": "thameswater.co.uk",
+    "address": {
+      "raw": "Clearwater Court, Vastern Road, Reading, RG1 8DB",
+      "country": "GB",
+      "postalCode": "RG1 8DB",
+      "municipality": "Reading",
+      "street": "Clearwater Court, Vastern Road"
+    }
+  },
+  "customer": {
+    "name": "Dr. Fiona Blackwell",
+    "address": {
+      "raw": "14 Orchard Rise, Richmond upon Thames, Surrey TW10 6PJ",
+      "country": "GB",
+      "postalCode": "TW10 6PJ",
+      "municipality": "Richmond upon Thames",
+      "street": "14 Orchard Rise"
+    }
+  },
+  "serviceAddress": {
+    "raw": "14 Orchard Rise, Richmond upon Thames, Surrey TW10 6PJ",
+    "country": "GB",
+    "postalCode": "TW10 6PJ",
+    "municipality": "Richmond upon Thames",
+    "street": "14 Orchard Rise"
+  },
+  "charges": [
+    {
+      "description": "Water Standing Charge (91 days × £0.2614/day)",
+      "amount": 23.79
+    },
+    {
+      "description": "Metered Water — First 10 m³ × £1.4820/m³",
+      "amount": 14.82
+    },
+    {
+      "description": "Metered Water — Remaining 13.93 m³ × £2.1340/m³",
+      "amount": 29.73
+    },
+    {
+      "description": "Sewerage Standing Charge (91 days × £0.3104/day)",
+      "amount": 28.25
+    },
+    {
+      "description": "Sewerage — Volumetric Charge (23.93 m³ × £2.8460/m³)",
+      "amount": 68.1
+    },
+    {
+      "description": "Surface Water Drainage Charge (91 days × £0.2118/day)",
+      "amount": 19.27
+    },
+    {
+      "description": "Value Added Tax (VAT @ 5%)",
+      "amount": 9.2
+    },
+    {
+      "description": "Water Quality Improvement Levy",
+      "amount": 4.82
+    },
+    {
+      "description": "Infrastructure Charge",
+      "amount": 11.44
+    },
+    {
+      "description": "Environment Agency Abstraction Licence",
+      "amount": 2.18
+    },
+    {
+      "description": "Hosepipe Ban Adjustment",
+      "amount": 7
+    }
+  ]
 }

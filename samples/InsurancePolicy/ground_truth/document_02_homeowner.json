@@ -1,4 +1,111 @@
 {
   "documentType": "InsurancePolicy",
-  "sourceFile": "document_02_homeowner.pdf"
+  "sourceFile": "document_02_homeowner.pdf",
+  "policyNumber": "HO-2025-88441",
+  "issueDate": "2025-04-14",
+  "effectiveDate": "2025-05-01",
+  "expirationDate": "2026-05-01",
+  "insuranceType": "Homeowner's",
+  "currency": "USD",
+  "annualPremium": 2140,
+  "paymentFrequency": "Annual",
+  "deductible": 1000,
+  "coverageLimit": 380000,
+  "policyStatus": "Active",
+  "insured": {
+    "name": "Patricia Oduya & Devin Oduya",
+    "dateOfBirth": null,
+    "taxId": null,
+    "phone": null,
+    "email": null,
+    "address": {
+      "country": "US",
+      "postalCode": "27612",
+      "municipality": "Raleigh",
+      "street": "2218 Brookside Ln",
+      "raw": "2218 Brookside Ln, Raleigh, NC 27612"
+    }
+  },
+  "insurer": {
+    "name": "Allstate Insurance Company",
+    "taxId": null,
+    "phone": "1-800-255-7828",
+    "address": {
+      "country": "US",
+      "postalCode": "60062",
+      "municipality": "Northbrook",
+      "street": "2775 Sanders Road",
+      "raw": "2775 Sanders Road, Northbrook, IL 60062"
+    }
+  },
+  "insuredObject": {
+    "description": "Single-family home — Frame construction, Owner-Occupied, built 2004",
+    "address": "2218 Brookside Ln, Raleigh, NC 27612",
+    "value": 395000
+  },
+  "coverages": [
+    {
+      "coverageType": "Coverage A — Dwelling",
+      "coverageDescription": "Main structure replacement cost",
+      "limit": 380000,
+      "deductible": 1000,
+      "premium": 1124
+    },
+    {
+      "coverageType": "Coverage B — Other Structures",
+      "coverageDescription": "Detached garage, fences, sheds",
+      "limit": 38000,
+      "deductible": 1000,
+      "premium": 112
+    },
+    {
+      "coverageType": "Coverage C — Personal Property",
+      "coverageDescription": "Household contents, replacement cost",
+      "limit": 190000,
+      "deductible": 1000,
+      "premium": 380
+    },
+    {
+      "coverageType": "Coverage D — Loss of Use",
+      "coverageDescription": "Additional living expenses",
+      "limit": 76000,
+      "deductible": null,
+      "premium": 124
+    },
+    {
+      "coverageType": "Coverage E — Personal Liability",
+      "coverageDescription": "Bodily injury/property damage liability",
+      "limit": 300000,
+      "deductible": null,
+      "premium": 320
+    },
+    {
+      "coverageType": "Coverage F — Medical Payments",
+      "coverageDescription": "Guest medical payments",
+      "limit": 5000,
+      "deductible": null,
+      "premium": 80
+    },
+    {
+      "coverageType": "Water Backup Coverage",
+      "coverageDescription": "Damage from sewer or drain backup",
+      "limit": 10000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverageType": "Identity Theft Restoration",
+      "coverageDescription": "Credit monitoring and identity restoration services",
+      "limit": 25000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverageType": "Electronic Data Recovery",
+      "coverageDescription": "Recovery of lost electronic files",
+      "limit": 10000,
+      "deductible": null,
+      "premium": null
+    }
+  ]
 }

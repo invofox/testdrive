@@ -1,4 +1,61 @@
 {
   "documentType": "LeaseAgreement",
-  "sourceFile": "document_04_retail_unit.pdf"
+  "sourceFile": "document_04_retail_unit.pdf",
+  "leaseNumber": "RT-2024-0056",
+  "leaseType": "Commercial — Retail",
+  "startDate": "2025-02-01",
+  "endDate": "2030-01-31",
+  "leaseTerm": "60 months (5 years)",
+  "renewalOption": "Tenant shall have two (2) options to extend the Lease, each for an additional five (5) year term, at 95% of then-current market rate for comparable Lakeview retail. Each option must be exercised by written notice delivered no later than 180 days prior to lease expiration.",
+  "landlord": {
+    "name": "Chicago Lakeview Properties Trust",
+    "taxId": "36-4920187",
+    "address": {
+      "street": "3120 N. Broadway, Suite 400",
+      "municipality": "Chicago",
+      "postalCode": "60657",
+      "country": "US"
+    },
+    "phone": "(312) 555-0245",
+    "email": "property@lakeviewtrust.com"
+  },
+  "tenant": {
+    "name": "Great Lakes Coffee Roasters LLC",
+    "taxId": "83-0571492",
+    "address": {
+      "street": "1445 W. Diversey Pkwy, Unit 1",
+      "municipality": "Chicago",
+      "postalCode": "60614",
+      "country": "US"
+    },
+    "phone": "(773) 555-0384",
+    "email": "ops@glcoffeeroasters.com"
+  },
+  "property": {
+    "address": {
+      "street": "2850 N. Clark Street",
+      "municipality": "Chicago",
+      "postalCode": "60657",
+      "country": "US"
+    },
+    "unit": "101",
+    "type": "Retail",
+    "squareFootage": 1450,
+    "description": "Street-level retail unit in a mixed-use building in the Lakeview neighborhood of Chicago. Features 22-foot frontage with two display windows, 12-foot ceiling height, exposed brick interior, private restroom, and direct access to basement storage. HVAC system recently replaced (2023). Grease trap and Type I hood installed for food service operations. High pedestrian traffic location near the CTA Brown Line Diversey stop."
+  },
+  "financialTerms": {
+    "monthlyRent": 4200,
+    "currency": "USD",
+    "securityDeposit": 12600,
+    "lastMonthRent": null,
+    "petDeposit": null,
+    "lateFee": 210,
+    "lateFeeGraceDays": 5,
+    "paymentDueDay": 1,
+    "paymentMethod": "ACH bank transfer"
+  },
+  "utilities": "Landlord provides (included in rent): Water, sewer, trash. Tenant responsibility: Electricity (ComEd), gas (Peoples Energy), internet, telephone, janitorial services, grease trap maintenance.",
+  "petsAllowed": "No — Commercial retail space; no live animals except as part of approved business operations with written consent.",
+  "signatureDate": "2024-12-18",
+  "governingLaw": "State of Illinois"
 }

@@ -1,4 +1,121 @@
 {
   "documentType": "CreditReport",
-  "sourceFile": "document_02_good_credit.pdf"
+  "sourceFile": "document_02_good_credit.pdf",
+  "reportNumber": "EXP-2025-7741882",
+  "reportDate": "2025-03-28",
+  "creditBureau": "Experian",
+  "ficoScore": 712,
+  "equifaxScore": null,
+  "experianScore": null,
+  "transunionScore": null,
+  "reportType": "Individual",
+  "totalAccounts": 6,
+  "openAccounts": 5,
+  "closedAccounts": 1,
+  "delinquentAccounts": 1,
+  "collectionAccounts": 0,
+  "totalBalances": 58420,
+  "totalCreditLimit": 97500,
+  "creditUtilization": 28,
+  "inquiryCount": 3,
+  "oldestAccountAge": "FedFirst Student Lending (Aug 2008) — 16 yrs 7 mos",
+  "averageAccountAge": "6 years 2 months",
+  "subject": {
+    "fullName": "Robert L. Castillo",
+    "ssn": "***-**-7741",
+    "dateOfBirth": "1985-11-30",
+    "currentAddress": "2210 Oak Ave, Dallas, TX 75201",
+    "previousAddress": "881 Cypress Lane, Fort Worth, TX 76101",
+    "employer": "Lone Star Engineering Solutions"
+  },
+  "publicRecords": {
+    "hasBankruptcy": "No",
+    "bankruptcyType": null,
+    "bankruptcyDate": null,
+    "hasForeclosure": "No",
+    "hasJudgment": "No",
+    "hasTaxLien": "No",
+    "totalPublicRecords": 0
+  },
+  "paymentHistory": {
+    "onTimePayments": 203,
+    "latePayments30": 1,
+    "latePayments60": 0,
+    "latePayments90plus": 0,
+    "totalPayments": 204
+  },
+  "accounts": [
+    {
+      "creditorName": "DFW Auto Finance Center",
+      "accountType": "Auto Loan",
+      "accountNumber": "****2209",
+      "openDate": "2022-10-01",
+      "balance": 18400,
+      "creditLimit": null,
+      "monthlyPayment": 485,
+      "paymentStatus": "Current",
+      "paymentHistory": "All payments on time",
+      "creditBureau": "Experian"
+    },
+    {
+      "creditorName": "Capital Crest Visa",
+      "accountType": "Credit Card",
+      "accountNumber": "****8810",
+      "openDate": "2017-05-01",
+      "balance": 6200,
+      "creditLimit": 15000,
+      "monthlyPayment": 248,
+      "paymentStatus": "Current",
+      "paymentHistory": "All payments on time",
+      "creditBureau": "Experian"
+    },
+    {
+      "creditorName": "Texan Rewards Mastercard",
+      "accountType": "Credit Card",
+      "accountNumber": "****4471",
+      "openDate": "2019-01-01",
+      "balance": 9820,
+      "creditLimit": 20000,
+      "monthlyPayment": 393,
+      "paymentStatus": "Current",
+      "paymentHistory": "All payments on time",
+      "creditBureau": "Experian"
+    },
+    {
+      "creditorName": "Sunridge Cashback Card",
+      "accountType": "Credit Card",
+      "accountNumber": "****6622",
+      "openDate": "2020-03-01",
+      "balance": 4000,
+      "creditLimit": 12500,
+      "monthlyPayment": 160,
+      "paymentStatus": "30 Days Late",
+      "paymentHistory": "One 30-day late in March 2023, otherwise current",
+      "creditBureau": "Experian"
+    },
+    {
+      "creditorName": "FedFirst Student Lending",
+      "accountType": "Student Loan",
+      "accountNumber": "****3390",
+      "openDate": "2008-08-01",
+      "balance": 14300,
+      "creditLimit": null,
+      "monthlyPayment": 195,
+      "paymentStatus": "Current",
+      "paymentHistory": "All payments on time",
+      "creditBureau": "Experian"
+    },
+    {
+      "creditorName": "Meridian Personal Finance",
+      "accountType": "Personal Loan",
+      "accountNumber": "****9901",
+      "openDate": "2024-06-01",
+      "balance": 5700,
+      "creditLimit": null,
+      "monthlyPayment": 285,
+      "paymentStatus": "Current",
+      "paymentHistory": "All payments on time",
+      "creditBureau": "Experian"
+    }
+  ]
 }

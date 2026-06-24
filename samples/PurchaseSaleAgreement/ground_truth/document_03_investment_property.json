@@ -1,4 +1,75 @@
 {
   "documentType": "PurchaseSaleAgreement",
-  "sourceFile": "document_03_investment_property.pdf"
+  "sourceFile": "document_03_investment_property.pdf",
+  "agreementDate": "2024-05-22",
+  "status": "Executed",
+  "buyer": {
+    "name": "Cascade Peak Investments LLC",
+    "address": {
+      "street": "1700 Lincoln Street, Suite 2100",
+      "municipality": "Denver",
+      "postalCode": "80203",
+      "country": "US"
+    },
+    "phone": "(720) 555-0308",
+    "email": "acquisitions@cascadepeak.com"
+  },
+  "seller": {
+    "name": "Harold W. and Donna J. Steinberg",
+    "address": {
+      "street": "2418 Josephine Street",
+      "municipality": "Denver",
+      "postalCode": "80205",
+      "country": "US"
+    },
+    "phone": "(303) 555-0241",
+    "email": "hwsteinberg@comcast.net"
+  },
+  "property": {
+    "address": {
+      "street": "4215 Perry Street",
+      "municipality": "Denver",
+      "postalCode": "80212",
+      "country": "US"
+    },
+    "legalDescription": "The South 37 feet of Lot 12, all of Lot 13, Block 7, Berkeley Park Addition, Denver County, Colorado; as recorded in Book 502, Page 211, Denver County Clerk and Recorder.",
+    "apn": "2301-31-019",
+    "propertyType": "Multi-Family"
+  },
+  "purchasePrice": 590000,
+  "currency": "USD",
+  "earnestMoney": 11800,
+  "earnestMoneyDueDate": "2024-05-27",
+  "earnestMoneyHolder": "Colorado Title Solutions",
+  "financingContingency": {
+    "enabled": "No",
+    "loanAmount": null,
+    "loanType": "Cash",
+    "interestRate": null,
+    "deadline": null
+  },
+  "inspectionContingency": {
+    "enabled": "No",
+    "deadline": null
+  },
+  "appraisalContingency": {
+    "enabled": "No",
+    "deadline": null
+  },
+  "closingDate": "2024-06-28",
+  "possessionDate": "2024-06-28",
+  "titleCompany": "Colorado Title Solutions",
+  "buyerAgent": {
+    "name": "Derek A. Morrison",
+    "licenseNumber": "CO-100059324",
+    "brokerageName": "Kentwood Real Estate"
+  },
+  "sellerAgent": {
+    "name": "Rachel L. Whitfield",
+    "licenseNumber": "CO-100041872",
+    "brokerageName": "RE/MAX Alliance"
+  },
+  "includedItems": "All permanently installed fixtures, existing appliances in each unit (refrigerators, ranges, dishwashers), garage door opener, all exterior storage structures, existing tenant leases, and all security deposits held by Seller (to be credited to Buyer at closing).",
+  "excludedItems": "Seller's personal tools and equipment stored in the basement utility room, and the ornamental iron gate in the side yard.",
+  "governingLaw": "State of Colorado"
 }

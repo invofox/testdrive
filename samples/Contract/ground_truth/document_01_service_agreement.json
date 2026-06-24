@@ -1,4 +1,41 @@
 {
   "documentType": "Contract",
-  "sourceFile": "document_01_service_agreement.pdf"
+  "sourceFile": "document_01_service_agreement.pdf",
+  "contractNumber": "MSA-2025-0441",
+  "contractTitle": "Service Agreement",
+  "contractType": "Service Agreement",
+  "effectiveDate": "2025-04-01",
+  "expiryDate": "2026-03-31",
+  "signatureDate": "2025-04-01",
+  "currency": "USD",
+  "totalValue": 102000,
+  "paymentTerms": "Net 30",
+  "governingLaw": "State of Illinois",
+  "jurisdiction": "Cook County, Illinois",
+  "party1": {
+    "name": "BlueSky Analytics LLC",
+    "role": "Client",
+    "taxId": null,
+    "address": {
+      "country": "US",
+      "postalCode": "80202",
+      "municipality": "Denver",
+      "street": "1450 Wynkoop Street, Suite 300"
+    },
+    "signatoryName": "Jonathan R. Whitfield",
+    "signatoryTitle": "Chief Executive Officer"
+  },
+  "party2": {
+    "name": "Meridian Consulting Partners LLC",
+    "role": "Service Provider",
+    "taxId": null,
+    "address": {
+      "country": "US",
+      "postalCode": "60606",
+      "municipality": "Chicago",
+      "street": "200 South Wacker Drive, Suite 1500"
+    },
+    "signatoryName": "Patricia K. Oloroso",
+    "signatoryTitle": "Managing Partner"
+  }
 }

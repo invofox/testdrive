@@ -1,4 +1,40 @@
 {
   "documentType": "CreditNote",
-  "sourceFile": "document_01_saas_refund.pdf"
+  "sourceFile": "document_01_saas_refund.pdf",
+  "documentNumber": "CN-2025-0041",
+  "issueDate": "2025-03-14",
+  "originalInvoiceRef": "INV-2025-0019",
+  "reason": "Partial refund for unused subscription months (February–March 2025). Customer downgraded plan mid-cycle; credit issued per Service Agreement §7.2.",
+  "currency": "USD",
+  "totalAmount": -1200,
+  "totalTaxBaseAmount": -1200,
+  "totalTaxAmount": 0,
+  "supplier": {
+    "name": "Nexus Cloud Solutions Inc",
+    "taxId": "84-2071345",
+    "address": {
+      "country": "US",
+      "postalCode": "80202",
+      "municipality": "Denver",
+      "street": "1455 Market Street, Suite 800"
+    }
+  },
+  "customer": {
+    "name": "Brightfield Media LLC",
+    "taxId": "47-8831209",
+    "address": {
+      "country": "US",
+      "postalCode": "02109",
+      "municipality": "Boston",
+      "street": "200 State Street, 12th Floor"
+    }
+  },
+  "lines": [
+    {
+      "description": "Nexus Pro Plan — Unused months (Feb–Mar 2025)",
+      "quantity": 2,
+      "unitPrice": -600,
+      "amount": -1200
+    }
+  ]
 }

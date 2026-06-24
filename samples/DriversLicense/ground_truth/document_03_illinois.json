@@ -1,4 +1,28 @@
 {
   "documentType": "DriversLicense",
-  "sourceFile": "document_03_illinois.pdf"
+  "sourceFile": "document_03_illinois.pdf",
+  "licenseNumber": "D841-9204-8442",
+  "issuingCountry": "US",
+  "issuingState": "IL",
+  "issuingAuthority": "Illinois SOS",
+  "issueDate": "2022-11-03",
+  "expiryDate": "2026-12-04",
+  "lastName": "KOWALSKI",
+  "firstName": "BRIAN",
+  "middleName": "SCOTT",
+  "dateOfBirth": "1977-12-04",
+  "sex": "M",
+  "height": "6-01",
+  "eyeColor": "BLU",
+  "hairColor": "BRN",
+  "vehicleCategories": "D",
+  "restrictions": "NONE",
+  "endorsements": null,
+  "address": {
+    "raw": "7730 N Lincoln Ave, Chicago, IL 60645",
+    "country": "US",
+    "postalCode": "60645",
+    "municipality": "Chicago",
+    "street": "7730 N Lincoln Ave"
+  }
 }

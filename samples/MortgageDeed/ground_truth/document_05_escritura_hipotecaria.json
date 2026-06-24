@@ -1,4 +1,57 @@
 {
-  "documentType": "MortgageDeed",
-  "sourceFile": "document_05_escritura_hipotecaria.pdf"
+  "documentType": "Escritura Hipotecaria",
+  "sourceFile": "document_05_escritura_hipotecaria.pdf",
+  "recordingDate": "2025-02-25",
+  "recordingInfo": {
+    "book": "4821",
+    "page": "134",
+    "instrumentNumber": "412/2025",
+    "county": "Madrid",
+    "state": "Madrid"
+  },
+  "executionDate": "2025-02-20",
+  "loanAmount": 285000,
+  "interestRate": 3.75,
+  "maturityDate": "2055-03-01",
+  "borrower": {
+    "name": "JOSÉ MANUEL GARCÍA FERNÁNDEZ",
+    "type": "Individual",
+    "address": {
+      "street": "Calle Mayor 45, 3.º Izquierda",
+      "municipality": "Madrid",
+      "postalCode": "28013",
+      "country": "ES"
+    }
+  },
+  "lender": {
+    "name": "BANCO SANTANDER, S.A.",
+    "address": {
+      "street": "Paseo de Pereda 9-12",
+      "municipality": "Santander",
+      "postalCode": "39004",
+      "country": "ES"
+    }
+  },
+  "trustee": {
+    "name": null,
+    "address": {
+      "street": null,
+      "municipality": null,
+      "postalCode": null,
+      "country": null
+    }
+  },
+  "propertyAddress": {
+    "street": "Calle Mayor 45, 3.º Izquierda",
+    "municipality": "Madrid",
+    "postalCode": "28013",
+    "country": "ES"
+  },
+  "legalDescription": "Urbana. Piso vivienda situado en la planta tercera, letra izquierda, del edificio sito en Calle Mayor número cuarenta y cinco de Madrid. Superficie construida total de 104,50 m² y superficie útil de 89,20 m². Inscrita en el Registro de la Propiedad de Madrid número 1, al Tomo 4.821, Libro 312, Folio 134, Finca registral número 24.871, Inscripción 3.ª.",
+  "apn": "24.871",
+  "notary": {
+    "name": "Francisco Ruiz López",
+    "commissionExpiry": null,
+    "county": "Madrid"
+  }
 }

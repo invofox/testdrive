@@ -1,4 +1,75 @@
 {
   "documentType": "PurchaseSaleAgreement",
-  "sourceFile": "document_05_contrato_compraventa.pdf"
+  "sourceFile": "document_05_contrato_compraventa.pdf",
+  "agreementDate": "2024-03-15",
+  "status": "Executed",
+  "buyer": {
+    "name": "Alejandro Torres Méndez",
+    "address": {
+      "street": "Calle Còrsega, 298, 4.º 2.ª",
+      "municipality": "Barcelona",
+      "postalCode": "08008",
+      "country": "ES"
+    },
+    "phone": "+34 93 555 0124",
+    "email": "alejandro.torres@outlook.com"
+  },
+  "seller": {
+    "name": "Inmobiliaria Passeig de Gràcia S.L.",
+    "address": {
+      "street": "Passeig de Gràcia, 43, pral.",
+      "municipality": "Barcelona",
+      "postalCode": "08007",
+      "country": "ES"
+    },
+    "phone": "+34 93 555 0380",
+    "email": "ventas@passeiggracia-inmo.com"
+  },
+  "property": {
+    "address": {
+      "street": "Carrer de Provença, 218, 2.º 1.ª",
+      "municipality": "Barcelona",
+      "postalCode": "08008",
+      "country": "ES"
+    },
+    "legalDescription": "Piso segundo primera del edificio sito en la calle Provença número 218 de Barcelona, inscrito en el Registro de la Propiedad número 3 de Barcelona, Tomo 4821, Libro 382, Folio 145, Finca registral n.º 28.417.",
+    "apn": "8410405DF3881A0001WZ",
+    "propertyType": "Single Family"
+  },
+  "purchasePrice": 385000,
+  "currency": "EUR",
+  "earnestMoney": 38500,
+  "earnestMoneyDueDate": "2024-03-15",
+  "earnestMoneyHolder": null,
+  "financingContingency": {
+    "enabled": "Yes",
+    "loanAmount": 269500,
+    "loanType": "Conventional",
+    "interestRate": 3.1,
+    "deadline": "2024-04-30"
+  },
+  "inspectionContingency": {
+    "enabled": "Yes",
+    "deadline": "2024-03-31"
+  },
+  "appraisalContingency": {
+    "enabled": "Yes",
+    "deadline": "2024-04-10"
+  },
+  "closingDate": "2024-05-15",
+  "possessionDate": "2024-05-15",
+  "titleCompany": "Notaría de D. Carlos Puigdomènech i Bosch, Notario de Barcelona",
+  "buyerAgent": {
+    "name": null,
+    "licenseNumber": null,
+    "brokerageName": null
+  },
+  "sellerAgent": {
+    "name": "Laura Giménez Puig",
+    "licenseNumber": "AICAT-4892",
+    "brokerageName": "Passeig de Gràcia Inmobiliaria S.L."
+  },
+  "includedItems": "Toda la cocina equipada (frigorifico, horno, microondas, lavavajillas), armarios empotrados de los dormitorios, instalaciones de luz empotradas, calefacción central y sistema de aire acondicionado instalado.",
+  "excludedItems": "Todos los bienes muebles del Vendedor (sofás, mesas, camas, cuadros y objetos decorativos) y el espejo de pared del recibidor.",
+  "governingLaw": "Derecho español — Cataluña"
 }

@@ -1,4 +1,92 @@
 {
   "documentType": "PurchaseOrder",
-  "sourceFile": "document_03_tech_hardware.pdf"
+  "sourceFile": "document_03_tech_hardware.pdf",
+  "poNumber": "PO #LSD-2025-1192",
+  "issueDate": "2025-04-22",
+  "deliveryDate": "2025-05-30",
+  "currency": "USD",
+  "totalAmount": 127800,
+  "paymentTerms": "Net 60 (Government)",
+  "deliveryTerms": null,
+  "notes": "All laptops must be pre-imaged with Lakewood SD Standard Image v4.2 (provided via USB drive — request from IT dept.). Asset tags to be affixed before delivery. Equipment is for school-year 2025–2026 deployment across 12 campuses. Vendor must provide packing manifest per campus. This order is placed under Colorado CMAS contract 4-17-70-2847B. All items must be TAA-compliant.",
+  "buyer": {
+    "name": "Lakewood School District",
+    "taxId": "84-6000152",
+    "contactName": "Sandra Whitfield",
+    "email": "s.whitfield@lakewoodsd.k12.co.us",
+    "address": {
+      "country": "US",
+      "postalCode": "80223",
+      "municipality": "Denver",
+      "street": "1300 West Louisiana Avenue",
+      "raw": "1300 West Louisiana Avenue, Denver, CO 80223, US"
+    }
+  },
+  "supplier": {
+    "name": "CDW Government LLC",
+    "taxId": "36-4518062",
+    "contactName": "Michael Torres",
+    "email": "m.torres@cdwg.com",
+    "address": {
+      "country": "US",
+      "postalCode": "60061",
+      "municipality": "Vernon Hills",
+      "street": "230 N. Milwaukee Ave.",
+      "raw": "230 N. Milwaukee Ave., Vernon Hills, IL 60061, US"
+    }
+  },
+  "deliveryAddress": {
+    "country": "US",
+    "postalCode": "80033",
+    "municipality": "Wheat Ridge",
+    "street": "4800 Kipling Street",
+    "raw": "Lakewood School District — Technology Services Warehouse, 4800 Kipling Street, Wheat Ridge, CO 80033, United States"
+  },
+  "lines": [
+    {
+      "lineNumber": "1",
+      "partNumber": "CDW-4421867",
+      "description": "Lenovo ThinkPad L14 Gen 5 — Education Bundle — AMD Ryzen 5 7530U, 16GB DDR5, 512GB SSD, 14\" FHD IPS, Win 11 Pro EDU, 3-yr depot warranty",
+      "quantity": 200,
+      "unitOfMeasure": "EA",
+      "unitPrice": 589,
+      "totalAmount": 117800
+    },
+    {
+      "lineNumber": "2",
+      "partNumber": "CDW-7830221",
+      "description": "Lenovo USB-C Docking Station — ThinkPad Compatible — 2×USB-A 3.2, 1×USB-C, HDMI 2.0, DisplayPort, GbE, 90W PD, model 40AS0090US",
+      "quantity": 200,
+      "unitOfMeasure": "EA",
+      "unitPrice": 89,
+      "totalAmount": 17800
+    },
+    {
+      "lineNumber": "3",
+      "partNumber": "CDW-2290145",
+      "description": "Kensington Laptop Backpack 15.6\" — Padded laptop compartment, TSA-friendly, USB-A charging port, black, K62617WW",
+      "quantity": 200,
+      "unitOfMeasure": "EA",
+      "unitPrice": 45,
+      "totalAmount": 9000
+    },
+    {
+      "lineNumber": "4",
+      "partNumber": "CDW-5512009",
+      "description": "Asset Management & Deployment Services — Imaging, BIOS config, asset tagging, pre-deployment testing — per-unit service, 200 units",
+      "quantity": 200,
+      "unitOfMeasure": "EA",
+      "unitPrice": 16,
+      "totalAmount": 3200
+    },
+    {
+      "lineNumber": "5",
+      "partNumber": "CDW-8840033",
+      "description": "Extended Accidental Damage Protection — 4-Year — Covers drops, spills, and electrical damage, on-site service, Lenovo Education bundle",
+      "quantity": 200,
+      "unitOfMeasure": "EA",
+      "unitPrice": 0,
+      "totalAmount": 0
+    }
+  ]
 }

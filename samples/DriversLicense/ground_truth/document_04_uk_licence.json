@@ -1,4 +1,28 @@
 {
   "documentType": "DriversLicense",
-  "sourceFile": "document_04_uk_licence.pdf"
+  "sourceFile": "document_04_uk_licence.pdf",
+  "licenseNumber": "MORRI804122JA9AB",
+  "issuingCountry": "GB",
+  "issuingState": null,
+  "issuingAuthority": "DVLA Swansea",
+  "issueDate": "2022-04-20",
+  "expiryDate": "2032-08-12",
+  "lastName": "MORRIS",
+  "firstName": "JESSICA",
+  "middleName": "ANN",
+  "dateOfBirth": "1980-08-12",
+  "sex": null,
+  "height": null,
+  "eyeColor": null,
+  "hairColor": null,
+  "vehicleCategories": "B, BE",
+  "restrictions": null,
+  "endorsements": null,
+  "address": {
+    "raw": "14 Oak Lane, Sheffield, S10 3LL",
+    "country": "GB",
+    "postalCode": "S10 3LL",
+    "municipality": "Sheffield",
+    "street": "14 Oak Lane"
+  }
 }

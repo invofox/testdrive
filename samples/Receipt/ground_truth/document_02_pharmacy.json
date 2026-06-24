@@ -1,4 +1,51 @@
 {
   "documentType": "Receipt",
-  "sourceFile": "document_02_pharmacy.pdf"
+  "sourceFile": "document_02_pharmacy.pdf",
+  "receiptNumber": "WG-4821-20241203-8814",
+  "issueDate": "2024-12-03",
+  "issueTime": "14:15",
+  "currency": "USD",
+  "subtotalAmount": 67.23,
+  "taxAmount": 0,
+  "taxRate": null,
+  "tipAmount": null,
+  "totalAmount": 67.23,
+  "paymentMethod": "Credit Card",
+  "merchant": {
+    "name": "Walgreens",
+    "phoneNumber": "(312) 787-4410",
+    "address": {
+      "country": "US",
+      "postalCode": "60611",
+      "municipality": "Chicago",
+      "street": "1200 N. Michigan Avenue",
+      "raw": "1200 N. Michigan Avenue, Chicago, IL 60611"
+    }
+  },
+  "items": [
+    {
+      "description": "Lisinopril 10mg #90",
+      "quantity": 1,
+      "unitPrice": 15,
+      "totalAmount": 15
+    },
+    {
+      "description": "Metformin 500mg #60",
+      "quantity": 1,
+      "unitPrice": 10,
+      "totalAmount": 10
+    },
+    {
+      "description": "Zyrtec Allergy 10mg 45ct",
+      "quantity": 1,
+      "unitPrice": 29.99,
+      "totalAmount": 29.99
+    },
+    {
+      "description": "CVS Band-Aid Variety 80ct",
+      "quantity": 1,
+      "unitPrice": 12.24,
+      "totalAmount": 12.24
+    }
+  ]
 }

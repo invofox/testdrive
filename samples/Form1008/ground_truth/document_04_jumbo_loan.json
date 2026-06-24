@@ -1,4 +1,49 @@
 {
   "documentType": "Form1008",
-  "sourceFile": "document_04_jumbo_loan.pdf"
+  "sourceFile": "document_04_jumbo_loan.pdf",
+  "submissionDate": "2024-11-04",
+  "loanNumber": "JPMP-2024-JBO-00187",
+  "lenderName": "JP Morgan Private Bank",
+  "lenderAddress": {
+    "street": "2200 Ross Avenue, Suite 4800",
+    "municipality": "Dallas, TX",
+    "postalCode": "75201",
+    "country": "US"
+  },
+  "loanType": "Conventional",
+  "loanPurpose": "Purchase",
+  "loanAmount": 900000,
+  "interestRate": 7.125,
+  "loanTerm": 360,
+  "amortizationType": "Fixed Rate",
+  "ltv": 75,
+  "cltv": 75,
+  "propertyAddress": {
+    "street": "4201 Highland Park Blvd",
+    "municipality": "Dallas, TX",
+    "postalCode": "75205",
+    "country": "US"
+  },
+  "propertyType": "Single Family Detached",
+  "occupancy": "Primary Residence",
+  "appraisedValue": 1200000,
+  "salesPrice": 1200000,
+  "borrower": {
+    "name": "Robert Blackwood",
+    "monthlyIncome": 42500,
+    "monthlyHousingExpense": 7318,
+    "totalMonthlyDebt": 13600,
+    "housingRatio": 17.2,
+    "totalDebtRatio": 32,
+    "liquidAssets": 2480000,
+    "creditScore": 790
+  },
+  "coBorrower": {
+    "name": "Catherine Blackwood",
+    "monthlyIncome": 18250
+  },
+  "underwritingDecision": "Approved",
+  "underwriterName": "Thomas R. Bradley",
+  "underwritingDate": "2024-11-04",
+  "conditions": []
 }

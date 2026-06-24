@@ -1,4 +1,87 @@
 {
   "documentType": "LoanApplication",
-  "sourceFile": "document_03_va_veteran.pdf"
+  "sourceFile": "document_03_va_veteran.pdf",
+  "loanAmount": 680000,
+  "loanPurpose": "Purchase",
+  "loanType": "VA",
+  "interestRateType": "Fixed",
+  "loanTerm": "30 Year",
+  "applicationDate": "2024-09-20",
+  "amortizationType": "Fixed Rate",
+  "property": {
+    "address": "4401 Ocean View Dr",
+    "city": "San Diego",
+    "state": "CA",
+    "zipCode": "92103",
+    "estimatedValue": 680000,
+    "propertyType": "Single Family",
+    "propertyUse": "Primary Residence"
+  },
+  "borrower": {
+    "fullName": "Jessica L. Ramirez",
+    "ssn": "***-**-6054",
+    "dateOfBirth": "1990-02-28",
+    "maritalStatus": "Single",
+    "dependents": 1,
+    "phone": "(619) 555-3382",
+    "email": "jessica.ramirez@email.com",
+    "yearsAtCurrentAddress": 3,
+    "currentAddress": {
+      "raw": "7221 Balboa Ave, Apt 210, San Diego, CA 92111",
+      "country": "US",
+      "postalCode": "92111",
+      "municipality": "San Diego",
+      "street": "7221 Balboa Ave, Apt 210"
+    }
+  },
+  "coborrower": {
+    "fullName": null,
+    "ssn": null,
+    "dateOfBirth": null,
+    "maritalStatus": null,
+    "phone": null,
+    "email": null
+  },
+  "employment": {
+    "employerName": "Northrop Grumman Corporation",
+    "employerAddress": "9314 Balboa Ave, San Diego, CA 92123",
+    "position": "Systems Engineer III",
+    "startDate": "2019-09-03",
+    "yearsEmployed": 5,
+    "isSelfEmployed": "No",
+    "monthlyBaseSalary": 9400,
+    "monthlyOvertimeIncome": 0,
+    "monthlyBonusIncome": 580,
+    "monthlyOtherIncome": 1100,
+    "totalMonthlyIncome": 11080
+  },
+  "coborrowerEmployment": {
+    "employerName": null,
+    "position": null,
+    "monthlyBaseSalary": null,
+    "totalMonthlyIncome": null
+  },
+  "assets": {
+    "checkingBalance": 18400,
+    "savingsBalance": 52000,
+    "retirementBalance": 94000,
+    "otherAssetsValue": 8500,
+    "totalAssets": 172900
+  },
+  "liabilities": {
+    "monthlyRentMortgage": 1850,
+    "monthlyCarPayments": 420,
+    "monthlyMinCreditCard": 125,
+    "monthlyStudentLoans": 0,
+    "monthlyOtherDebts": 0,
+    "totalMonthlyDebt": 2395,
+    "totalLiabilities": 18700
+  },
+  "declarations": {
+    "hasBankruptcy": "No",
+    "hasForeclosure": "No",
+    "hasLawsuit": "No",
+    "hasDelinquentDebt": "No",
+    "isUSCitizen": "Yes"
+  }
 }

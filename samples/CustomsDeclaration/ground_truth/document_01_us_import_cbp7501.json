@@ -1,4 +1,101 @@
 {
   "documentType": "CustomsDeclaration",
-  "sourceFile": "document_01_us_import_cbp7501.pdf"
+  "sourceFile": "document_01_us_import_cbp7501.pdf",
+  "declarationType": "Import",
+  "declarationNumber": "HLS-2025-3847291",
+  "declarationDate": "2025-04-22",
+  "entryType": "01 — Formal Consumption Entry",
+  "portOfEntry": "2704 — Los Angeles, CA",
+  "portOfLading": "CNSZN — Yantian, Shenzhen",
+  "countryOfOrigin": "CN",
+  "countryOfExport": "CN",
+  "countryOfDestination": "US",
+  "importer": {
+    "name": "Pacific Electronics Distributors, Inc.",
+    "taxId": "95-3847201",
+    "address": {
+      "street": "8500 Commerce Drive, Suite 200",
+      "municipality": "City of Industry",
+      "postalCode": "91748",
+      "country": "US"
+    }
+  },
+  "exporter": {
+    "name": "Shenzhen Elecpro Technology Co., Ltd.",
+    "taxId": "91440300MA5GEHLL2N",
+    "address": {
+      "street": "Building B, Longhua Science Park, Longhua District",
+      "municipality": "Shenzhen",
+      "postalCode": "518109",
+      "country": "CN"
+    }
+  },
+  "carrier": "COSCO EXCELLENCE",
+  "vesselFlightNumber": "COSCO EXCELLENCE / V.0124E",
+  "billOfLadingNumber": "COSCO25041800234",
+  "incoterms": "FOB",
+  "currency": "USD",
+  "totalDeclaredValue": 187450,
+  "freightCost": 6200,
+  "insuranceCost": null,
+  "cifValue": 193650,
+  "dutiableValue": null,
+  "totalDuties": 3546.5,
+  "totalTaxes": 965.7,
+  "lineItems": [
+    {
+      "lineNumber": 1,
+      "description": "Smartphones — Android, 6.1\" AMOLED, 128GB, 5G Capable (Model: EP-X12 PRO)",
+      "hsCode": "8517.13.0050",
+      "quantity": 500,
+      "unit": "EA",
+      "weight": 185,
+      "unitValue": null,
+      "totalValue": 98000,
+      "dutyRate": 0,
+      "dutyAmount": 0,
+      "countryOfOrigin": "CN"
+    },
+    {
+      "lineNumber": 2,
+      "description": "Wireless Earbuds, True Wireless Stereo, BT 5.3 with Charging Case (Model: EP-BUDS-X)",
+      "hsCode": "8518.30.2000",
+      "quantity": 1200,
+      "unit": "EA",
+      "weight": 96,
+      "unitValue": null,
+      "totalValue": 43200,
+      "dutyRate": 4.9,
+      "dutyAmount": 2116.8,
+      "countryOfOrigin": "CN"
+    },
+    {
+      "lineNumber": 3,
+      "description": "Portable Power Banks, 20,000mAh, USB-C PD 65W (Model: EP-PWR-65)",
+      "hsCode": "8507.60.0020",
+      "quantity": 800,
+      "unit": "EA",
+      "weight": 360,
+      "unitValue": null,
+      "totalValue": 28400,
+      "dutyRate": 3.4,
+      "dutyAmount": 965.6,
+      "countryOfOrigin": "CN"
+    },
+    {
+      "lineNumber": 4,
+      "description": "USB-C to USB-C Cables, 2M, 100W Fast Charge (Pack of 10)",
+      "hsCode": "8544.42.9000",
+      "quantity": 600,
+      "unit": "PK",
+      "weight": 54,
+      "unitValue": null,
+      "totalValue": 17850,
+      "dutyRate": 2.6,
+      "dutyAmount": 464.1,
+      "countryOfOrigin": "CN"
+    }
+  ],
+  "brokerName": "Global Trade Customs Brokers, LLC",
+  "brokerLicenseNumber": "CHB-44821"
 }

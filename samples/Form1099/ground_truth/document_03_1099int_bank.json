@@ -1,4 +1,35 @@
 {
   "documentType": "Form1099",
-  "sourceFile": "document_03_1099int_bank.pdf"
+  "sourceFile": "document_03_1099int_bank.pdf",
+  "formVariant": "INT",
+  "taxYear": 2024,
+  "corrected": null,
+  "payerName": "First National Bank of Ohio",
+  "payerTIN": "34-0592817",
+  "payerAddress": {
+    "street": "One Financial Center, P.O. Box 7500",
+    "municipality": "Columbus, OH",
+    "postalCode": "43215",
+    "country": "US"
+  },
+  "payerPhone": "(614) 555-0101",
+  "recipientName": "Claudia M. Espinoza",
+  "recipientTIN": "•••-••-3318",
+  "recipientAddress": {
+    "street": "930 Hilltop Drive, Apt 7F",
+    "municipality": "Columbus, OH",
+    "postalCode": "43201",
+    "country": "US"
+  },
+  "accountNumber": "SAV-****8847",
+  "box1Amount": 1842.5,
+  "box2Amount": null,
+  "box3Amount": null,
+  "box4FederalTax": 0,
+  "box5Amount": null,
+  "box6Amount": null,
+  "stateCode": "OH",
+  "statePayerTIN": "3405928170",
+  "stateIncome": 1842.5,
+  "stateTax": 0
 }

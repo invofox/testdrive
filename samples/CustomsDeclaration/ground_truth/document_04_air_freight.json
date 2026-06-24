@@ -1,4 +1,88 @@
 {
   "documentType": "CustomsDeclaration",
-  "sourceFile": "document_04_air_freight.pdf"
+  "sourceFile": "document_04_air_freight.pdf",
+  "declarationType": "Import",
+  "declarationNumber": "ORD-AIR-2025-0041882",
+  "declarationDate": "2025-07-15",
+  "entryType": "11 — Informal Entry",
+  "portOfEntry": "3901 — Chicago O'Hare (ORD)",
+  "portOfLading": "FRA — Frankfurt, Germany",
+  "countryOfOrigin": "DE",
+  "countryOfExport": "DE",
+  "countryOfDestination": "US",
+  "importer": {
+    "name": "Midwest Medical Research Institute, LLC",
+    "taxId": "36-4829130",
+    "address": {
+      "street": "680 North Lake Shore Drive, Suite 1200",
+      "municipality": "Chicago",
+      "postalCode": "60611",
+      "country": "US"
+    }
+  },
+  "exporter": {
+    "name": "Bayer AG — Pharmaceutical Division",
+    "taxId": "DE120345043000",
+    "address": {
+      "street": "Alfred-Nobel-Straße 2",
+      "municipality": "Monheim am Rhein",
+      "postalCode": "40789",
+      "country": "DE"
+    }
+  },
+  "carrier": "Lufthansa Cargo",
+  "vesselFlightNumber": "LH 436",
+  "billOfLadingNumber": "020-44821-0033",
+  "incoterms": "DDP",
+  "currency": "EUR",
+  "totalDeclaredValue": 4875,
+  "freightCost": null,
+  "insuranceCost": null,
+  "cifValue": null,
+  "dutiableValue": null,
+  "totalDuties": 0,
+  "totalTaxes": null,
+  "lineItems": [
+    {
+      "lineNumber": 1,
+      "description": "Aspirin 500mg Tablets — Research Grade Samples (Ref: BAY-ASP-500-RS)",
+      "hsCode": "3004.90.9225",
+      "quantity": 50,
+      "unit": "Blister Pk",
+      "weight": 5.2,
+      "unitValue": 12.5,
+      "totalValue": 625,
+      "dutyRate": 0,
+      "dutyAmount": 0,
+      "countryOfOrigin": "DE"
+    },
+    {
+      "lineNumber": 2,
+      "description": "Xarelto 20mg Film-Coated Tablets — Clinical Trial Samples (IMP Ref: CLT-2025-XAR)",
+      "hsCode": "3004.90.9225",
+      "quantity": 30,
+      "unit": "Blister Pk",
+      "weight": 3.9,
+      "unitValue": 85,
+      "totalValue": 2550,
+      "dutyRate": 0,
+      "dutyAmount": 0,
+      "countryOfOrigin": "DE"
+    },
+    {
+      "lineNumber": 3,
+      "description": "Eylea 40mg/mL Solution — Ophthalmic Research Sample Vials (Ref: BAY-EYL-40)",
+      "hsCode": "3004.90.9225",
+      "quantity": 20,
+      "unit": "Vials",
+      "weight": 4.8,
+      "unitValue": 85,
+      "totalValue": 1700,
+      "dutyRate": 0,
+      "dutyAmount": 0,
+      "countryOfOrigin": "DE"
+    }
+  ],
+  "brokerName": "O'Hare Customs & Freight Services",
+  "brokerLicenseNumber": "CHB-21934"
 }

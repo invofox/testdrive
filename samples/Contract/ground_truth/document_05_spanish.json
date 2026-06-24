@@ -1,4 +1,41 @@
 {
   "documentType": "Contract",
-  "sourceFile": "document_05_spanish.pdf"
+  "sourceFile": "document_05_spanish.pdf",
+  "contractNumber": "GEN-SVC-2025-0203",
+  "contractTitle": "Contrato de Prestación de Servicios",
+  "contractType": "Service Agreement",
+  "effectiveDate": "2025-04-10",
+  "expiryDate": "2026-04-09",
+  "signatureDate": "2025-04-10",
+  "currency": "EUR",
+  "totalValue": 50400,
+  "paymentTerms": "30 días desde la fecha de factura",
+  "governingLaw": "Legislación española",
+  "jurisdiction": "Juzgados y Tribunales de Madrid",
+  "party1": {
+    "name": "Grupo Empresarial Navarro, S.A.",
+    "role": "Cliente",
+    "taxId": "A-46178230",
+    "address": {
+      "country": "ES",
+      "postalCode": "46023",
+      "municipality": "Valencia",
+      "street": "Avenida del Puerto, 42, 2.ª planta"
+    },
+    "signatoryName": "Alejandro Navarro Ruiz",
+    "signatoryTitle": "Director General"
+  },
+  "party2": {
+    "name": "Soluciones IT Integradas, S.L.",
+    "role": "Proveedor",
+    "taxId": "B-78542310",
+    "address": {
+      "country": "ES",
+      "postalCode": "28006",
+      "municipality": "Madrid",
+      "street": "Calle de Serrano, 97, Oficina 4B"
+    },
+    "signatoryName": "Carmen Estévez Molina",
+    "signatoryTitle": "Directora Ejecutiva"
+  }
 }

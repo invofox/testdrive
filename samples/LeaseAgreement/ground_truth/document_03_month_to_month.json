@@ -1,4 +1,61 @@
 {
   "documentType": "LeaseAgreement",
-  "sourceFile": "document_03_month_to_month.pdf"
+  "sourceFile": "document_03_month_to_month.pdf",
+  "leaseNumber": "MTM-2024-0822",
+  "leaseType": "Residential — Month-to-Month",
+  "startDate": "2024-03-01",
+  "endDate": null,
+  "leaseTerm": "Month-to-month",
+  "renewalOption": "Automatically renews each month. No separate renewal action is required.",
+  "landlord": {
+    "name": "Theodore M. Abramowitz",
+    "taxId": "93-2081447",
+    "address": {
+      "street": "4520 SW Macadam Avenue",
+      "municipality": "Portland",
+      "postalCode": "97239",
+      "country": "US"
+    },
+    "phone": "(503) 555-0173",
+    "email": "ted@abramowitzrentals.com"
+  },
+  "tenant": {
+    "name": "Amelia J. Thornton",
+    "taxId": "***-**-7634",
+    "address": {
+      "street": "1220 NW 23rd Ave, Apt 8",
+      "municipality": "Portland",
+      "postalCode": "97210",
+      "country": "US"
+    },
+    "phone": "(503) 555-0298",
+    "email": "amelia.thornton@outlook.com"
+  },
+  "property": {
+    "address": {
+      "street": "3318 SE Division Street",
+      "municipality": "Portland",
+      "postalCode": "97202",
+      "country": "US"
+    },
+    "unit": "Unit 2",
+    "type": "Apartment",
+    "squareFootage": 780,
+    "description": "One-bedroom, one-bathroom upper-floor unit in a well-maintained residential duplex. Hardwood floors throughout. Includes private covered porch, one off-street parking space, and shared backyard. Gas range, refrigerator, and dishwasher included. No in-unit washer/dryer (coin-operated laundromat on premises)."
+  },
+  "financialTerms": {
+    "monthlyRent": 1650,
+    "currency": "USD",
+    "securityDeposit": 1650,
+    "lastMonthRent": 0,
+    "petDeposit": null,
+    "lateFee": 50,
+    "lateFeeGraceDays": 7,
+    "paymentDueDay": 1,
+    "paymentMethod": "Personal check or Zelle transfer"
+  },
+  "utilities": "Included in rent: Water, sewer, garbage collection, landscaping of shared areas. Tenant's responsibility: Gas (PGE account), electricity (Pacific Power), renter's insurance, internet.",
+  "petsAllowed": "Yes — Up to two (2) small pets (under 25 lbs each) permitted with a refundable pet deposit of $300.00 per animal.",
+  "signatureDate": "2024-02-22",
+  "governingLaw": "State of Oregon (ORS Chapter 90)"
 }

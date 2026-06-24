@@ -1,4 +1,18 @@
 {
   "documentType": "Passport",
-  "sourceFile": "document_03_spanish_passport.pdf"
+  "sourceFile": "document_03_spanish_passport.pdf",
+  "documentNumber": "AAB448291",
+  "issuingCountry": "ES",
+  "issuingAuthority": "Policía Nacional",
+  "issueDate": "2023-03-12",
+  "expiryDate": "2033-03-11",
+  "surname": "RODRÍGUEZ CALVO",
+  "givenNames": "CARLOS ANTONIO",
+  "dateOfBirth": "1975-07-30",
+  "placeOfBirth": "MADRID, ESP",
+  "nationality": "ESPAÑOLA / SPANISH",
+  "sex": "M",
+  "personalNumber": null,
+  "mrzLine1": "P<ESPRODRIGUEZ<CALVO<<CARLOS<ANTONIO<<<<<<<<<<<<",
+  "mrzLine2": "AAB448291<1ESP7507302M3303118<<<<<<<<<<<<<<4"
 }
