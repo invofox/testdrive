@@ -1,0 +1,18 @@
+# Normalize line endings for text files; treat binaries as binary so Git
+# never rewrites bytes (which would corrupt PDFs/images across platforms).
+
+# Default: let Git decide, but always check out text with LF.
+* text=auto eol=lf
+
+# Text assets — explicit LF, no CRLF surprises on Windows checkouts.
+*.json text eol=lf
+*.md   text eol=lf
+
+# Binary assets — never diff, never touch the bytes.
+*.pdf  binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.tif  binary
+*.tiff binary
+*.webp binary

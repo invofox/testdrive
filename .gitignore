@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editors / IDEs
+.idea/
+.vscode/
+*.swp
+*~
+
+# Python (future SDK harness)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Node (future SDK harness)
+node_modules/
