@@ -1,0 +1,62 @@
+{
+  "documentType": "PropertyDeed",
+  "sourceFile": "document_01_california_grant_deed.pdf",
+  "grantor": [
+    {
+      "name": "Margaret A. Chen",
+      "address": "1428 Larkspur Lane, Pasadena, CA 91103",
+      "capacity": "an unmarried woman",
+      "maritalStatus": "unmarried"
+    }
+  ],
+  "grantee": [
+    {
+      "name": "David R. Alvarez",
+      "address": "1428 Larkspur Lane, Pasadena, CA 91103",
+      "vestingType": "joint tenants with right of survivorship"
+    },
+    {
+      "name": "Sofia L. Alvarez",
+      "address": "1428 Larkspur Lane, Pasadena, CA 91103",
+      "vestingType": "joint tenants with right of survivorship"
+    }
+  ],
+  "legalDescription": "Lot 47 of Tract No. 12894, in the City of Pasadena, County of Los Angeles, State of California, as per Map recorded in Book 254, Pages 18 and 19 of Maps, in the Office of the County Recorder of said County. EXCEPTING THEREFROM all oil, gas, minerals and other hydrocarbon substances lying below a depth of 500 feet, without the right of surface entry, as reserved in prior deeds of record.",
+  "parcelNumber": "5729-014-032",
+  "propertyAddress": {
+    "street": "1428 Larkspur Lane",
+    "city": "Pasadena",
+    "state": "CA",
+    "zip": "91103"
+  },
+  "consideration": 875000,
+  "considerationText": "EIGHT HUNDRED SEVENTY-FIVE THOUSAND AND 00/100 DOLLARS ($875,000.00)",
+  "deedType": "grant",
+  "conveyanceClause": "FOR A VALUABLE CONSIDERATION, receipt of which is hereby acknowledged, being the sum of EIGHT HUNDRED SEVENTY-FIVE THOUSAND AND 00/100 DOLLARS ($875,000.00), Margaret A. Chen, an unmarried woman, does hereby GRANT to David R. Alvarez and Sofia L. Alvarez, husband and wife, as joint tenants with right of survivorship, all that real property situated in the City of Pasadena, County of Los Angeles, State of California.",
+  "encumbrances": [],
+  "recordingInfo": {
+    "county": "Los Angeles",
+    "state": "CA",
+    "book": null,
+    "page": null,
+    "instrumentNumber": "20240315-0456789",
+    "recordingDate": "2024-03-15"
+  },
+  "executionDate": "2024-03-12",
+  "signatures": [
+    {
+      "name": "Margaret A. Chen",
+      "capacity": "Grantor"
+    }
+  ],
+  "notaryAcknowledgment": {
+    "notaryName": "Patricia J. Rowland",
+    "commissionExpiration": "2026-09-14",
+    "commissionNumber": "2287451",
+    "jurisdiction": "State of California, County of Los Angeles",
+    "acknowledgmentDate": "2024-03-12"
+  },
+  "witnesses": [],
+  "preparedBy": "First American Title Insurance Company, 520 N. Central Avenue, Glendale, CA 91203",
+  "returnTo": "David R. Alvarez & Sofia L. Alvarez, 1428 Larkspur Lane, Pasadena, CA 91103"
+}

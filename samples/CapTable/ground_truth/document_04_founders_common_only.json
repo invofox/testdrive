@@ -1,0 +1,45 @@
+{
+  "documentType": "CapTable",
+  "sourceFile": "document_04_founders_common_only.pdf",
+  "companyName": "Bluepeak Software, Inc.",
+  "asOfDate": "2025-05-01",
+  "totalSharesOutstanding": 10000000,
+  "totalFullyDilutedShares": 10000000,
+  "optionPool": null,
+  "holders": [
+    {
+      "shareholderName": "James Bluepeak",
+      "securityType": "common_stock",
+      "shareClass": "Common",
+      "numberOfShares": 5000000,
+      "ownershipPercentage": 50,
+      "fullyDilutedPercentage": 50,
+      "pricePerShare": 0.0001,
+      "exercisePrice": null,
+      "investmentAmount": 500,
+      "issueDate": "2025-04-15",
+      "vestingStartDate": "2025-04-15",
+      "vestingCliffMonths": 12,
+      "vestingDurationMonths": 48,
+      "liquidationPreference": null,
+      "round": "Founder"
+    },
+    {
+      "shareholderName": "Wei Chen",
+      "securityType": "common_stock",
+      "shareClass": "Common",
+      "numberOfShares": 5000000,
+      "ownershipPercentage": 50,
+      "fullyDilutedPercentage": 50,
+      "pricePerShare": 0.0001,
+      "exercisePrice": null,
+      "investmentAmount": 500,
+      "issueDate": "2025-04-15",
+      "vestingStartDate": "2025-04-15",
+      "vestingCliffMonths": 12,
+      "vestingDurationMonths": 48,
+      "liquidationPreference": null,
+      "round": "Founder"
+    }
+  ]
+}
