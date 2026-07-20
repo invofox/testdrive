@@ -1,0 +1,64 @@
+{
+  "documentType": "PropertyDeed",
+  "sourceFile": "document_03_florida_quitclaim_deed.pdf",
+  "grantor": [
+    {
+      "name": "Michael A. Braddock",
+      "address": "4417 Sundance Trail, Oviedo, FL 32765",
+      "capacity": "a single man",
+      "maritalStatus": "single"
+    }
+  ],
+  "grantee": [
+    {
+      "name": "Jennifer L. Braddock",
+      "address": "812 Magnolia Bend Court, Winter Park, FL 32789",
+      "vestingType": null
+    }
+  ],
+  "legalDescription": "Lot 9, Block B, LAKESIDE ESTATES, according to the plat thereof as recorded in Plat Book 34, Page 71, of the Public Records of Orange County, Florida. Being the same property commonly known as 812 Magnolia Bend Court, Winter Park, Florida 32789. Parcel ID: 30-22-31-4928-02-090.",
+  "parcelNumber": "30-22-31-4928-02-090",
+  "propertyAddress": {
+    "street": "812 Magnolia Bend Court",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789"
+  },
+  "consideration": 10,
+  "considerationText": "Ten Dollars ($10.00) and other good and valuable consideration",
+  "deedType": "quitclaim",
+  "conveyanceClause": "does hereby remise, release, and quitclaim unto the said Grantee forever, all of the right, title, interest, claim and demand which the said Grantor has in and to the following described lot, piece or parcel of land, situate, lying and being in the County of Orange, State of Florida.",
+  "encumbrances": [],
+  "recordingInfo": {
+    "county": "Orange",
+    "state": "FL",
+    "book": "6521",
+    "page": "1834",
+    "instrumentNumber": "20240389215",
+    "recordingDate": "2024-06-25"
+  },
+  "executionDate": "2024-06-20",
+  "signatures": [
+    {
+      "name": "Michael A. Braddock",
+      "capacity": "Grantor"
+    }
+  ],
+  "notaryAcknowledgment": {
+    "notaryName": "Rebecca A. Lindqvist",
+    "commissionExpiration": "2027-01-30",
+    "commissionNumber": "GG 998234",
+    "jurisdiction": "State of Florida, County of Orange",
+    "acknowledgmentDate": "2024-06-20"
+  },
+  "witnesses": [
+    {
+      "name": "Karen P. Sullivan"
+    },
+    {
+      "name": "Daniel R. Ortiz"
+    }
+  ],
+  "preparedBy": "Whitmore & Associates, P.A., 200 E. Robinson Street, Suite 1150, Orlando, FL 32801",
+  "returnTo": "Jennifer L. Braddock, 812 Magnolia Bend Court, Winter Park, FL 32789"
+}

@@ -1,0 +1,83 @@
+{
+  "documentType": "PropertyDeed",
+  "sourceFile": "document_02_texas_warranty_deed.pdf",
+  "grantor": [
+    {
+      "name": "Robert J. Whitfield",
+      "address": "3705 Pecan Grove Drive, Austin, TX 78749",
+      "capacity": "husband and wife",
+      "maritalStatus": "married"
+    },
+    {
+      "name": "Karen S. Whitfield",
+      "address": "3705 Pecan Grove Drive, Austin, TX 78749",
+      "capacity": "husband and wife",
+      "maritalStatus": "married"
+    }
+  ],
+  "grantee": [
+    {
+      "name": "Thomas E. Nguyen",
+      "address": "3705 Pecan Grove Drive, Austin, TX 78749",
+      "vestingType": "husband and wife"
+    },
+    {
+      "name": "Linh T. Nguyen",
+      "address": "3705 Pecan Grove Drive, Austin, TX 78749",
+      "vestingType": "husband and wife"
+    }
+  ],
+  "legalDescription": "Lot Fourteen (14), Block C, of PECAN GROVE SECTION THREE, a subdivision in Travis County, Texas, according to the map or plat thereof recorded in Volume 98, Page 233, of the Plat Records of Travis County, Texas; together with all improvements thereon, being commonly known as 3705 Pecan Grove Drive, Austin, Texas 78749. Travis Central Appraisal District Property ID No. R045123.",
+  "parcelNumber": "R045123",
+  "propertyAddress": {
+    "street": "3705 Pecan Grove Drive",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78749"
+  },
+  "consideration": 540000,
+  "considerationText": "FIVE HUNDRED FORTY THOUSAND AND NO/100 DOLLARS ($540,000.00) cash in hand paid, and other good and valuable consideration",
+  "deedType": "warranty",
+  "conveyanceClause": "have GRANTED, SOLD AND CONVEYED, and by these presents do GRANT, SELL AND CONVEY unto Thomas E. Nguyen and Linh T. Nguyen, husband and wife, all of the following described real property in Travis County, Texas.",
+  "encumbrances": [
+    {
+      "type": "deed_of_trust",
+      "description": "That certain Deed of Trust dated May 3, 2019, executed by Robert J. Whitfield and Karen S. Whitfield to First Texas Bank, recorded under Document No. 2019067432 of the Official Public Records of Travis County, Texas, to which this conveyance is expressly made subject.",
+      "amount": 312000
+    },
+    {
+      "type": "easement",
+      "description": "A public utility easement ten (10) feet in width along the rear (northerly) property line in favor of Austin Energy, as shown on the recorded plat.",
+      "amount": null
+    }
+  ],
+  "recordingInfo": {
+    "county": "Travis",
+    "state": "TX",
+    "book": null,
+    "page": null,
+    "instrumentNumber": "2023189045",
+    "recordingDate": "2023-11-13"
+  },
+  "executionDate": "2023-11-08",
+  "signatures": [
+    {
+      "name": "Robert J. Whitfield",
+      "capacity": "Grantor"
+    },
+    {
+      "name": "Karen S. Whitfield",
+      "capacity": "Grantor"
+    }
+  ],
+  "notaryAcknowledgment": {
+    "notaryName": "Sandra M. Delgado",
+    "commissionExpiration": "2025-07-22",
+    "commissionNumber": "132558-9",
+    "jurisdiction": "State of Texas, County of Travis",
+    "acknowledgmentDate": "2023-11-08"
+  },
+  "witnesses": [],
+  "preparedBy": "Law Office of Gregory Hahn, PLLC, 901 Congress Avenue, Suite 640, Austin, TX 78701",
+  "returnTo": "Thomas E. Nguyen & Linh T. Nguyen, 3705 Pecan Grove Drive, Austin, TX 78749"
+}

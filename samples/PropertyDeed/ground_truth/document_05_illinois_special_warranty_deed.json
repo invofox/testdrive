@@ -1,0 +1,78 @@
+{
+  "documentType": "PropertyDeed",
+  "sourceFile": "document_05_illinois_special_warranty_deed.pdf",
+  "grantor": [
+    {
+      "name": "Marcus T. Reilly",
+      "address": "77 West Wacker Drive, Suite 1900, Chicago, IL 60601",
+      "capacity": "an unmarried man, as to an undivided one-half (1/2) interest, as tenant in common",
+      "maritalStatus": "unmarried"
+    },
+    {
+      "name": "Ellen R. Vance, as Trustee of the Vance Family Trust dated March 15, 2012",
+      "address": "77 West Wacker Drive, Suite 1900, Chicago, IL 60601",
+      "capacity": "Trustee, as to an undivided one-half (1/2) interest, as tenant in common",
+      "maritalStatus": null
+    }
+  ],
+  "grantee": [
+    {
+      "name": "Prairie State Logistics, Inc.",
+      "address": "2200 South Ashland Industrial Parkway, Chicago, IL 60608",
+      "vestingType": null
+    }
+  ],
+  "legalDescription": "LOT 7 IN BLOCK 3 IN THE SUBDIVISION OF THE SOUTHWEST QUARTER OF SECTION 30, TOWNSHIP 39 NORTH, RANGE 14 EAST OF THE THIRD PRINCIPAL MERIDIAN, IN COOK COUNTY, ILLINOIS; together with all buildings and improvements thereon, commonly known as 2200 South Ashland Industrial Parkway, Chicago, Illinois 60608. Permanent Index Number (PIN): 17-30-301-014-0000.",
+  "parcelNumber": "17-30-301-014-0000",
+  "propertyAddress": {
+    "street": "2200 South Ashland Industrial Parkway",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60608"
+  },
+  "consideration": 1650000,
+  "considerationText": "ONE MILLION SIX HUNDRED FIFTY THOUSAND AND 00/100 DOLLARS ($1,650,000.00) and other good and valuable consideration",
+  "deedType": "special_warranty",
+  "conveyanceClause": "does hereby GRANT, BARGAIN, SELL AND CONVEY unto the Grantee, its successors and assigns forever, the following described real estate situated in the County of Cook and State of Illinois.",
+  "encumbrances": [
+    {
+      "type": "tax_lien",
+      "description": "A recorded tax lien in favor of the Cook County Collector for delinquent general real estate taxes assessed against PIN 17-30-301-014-0000 for the 2023 tax year, recorded as Document No. 2411203344, together with real estate taxes for 2024 and subsequent years not yet due and payable.",
+      "amount": 18742.16
+    },
+    {
+      "type": "right_of_way",
+      "description": "A perpetual right-of-way and easement in favor of Commonwealth Edison Company for the installation, operation and maintenance of overhead and underground electrical transmission lines along the westerly twenty (20) feet of the premises, recorded as Document No. 0512345678.",
+      "amount": null
+    }
+  ],
+  "recordingInfo": {
+    "county": "Cook",
+    "state": "IL",
+    "book": null,
+    "page": null,
+    "instrumentNumber": "2434915082",
+    "recordingDate": "2024-09-11"
+  },
+  "executionDate": "2024-09-05",
+  "signatures": [
+    {
+      "name": "Marcus T. Reilly",
+      "capacity": "Grantor, as tenant in common"
+    },
+    {
+      "name": "Ellen R. Vance",
+      "capacity": "Trustee of the Vance Family Trust dated March 15, 2012, Grantor"
+    }
+  ],
+  "notaryAcknowledgment": {
+    "notaryName": "Deborah K. Mancini",
+    "commissionExpiration": "2028-03-19",
+    "commissionNumber": "987654",
+    "jurisdiction": "State of Illinois, County of Cook",
+    "acknowledgmentDate": "2024-09-05"
+  },
+  "witnesses": [],
+  "preparedBy": "Steinberg & Marsh, Ltd., 120 North LaSalle Street, Suite 2200, Chicago, IL 60602",
+  "returnTo": "Prairie State Logistics, Inc., 2200 South Ashland Industrial Parkway, Chicago, IL 60608"
+}
